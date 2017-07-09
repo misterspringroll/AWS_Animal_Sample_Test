@@ -1,0 +1,9696 @@
+1
+What does a lion look like?
+"furry, mane, big, cat."
+what
+6
+4
+lion
+2
+Is a lion yellow?
+"furry, mane, big, cat."
+be
+6
+4
+lion
+3
+Is a lion big?
+"furry, mane, big, cat."
+be
+6
+4
+lion
+4
+How furry is a lion?
+"furry, mane, big, cat."
+how
+6
+4
+lion
+5
+Are lions cats?
+"furry, mane, big, cat."
+be
+6
+4
+lion
+6
+How does a lion roar?
+"yes, when it roars."
+how
+5
+1
+lion
+7
+Is a lion loud?
+"yes, when it roars."
+be
+4
+1
+lion
+8
+Is a lion soft?
+"yes, when it roars."
+be
+4
+1
+lion
+9
+Is a lion's roar scary?
+"yes, when it roars."
+be
+5
+1
+lion
+10
+Do lions roar a lot?
+"yes, when it roars."
+do
+5
+1
+lion
+11
+Does a lion have babies
+"baby lions are called cubs."
+do
+5
+5
+lion
+12
+What are baby lions
+"baby lions are called cubs."
+what
+4
+5
+lion
+13
+What are little lions
+"baby lions are called cubs."
+what
+4
+5
+lion
+14
+What is a baby lion called 
+"baby lions are called cubs."
+what
+6
+5
+lion
+15
+Do lions give birth
+"baby lions are called cubs."
+do
+4
+5
+lion
+16
+Why are lions furry
+"lions have fur."
+why
+4
+3
+lion
+17
+Why do lions have hair?
+"lions have fur."
+why
+5
+3
+lion
+18
+Are lions soft? 
+"lions have fur."
+be
+3
+3
+lion
+19
+What do lions feel like? 
+"lions have fur."
+what
+5
+3
+lion
+20
+What is the skin of a lion?
+"lions have fur."
+what
+7
+3
+lion
+21
+Where do lions live
+"lions live in Africa and other continents such as asisa ."
+where
+4
+10
+lion
+22
+Do lions live in Africa
+"lions live in Africa and other continents such as asisa ."
+do
+5
+10
+lion
+23
+Do lions live in Asia
+"lions live in Africa and other continents such as asisa ."
+do
+5
+10
+lion
+24
+Do lions live in the jungle
+"lions live in Africa and other continents such as asisa ."
+do
+6
+10
+lion
+25
+Do liones come from the safari
+"lions live in Africa and other continents such as asisa ."
+do
+6
+10
+lion
+26
+What do lions eat?
+"yes lions are carnivorous."
+what
+4
+4
+lion
+27
+Do they eat meat
+"yes lions are carnivorous."
+do
+4
+4
+Default
+28
+Do they eat grass
+"yes lions are carnivorous."
+do
+4
+4
+Default
+29
+Do they eat other lions
+"yes lions are carnivorous."
+do
+5
+4
+lion
+30
+Do lions eat humans
+"yes lions are carnivorous."
+do
+4
+4
+lion
+31
+How do lions play
+"lions can scratch when you aggress them, they also like to scratch trees."
+how
+4
+7
+lion
+32
+Do they scratch?
+"lions can scratch when you aggress them, they also like to scratch trees."
+do
+3
+7
+Default
+33
+Do they wrestle?
+"lions can scratch when you aggress them, they also like to scratch trees."
+do
+3
+7
+Default
+34
+Do they bite?
+"lions can scratch when you aggress them, they also like to scratch trees."
+do
+3
+7
+Default
+35
+Do they chase each other?
+"lions can scratch when you aggress them, they also like to scratch trees."
+do
+5
+7
+Default
+36
+Where do lions sleep
+"yes, lions are nocturnal."
+where
+4
+1
+lion
+37
+Do they sleep at night?
+"yes, lions are nocturnal."
+do
+5
+1
+Default
+38
+Do they take naps?
+"yes, lions are nocturnal."
+do
+4
+1
+Default
+39
+Do they sleep in the day?
+"yes, lions are nocturnal."
+do
+6
+1
+Default
+40
+How tired does a lion get?
+"yes, lions are nocturnal."
+how
+6
+1
+lion
+41
+When do lions sleep
+"yes lions sleep at night."
+when
+4
+5
+lion
+42
+Do they sleep at night?
+"yes lions sleep at night."
+do
+5
+5
+Default
+43
+Do they sleep in the day?
+"yes lions sleep at night."
+do
+6
+5
+Default
+44
+How often do they sleep?
+"yes lions sleep at night."
+how
+5
+5
+Default
+45
+How many hours of sleep does a lion get?
+"yes lions sleep at night."
+how
+9
+5
+lion
+46
+How fast is a lion?
+"lions are not faster than cheetas."
+how
+5
+6
+lion
+47
+Is a lion faster than a cheetah?
+"lions are not faster than cheetas."
+be
+7
+6
+lion
+48
+Is a lion faster than a tiger?
+"lions are not faster than cheetas."
+be
+7
+6
+lion
+49
+Is a lion faster than a human?
+"lions are not faster than cheetas."
+be
+7
+6
+lion
+50
+Is a lion faster than a car?
+"lions are not faster than cheetas."
+be
+7
+6
+lion
+51
+How heavy is a lion?
+"a male lion is 420 pounds. a bus is 33,000 pounds. a lion weight 79 times less heavy than a bus."
+how
+5
+22
+lion
+52
+How many times less heavier is a lion compared to a bus?
+"a male lion is 420 pounds. a bus is 33,000 pounds. a lion weight 79 times less heavy than a bus."
+how
+12
+22
+lion
+53
+How many times heavier is a lion?
+"a male lion is 420 pounds. a bus is 33,000 pounds. a lion weight 79 times less heavy than a bus."
+how
+7
+22
+lion
+54
+Does a lion weigh 200 pounds?
+"a male lion is 420 pounds. a bus is 33,000 pounds. a lion weight 79 times less heavy than a bus."
+do
+6
+22
+lion
+55
+Does a lion weigh less than an elephant?
+"a male lion is 420 pounds. a bus is 33,000 pounds. a lion weight 79 times less heavy than a bus."
+do
+8
+22
+lion
+56
+Where do lions come from?
+"yes lions come from the cat family and are in fact very closely related to tigers!."
+where
+5
+16
+lion
+57
+Do lions come from cats?
+"yes lions come from the cat family and are in fact very closely related to tigers!."
+do
+5
+16
+lion
+58
+Do lions come from tigers?
+"yes lions come from the cat family and are in fact very closely related to tigers!."
+do
+5
+16
+lion
+59
+Do lions come from Africa?
+"yes lions come from the cat family and are in fact very closely related to tigers!."
+do
+5
+16
+lion
+60
+Do lions come from the savannah?
+"yes lions come from the cat family and are in fact very closely related to tigers!."
+do
+6
+16
+lion
+61
+How do lions speak?
+"they don't communicate like humans but they roar."
+how
+4
+8
+lion
+62
+Do lions speak?
+"they don't communicate like humans but they roar."
+do
+3
+8
+lion
+63
+What does a roar mean?
+"they don't communicate like humans but they roar."
+what
+5
+8
+Default
+64
+Does a lion roar when it is mad?
+"they don't communicate like humans but they roar."
+when
+8
+8
+lion
+65
+Do lions have a language?
+"they don't communicate like humans but they roar."
+do
+5
+8
+lion
+66
+What eats lions?
+"no, humans do not eat lions."
+what
+3
+1
+lion
+67
+Do humans eat lions?
+"no, humans do not eat lions."
+do
+4
+1
+lion
+68
+Do rhinoceros eat lions?
+"no, humans do not eat lions."
+do
+4
+1
+lion
+69
+Do lions have predators?
+"no, humans do not eat lions."
+do
+4
+1
+lion
+70
+Do lions never get eaten?
+"no, humans do not eat lions."
+do
+5
+1
+lion
+71
+Who hunts lions?
+"yes, sadly humans hunt lions, but it's illegal in certain places now."
+Default
+3
+1
+lion
+72
+Do humans hunt lions?
+"yes, sadly humans hunt lions, but it's illegal in certain places now."
+do
+4
+1
+lion
+73
+Do poachers hunt lions?
+"yes, sadly humans hunt lions, but it's illegal in certain places now."
+do
+4
+1
+lion
+74
+Why do humans hunt lions?
+"yes, sadly humans hunt lions, but it's illegal in certain places now."
+why
+5
+1
+lion
+75
+Why do we kill lions?
+"yes, sadly humans hunt lions, but it's illegal in certain places now."
+why
+5
+1
+lion
+76
+How long does a lion live?
+"10-14 years."
+how
+6
+2
+lion
+77
+What is the lifespan of a lion?
+"10-14 years."
+what
+7
+2
+lion
+78
+How old can a lion be?
+"10-14 years."
+how
+6
+2
+lion
+79
+Can a lion live longer than human?
+"10-14 years."
+Default
+7
+2
+lion
+80
+What is lion's age in human years?
+"10-14 years."
+what
+7
+2
+lion
+81
+How endangered is a lion?
+"yes, by humans but no other animal hunts them for food."
+how
+5
+1
+lion
+82
+Are lions hunted?
+"yes, by humans but no other animal hunts them for food."
+be
+3
+1
+lion
+83
+Are lions extinct?
+"yes, by humans but no other animal hunts them for food."
+be
+3
+1
+lion
+84
+Are lions dying?
+"yes, by humans but no other animal hunts them for food."
+be
+3
+1
+lion
+85
+How many lions are there in there world?
+"yes, by humans but no other animal hunts them for food."
+how
+8
+1
+lion
+86
+What is a mane?
+"the mane."
+what
+4
+2
+Default
+87
+How many teeth does a lion have?
+"adult lion canines are 10 cm long. human canines are 1.5 cm long."
+how
+7
+13
+lion
+88
+How big are lion's teeth?
+"adult lion canines are 10 cm long. human canines are 1.5 cm long."
+how
+5
+13
+lion
+89
+Can lions hurt when they bite?
+"adult lion canines are 10 cm long. human canines are 1.5 cm long."
+when
+6
+13
+lion
+90
+Do lions bite?
+"adult lion canines are 10 cm long. human canines are 1.5 cm long."
+do
+3
+13
+lion
+91
+Are a lion's teeth sharp?
+"adult lion canines are 10 cm long. human canines are 1.5 cm long."
+be
+5
+13
+lion
+92
+What is a lioness?
+"lioness."
+what
+4
+1
+lion
+93
+What is a girl lion?
+"lioness."
+what
+5
+1
+lion
+94
+What is a female lion?
+"lioness."
+what
+5
+1
+lion
+95
+Do lions fall in love?
+"lioness."
+do
+5
+1
+lion
+96
+Are there different genders for lions?
+"lioness."
+be
+6
+1
+lion
+97
+What is a cub?
+"cub."
+what
+4
+1
+Default
+98
+What is a baby lion?
+"cub."
+what
+5
+1
+lion
+99
+What lion makes a baby lion?
+"cub."
+what
+6
+1
+lion
+100
+What is a little lion?
+"cub."
+what
+5
+1
+lion
+101
+Do lions give birth?
+"cub."
+do
+4
+1
+lion
+102
+How long does a lion sleep?
+"up to 20 hours."
+how
+6
+4
+lion
+103
+How many hours does lion need for sleep?
+"up to 20 hours."
+how
+8
+4
+lion
+104
+What is the average hours that lions sleep?
+"up to 20 hours."
+what
+8
+4
+lion
+105
+Why do lions sleep?
+"up to 20 hours."
+why
+4
+4
+lion
+106
+How does a lion sleep?
+"up to 20 hours."
+how
+5
+4
+lion
+107
+How many types of lions?
+"yes, african lion white lion, mountain lion."
+how
+5
+1
+lion
+108
+Are there different species of lions?
+"yes, african lion white lion, mountain lion."
+be
+6
+1
+lion
+109
+Are lions just blonde?
+"yes, african lion white lion, mountain lion."
+be
+4
+1
+lion
+110
+Are there brown lions?
+"yes, african lion white lion, mountain lion."
+be
+4
+1
+lion
+111
+Do lions come from one place?
+"yes, african lion white lion, mountain lion."
+do
+6
+1
+lion
+112
+What is the most common lion?
+"small number in africa and asia ."
+what
+6
+6
+lion
+113
+Are African lions the most common?
+"small number in africa and asia ."
+be
+6
+6
+lion
+114
+Are there lions in California?
+"small number in africa and asia ."
+be
+5
+6
+lion
+115
+How many mountain lions are there?
+"small number in africa and asia ."
+how
+6
+6
+lion
+116
+Do lions live in Asia?
+"small number in africa and asia ."
+do
+5
+6
+lion
+117
+What is a group of lions?
+"a group of lions or a family of lions."
+what
+6
+9
+lion
+118
+What is pride?
+"a group of lions or a family of lions."
+what
+3
+9
+Default
+119
+Are lions tribal?
+"a group of lions or a family of lions."
+be
+3
+9
+lion
+120
+Do lions live in groups?
+"a group of lions or a family of lions."
+do
+5
+9
+lion
+121
+Do lions live alone?
+"a group of lions or a family of lions."
+do
+4
+9
+lion
+122
+What is a pride?
+"yes lions are the most social of big cats ."
+what
+4
+9
+Default
+123
+Are lions social?
+"yes lions are the most social of big cats ."
+be
+3
+9
+lion
+124
+Do lions talk to each other?
+"yes lions are the most social of big cats ."
+do
+6
+9
+lion
+125
+Do lions have family?
+"yes lions are the most social of big cats ."
+do
+4
+9
+lion
+126
+How many families do lions have?
+"yes lions are the most social of big cats ."
+how
+6
+9
+lion
+127
+How does a lion walk?
+"four legs  ."
+how
+5
+2
+lion
+128
+How many legs does a lion have?
+"four legs  ."
+how
+7
+2
+lion
+129
+Do lions have claws?
+"four legs  ."
+do
+4
+2
+lion
+130
+How big are a lion's claws
+"four legs  ."
+how
+6
+2
+lion
+131
+Can lions jump
+"four legs  ."
+Default
+3
+2
+lion
+132
+Do lions swim?
+"lions can swim but they dont love water like tigers."
+do
+3
+10
+lion
+133
+Do lions like water?
+"lions can swim but they dont love water like tigers."
+do
+4
+10
+lion
+134
+Can they breathe under water 
+"lions can swim but they dont love water like tigers."
+Default
+5
+10
+Default
+135
+Do lions live near the ocean
+"lions can swim but they dont love water like tigers."
+do
+6
+10
+lion
+136
+Do lion live near lakes?
+"lions can swim but they dont love water like tigers."
+do
+5
+10
+lion
+137
+Do all lions have a mane?
+"manes are biological traits for male lions just as bears or mustaches are traits for human males."
+do
+6
+17
+lion
+138
+Why does a lioness not have a mane?
+"manes are biological traits for male lions just as bears or mustaches are traits for human males."
+why
+8
+17
+lion
+139
+How hairy are lions?
+"manes are biological traits for male lions just as bears or mustaches are traits for human males."
+how
+4
+17
+lion
+140
+Are cubs born with a mane?
+"manes are biological traits for male lions just as bears or mustaches are traits for human males."
+be
+6
+17
+Default
+141
+Why do some lions have hair and others don't?
+"manes are biological traits for male lions just as bears or mustaches are traits for human males."
+why
+9
+17
+lion
+142
+How big is a lioness?
+"278 pounds. almost half as less as a male lion."
+how
+5
+10
+lion
+143
+How much does a female lion weigh?
+"279 pounds. almost half as less as a male lion."
+how
+7
+10
+lion
+144
+How much lighter is a female lion compared to a male lion?
+"280 pounds. almost half as less as a male lion."
+how
+12
+10
+lion
+145
+How big can a female weigh?
+"281 pounds. almost half as less as a male lion."
+how
+6
+10
+Default
+146
+How big is a cub?
+"large cat."
+how
+5
+2
+Default
+147
+How small is a cub?
+"large cat."
+how
+5
+2
+Default
+148
+Are cubs smaller than the dad lion?
+"large cat."
+be
+7
+2
+lion
+149
+Are cubs smaller than the mom lion?
+"large cat."
+be
+7
+2
+lion
+150
+Are cubs the size of a cat?
+"large cat."
+be
+7
+2
+Default
+151
+How tall is a lion?
+"3.9 feet."
+how
+5
+2
+lion
+152
+How big is a lion?
+"3.9 feet."
+how
+5
+2
+lion
+153
+Is a lion taller than me?
+"3.9 feet."
+be
+6
+2
+lion
+154
+Is a lion taller than my mom and dad?
+"3.9 feet."
+be
+9
+2
+lion
+155
+Is a lion 3 feet tall?
+"3.9 feet."
+be
+6
+2
+lion
+156
+How long is a lion?
+"3.9 feet."
+how
+5
+2
+lion
+157
+How tall is a lion?
+"3.9 feet."
+how
+5
+2
+lion
+158
+Is a lion longer than a cheetah?
+"3.9 feet."
+be
+7
+2
+lion
+159
+Are lions longer than the tallest man?
+"3.9 feet."
+be
+7
+2
+lion
+160
+Are lions longer than a small car?
+"3.9 feet."
+be
+7
+2
+lion
+161
+Do lions purr?
+"yes."
+do
+3
+1
+lion
+162
+How do lions speak?
+"yes."
+how
+4
+1
+lion
+163
+What noises do lions make?
+"yes."
+what
+5
+1
+lion
+164
+"If a lion purrs, is it happy?"
+"yes."
+Default
+4
+3
+lion
+165
+Does a lion purr like a cat?
+"yes."
+do
+7
+1
+lion
+166
+How big is a pride?
+"up to 50 lions."
+how
+5
+4
+Default
+167
+How many lions are in a family?
+"up to 50 lions."
+how
+7
+4
+lion
+168
+How many cubs are in the pride?
+"up to 50 lions."
+how
+7
+4
+Default
+169
+Why are lion groups called a pride?
+"up to 50 lions."
+why
+7
+4
+lion
+170
+Can other animals be in the lion pride?
+"up to 50 lions."
+Default
+8
+4
+lion
+171
+Are lions mammals?
+"yes."
+be
+3
+1
+lion
+172
+Do lions give birth to live babies?
+"yes."
+do
+7
+1
+lion
+173
+Can lions live underwater?
+"yes."
+Default
+4
+1
+lion
+174
+Do lions breathe air?
+"yes."
+do
+4
+1
+lion
+175
+Do lions lay eggs?
+"yes."
+do
+4
+1
+lion
+176
+Are lions endangered?
+"no, but they are vulnerable."
+be
+3
+1
+lion
+177
+Do poachers hunt lions?
+"no, but they are vulnerable."
+do
+4
+1
+lion
+178
+Are lions dying out?
+"no, but they are vulnerable."
+be
+4
+1
+lion
+179
+Do zoos protect lions?
+"no, but they are vulnerable."
+do
+4
+1
+lion
+180
+What types of lions are endangered?
+"no, but they are vulnerable."
+what
+6
+1
+lion
+181
+What color are lions?
+"yellow, red, brown, black."
+what
+4
+1
+lion
+182
+Are lions yellow?
+"yellow, red, brown, black."
+be
+3
+1
+lion
+183
+Are lions brown?
+"yellow, red, brown, black."
+be
+3
+1
+lion
+184
+Are lions orange?
+"yellow, red, brown, black."
+be
+3
+1
+lion
+185
+Are lions multicolored?
+"yellow, red, brown, black."
+be
+3
+1
+lion
+186
+Are lions cats?
+"yes."
+be
+3
+1
+lion
+187
+What kind of cats are lions?
+"yes."
+what
+6
+1
+lion
+188
+Are lions related to cats?
+"yes."
+be
+5
+1
+lion
+189
+Do lions communicate like cats?
+"yes."
+do
+5
+1
+lion
+190
+Do lions purr like cats?
+"yes."
+do
+5
+1
+lion
+191
+How many cubs does a lion have?
+"litters of two or three cubs each."
+how
+7
+7
+lion
+192
+How many babies does a lionness have?
+"litters of two or three cubs each."
+how
+7
+7
+lion
+193
+How many brothers and sisters does a lion have?
+"litters of two or three cubs each."
+how
+9
+7
+lion
+194
+How big a lion family?
+"litters of two or three cubs each."
+how
+5
+7
+lion
+195
+Do lions have big families?
+"litters of two or three cubs each."
+do
+5
+7
+lion
+196
+What countries do lions live in?
+"Africa and Asia."
+what
+6
+3
+lion
+197
+Do lions live in Africa?
+"Africa and Asia."
+do
+5
+3
+lion
+198
+Do lions live in America?
+"Africa and Asia."
+do
+5
+3
+lion
+199
+Do lions live in South America?
+"Africa and Asia."
+do
+6
+3
+lion
+200
+Do lions live in Asia?
+"Africa and Asia."
+do
+5
+3
+lion
+201
+What climate does a lion like?
+"hot climate with wet and dry seasons."
+what
+6
+7
+lion
+202
+Do lions live in the desert?
+"hot climate with wet and dry seasons."
+do
+6
+7
+lion
+203
+Do lions live in the jungle?
+"hot climate with wet and dry seasons."
+do
+6
+7
+lion
+204
+Do lions live on the savannah?
+"hot climate with wet and dry seasons."
+do
+6
+7
+lion
+205
+Do lions live in the city?
+"hot climate with wet and dry seasons."
+do
+6
+7
+lion
+206
+Where can I see a lion?
+"safaris, zoos, sub-saharan Africa" ."
+where
+6
+1
+lion
+207
+Do lions live in the zoo?
+"safaris, zoos, sub-saharan Africa" ."
+do
+6
+1
+lion
+208
+Where can I go on a safari?
+"safaris, zoos, sub-saharan Africa" ."
+where
+7
+1
+Default
+209
+Where can I see pictures of lions?
+"safaris, zoos, sub-saharan Africa" ."
+where
+7
+1
+lion
+210
+Do lions eat other animals?
+"yes."
+do
+5
+1
+lion
+211
+Are lions carnivores?
+"yes."
+be
+3
+1
+lion
+212
+do lions eat bugs?
+"yes."
+do
+4
+1
+lion
+213
+Do lions eat rats?
+"yes."
+do
+4
+1
+lion
+214
+Are lions omnivores?
+"yes."
+be
+3
+1
+lion
+215
+Do lions eat plants?
+"no."
+do
+4
+1
+lion
+216
+Are lions herbivores?
+"no."
+be
+3
+1
+lion
+217
+Do lions eat fruits?
+"no."
+do
+4
+1
+lion
+218
+Do lions eat plants?
+"no."
+do
+4
+1
+lion
+219
+Do lions eat vegetables?
+"no."
+do
+4
+1
+lion
+220
+How loud do lions roar?
+"114 decibels (25x the frequency of a gas lawn mower)."
+how
+5
+10
+lion
+221
+What decibels do lions roar at?
+"115 decibels (25x the frequency of a gas lawn mower)."
+what
+6
+10
+lion
+222
+Are lions louder than a gas lawnmower?
+"116 decibels (25x the frequency of a gas lawn mower)."
+be
+7
+10
+lion
+223
+Can lions roar loudly?
+"117 decibels (25x the frequency of a gas lawn mower)."
+Default
+4
+10
+lion
+224
+How do lions roar so loudly?
+"118 decibels (25x the frequency of a gas lawn mower)."
+how
+6
+10
+lion
+225
+Do lions get hot in the savannah?
+"they can if it's too hot!."
+do
+7
+6
+lion
+226
+Do lions overheat?
+"they can if it's too hot!."
+do
+3
+6
+lion
+227
+Do lions sweat?
+"they can if it's too hot!."
+do
+3
+6
+lion
+228
+Do lions pant?
+"they can if it's too hot!."
+do
+3
+6
+lion
+229
+How do lions release heat?
+"they can if it's too hot!."
+how
+5
+6
+lion
+230
+What do cubs eat?
+"meat and milk."
+what
+4
+3
+Default
+231
+Do lion cubs eat meat?
+"meat and milk."
+do
+5
+3
+lion
+232
+Do lion cubs eat plants?
+"meat and milk."
+do
+5
+3
+lion
+233
+Do lion cubs drink milk?
+"meat and milk."
+do
+5
+3
+lion
+234
+When do lions stop drinking milk?
+"meat and milk."
+when
+6
+3
+lion
+235
+Do lions see color?
+"yes."
+do
+4
+1
+lion
+236
+Are lions colorblind?
+"yes."
+be
+3
+1
+lion
+237
+Do lions see in black and white?
+"yes."
+do
+7
+1
+lion
+238
+Can lions see red?
+"yes."
+Default
+4
+1
+lion
+239
+Can lions see green?
+"yes."
+Default
+4
+1
+lion
+240
+Do lions get hot in the jungle?
+"yes."
+do
+7
+1
+lion
+241
+How hot is the jungle?
+"yes."
+how
+5
+1
+Default
+242
+Do lions sweat in the jungle?
+"yes."
+do
+6
+1
+lion
+243
+Do lions pant in the jungle?
+"yes."
+do
+6
+1
+lion
+244
+How do lions keep cool in the jungle?
+"yes."
+how
+8
+1
+lion
+245
+Do cubs drink milk?
+"yes."
+do
+4
+1
+Default
+246
+When do cubs stop drinking milk?
+"yes."
+when
+6
+1
+Default
+247
+Do cubs eat anything besides milk?
+"yes."
+do
+6
+1
+Default
+248
+How long does a mother lactate for?
+"yes."
+how
+7
+1
+Default
+249
+What does milk taste like?
+"yes."
+what
+5
+1
+Default
+250
+Do lions scratch?
+"yes."
+do
+3
+1
+lion
+251
+Do lions hurt each other when they scratch?
+"yes."
+when
+8
+1
+lion
+252
+Do lions play by scratching?
+"yes."
+do
+5
+1
+lion
+253
+Do lions kill prey by scratching?
+"yes."
+do
+6
+1
+lion
+254
+Do lions scratch with claws?
+"yes."
+do
+5
+1
+lion
+255
+What are baby lions?
+"cubs."
+what
+4
+1
+lion
+256
+What do you call a baby lion?
+"cubs."
+what
+7
+1
+lion
+257
+How little are baby lions?
+"cubs."
+how
+5
+1
+lion
+258
+Do baby lions grow up?
+"cubs."
+do
+5
+1
+lion
+259
+How big do baby lions get?
+"cubs."
+how
+6
+1
+lion
+260
+Can I pet a lion?
+"it's probably not a good idea."
+Default
+5
+6
+lion
+261
+Can people interact with lions safely?
+"it's probably not a good idea."
+Default
+6
+6
+lion
+262
+Do people usually interact with lions?
+"it's probably not a good idea."
+do
+6
+6
+lion
+263
+Are lions dangerous?
+"it's probably not a good idea."
+be
+3
+6
+lion
+264
+Are lions cuddly?
+"it's probably not a good idea."
+be
+3
+6
+lion
+265
+Do lions eat humans?
+"no."
+do
+4
+1
+lion
+266
+Are lions carnivorous?
+"no."
+be
+3
+1
+lion
+267
+Are lions dangerous to be around people?
+"no."
+be
+7
+1
+lion
+268
+What is a lion's typical diet?
+"no."
+what
+6
+1
+lion
+269
+Do lions bite humans?
+"no."
+do
+4
+1
+lion
+270
+Are lions nocturnal?
+"mostly."
+be
+3
+1
+lion
+271
+Do lions sleep at night?
+"mostly."
+do
+5
+1
+lion
+272
+Do lions sleep in the daytime?
+"mostly."
+do
+6
+1
+lion
+273
+How long do lions sleep for?
+"mostly."
+how
+6
+1
+lion
+274
+Can lions see in the dark?
+"mostly."
+Default
+6
+1
+lion
+275
+How do lions hunt?
+"Lions hunt together by stalking and encircling prey, until one lion is able to pounce."
+how
+4
+8
+lion
+276
+How do lions kill their prey? 
+"Lions hunt together by stalking and encircling prey, until one lion is able to pounce."
+how
+6
+8
+lion
+277
+Do lions bite their prey?
+"Lions hunt together by stalking and encircling prey, until one lion is able to pounce."
+do
+5
+8
+lion
+278
+Do lions disable their prey first or go in for the kill immediately?
+"Lions hunt together by stalking and encircling prey, until one lion is able to pounce."
+do
+13
+8
+lion
+279
+What animals do lions hunt?
+"Lions hunt together by stalking and encircling prey, until one lion is able to pounce."
+what
+5
+8
+lion
+280
+Can lions fight with each other?
+"Males fight other males.  Females do not usually fight other females."
+Default
+6
+11
+lion
+281
+Are lions territorial?
+"Males fight other males.  Females do not usually fight other females."
+be
+3
+11
+lion
+282
+Do lions kill each other?
+"Males fight other males.  Females do not usually fight other females."
+do
+5
+11
+lion
+283
+Do lions kill each other for food?
+"Males fight other males.  Females do not usually fight other females."
+do
+7
+11
+lion
+284
+Do lions play by fighting?
+"Males fight other males.  Females do not usually fight other females."
+do
+5
+11
+lion
+285
+Do lions speak to other cats?
+"Lions show affection by licking and also by the noises they make."
+do
+6
+12
+lion
+286
+How do lions communicate?
+"Lions show affection by licking and also by the noises they make."
+how
+4
+12
+lion
+287
+How do cats communicate?
+"Lions show affection by licking and also by the noises they make."
+how
+4
+12
+Default
+288
+Is purring a mode of communication?
+"Lions show affection by licking and also by the noises they make."
+be
+6
+12
+Default
+289
+Can lions speak to other animals?
+"Lions show affection by licking and also by the noises they make."
+Default
+6
+12
+lion
+290
+How does a lion stay warm?
+"No."
+how
+6
+1
+lion
+291
+Do lions hibernate?
+"No."
+do
+3
+1
+lion
+292
+Does a lion's fur keep it warm?
+"No."
+do
+7
+1
+lion
+293
+Can lions get cold?
+"No."
+Default
+4
+1
+lion
+294
+Can lions overheat?
+"No."
+Default
+3
+1
+lion
+295
+Can a lion get sick?
+"Yes, they can catch diseases akin to human diseases."
+Default
+5
+1
+lion
+296
+What are diseases that afflict animals?
+"Yes, they can catch diseases akin to human diseases."
+what
+6
+1
+Default
+297
+Can lions get sick from humans?
+"Yes, they can catch diseases akin to human diseases."
+Default
+6
+1
+lion
+298
+What happens if a lion gets sick?
+"Yes, they can catch diseases akin to human diseases."
+what
+7
+1
+lion
+299
+What's the most contagious disease in lion populations?
+"Yes, they can catch diseases akin to human diseases."
+what
+8
+1
+lion
+300
+How big are lion's teeth?
+"Their  canines can be up to 10 cm long (humans are 1.5 cm)."
+how
+5
+13
+lion
+301
+Do lions have sharp teeth?
+"Their  canines can be up to 10 cm long (humans are 1.5 cm)."
+do
+5
+13
+lion
+302
+How many teeth do lions have?
+"Their  canines can be up to 10 cm long (humans are 1.5 cm)."
+how
+6
+13
+lion
+303
+Are lion's teeth specialized for their diet?
+"Their  canines can be up to 10 cm long (humans are 1.5 cm)."
+be
+7
+13
+lion
+304
+Do lions lose teeth?
+"Their  canines can be up to 10 cm long (humans are 1.5 cm)."
+do
+4
+13
+lion
+305
+How well can a lion hear?
+"Yes, their hearing is pretty good."
+how
+6
+1
+lion
+306
+What is the range of frequencies lions can hear?
+"Yes, their hearing is pretty good."
+what
+9
+1
+lion
+307
+Can lions hear high-pitched noises?
+"Yes, their hearing is pretty good."
+Default
+5
+1
+lion
+308
+Can lions hear each other's roars?
+"Yes, their hearing is pretty good."
+Default
+6
+1
+lion
+309
+Where are a lion's ears?
+"Yes, their hearing is pretty good."
+where
+5
+1
+lion
+310
+How well can a lion smell?
+"Yes, this is helpful in searching for mates and hunting out prey."
+how
+6
+1
+lion
+311
+Do lions havea strong sense of smell?
+"Yes, this is helpful in searching for mates and hunting out prey."
+do
+7
+1
+lion
+312
+What's the smell that lions like the most?
+"Yes, this is helpful in searching for mates and hunting out prey."
+what
+8
+1
+lion
+313
+Can a lion smell blood like sharks?
+"Yes, this is helpful in searching for mates and hunting out prey."
+Default
+7
+1
+lion
+314
+How many legs does a tiger have?
+"4 legs."
+how
+7
+2
+tiger
+315
+How does a tiger move around?
+"4 legs."
+how
+6
+2
+tiger
+316
+How does a tiger walk? 
+"4 legs."
+how
+5
+2
+tiger
+317
+How many limbs does a tiger have? 
+"4 legs."
+how
+7
+2
+tiger
+318
+What is the tiger walking on? 
+"4 legs."
+what
+6
+2
+tiger
+319
+A tiger is a part of the ----- family?
+"cat family."
+Default
+9
+2
+tiger
+320
+What family is a tiger part of?
+"cat family."
+what
+7
+2
+tiger
+321
+How are tiger and lion related?
+"cat family."
+how
+6
+2
+lion
+322
+Do tigers have families? 
+"cat family."
+do
+4
+2
+tiger
+323
+Is the tiger in a family? 
+"cat family."
+be
+6
+2
+tiger
+324
+What is a family of tigers?
+"ambush/ streak."
+what
+6
+2
+tiger
+325
+What do you call a tiger family?
+"ambush/ streak."
+what
+7
+2
+tiger
+326
+What is a group of tigers?
+"ambush/ streak."
+what
+6
+2
+tiger
+327
+What is a herd of tigers?
+"ambush/ streak."
+what
+6
+2
+tiger
+328
+What is a clump of tigers?
+"ambush/ streak."
+what
+6
+2
+tiger
+329
+How fast can a tiger run?
+"40 mph."
+how
+6
+2
+tiger
+330
+How fast can tigers get?
+"40 mph."
+how
+5
+2
+tiger
+331
+What is the speed of a tiger?
+"40 mph."
+what
+7
+2
+tiger
+332
+How fast are tigers? 
+"40 mph."
+how
+4
+2
+tiger
+333
+What speed do tigers run at? 
+"40 mph."
+what
+6
+2
+tiger
+334
+How do tigers hunt?
+"alone, at night."
+how
+4
+1
+tiger
+335
+When do tigers hunt?
+"alone, at night."
+when
+4
+1
+tiger
+336
+Do tigers hunt?
+"alone, at night."
+do
+3
+1
+tiger
+337
+How do tigers catch their prey?
+"alone, at night."
+how
+6
+1
+tiger
+338
+When do tigers catch their prey?
+"alone, at night."
+when
+6
+1
+tiger
+339
+Are there different types of tigers?
+"sumatran, siberian, bengal, south china, malayan, indochinese."
+be
+6
+1
+tiger
+340
+What are the different types of tigers?
+"sumatran, siberian, bengal, south china, malayan, indochinese."
+what
+7
+1
+tiger
+341
+Is there more than one kind of tiger?
+"sumatran, siberian, bengal, south china, malayan, indochinese."
+be
+8
+1
+tiger
+342
+What are the different kinds of tigers?
+"sumatran, siberian, bengal, south china, malayan, indochinese."
+what
+7
+1
+tiger
+343
+Is there more than one type of tiger?
+"sumatran, siberian, bengal, south china, malayan, indochinese."
+be
+8
+1
+tiger
+344
+Are tigers good swimmers?
+"yes."
+be
+4
+1
+tiger
+345
+Can tigers swim?
+"yes."
+Default
+3
+1
+tiger
+346
+Do tigers swim?
+"yes."
+do
+3
+1
+tiger
+347
+Can a tiger swim? 
+"yes."
+Default
+4
+1
+tiger
+348
+Do tigers like water?
+"yes."
+do
+4
+1
+tiger
+349
+Why does their fur have tripes?
+"to help them camouflage."
+why
+6
+4
+Default
+350
+Why do they have a striped a pattern?
+"to help them camouflage."
+why
+8
+4
+Default
+351
+Why do tigers have stripes?
+"to help them camouflage."
+why
+5
+4
+tiger
+352
+What are their coats used for?
+"to help them camouflage."
+what
+6
+4
+Default
+353
+What do they use their stripes for?
+"to help them camouflage."
+what
+7
+4
+Default
+354
+What do tigers eat?
+"deer, wild pigs, water buffalo, antelopes, monkeys, pythons..."
+what
+4
+1
+tiger
+355
+What animals are their prey?
+"deer, wild pigs, water buffalo, antelopes, monkeys, pythons..."
+what
+5
+1
+Default
+356
+Where are tigers found?
+"various countries in Asia, Russia and Africa."
+where
+4
+4
+tiger
+357
+Where are their tigers?
+"various countries in Asia, Russia and Africa."
+where
+4
+4
+tiger
+358
+Where can I find a tiger?
+"various countries in Asia, Russia and Africa."
+where
+6
+4
+tiger
+359
+Where in the world do tigers live?
+"various countries in Asia, Russia and Africa."
+where
+7
+4
+tiger
+360
+What countries does a tiger live in?
+"various countries in Asia, Russia and Africa."
+what
+7
+4
+tiger
+361
+When do tigers sleep?
+"during the day. they are nocturnal."
+when
+4
+6
+tiger
+362
+During what time do tigers sleep?
+"during the day. they are nocturnal."
+what
+6
+6
+tiger
+363
+When does a tiger sleep?
+"during the day. they are nocturnal."
+when
+5
+6
+tiger
+364
+During what time does a tiger sleep?
+"during the day. they are nocturnal."
+what
+7
+6
+tiger
+365
+What time of day do tigers sleep?
+"during the day. they are nocturnal."
+what
+7
+6
+tiger
+366
+How big is a tiger?
+"363 kg (almost 10 10 year olds)."
+how
+5
+7
+tiger
+367
+How much does a tiger weight?
+"363 kg (almost 10 10 year olds)."
+how
+6
+7
+tiger
+368
+What is the weight of a tiger?
+"363 kg (almost 10 10 year olds)."
+what
+7
+7
+tiger
+369
+Do tigers weigh a lot?
+"yes, they can way up to 363 kg."
+do
+5
+1
+tiger
+370
+Are tigers big?
+"yes, they can way up to 363 kg."
+be
+3
+1
+tiger
+371
+Do all tigers have stripes? 
+"yes."
+do
+5
+1
+tiger
+372
+Are all tigers covered with lines? 
+"yes ."
+be
+6
+1
+tiger
+373
+Do all tigers have dark streaks? 
+"yes."
+do
+6
+1
+tiger
+374
+Do all tigers have a striped pattern?
+"yes."
+do
+7
+1
+tiger
+375
+Does every tiger have stripes?
+"yes."
+do
+5
+1
+tiger
+376
+Do tigers attack humans?
+"they rarely enter places where people are."
+do
+4
+7
+tiger
+377
+Are tigers dangerous towards humans?
+"they rarely enter places where people are."
+be
+5
+7
+tiger
+378
+Do tigers eat humans?
+"they rarely enter places where people are."
+do
+4
+7
+tiger
+379
+Will tigers hunt humans?
+"they rarely enter places where people are."
+Default
+4
+7
+tiger
+380
+Do tigers hurt humans?
+"they rarely enter places where people are."
+do
+4
+7
+tiger
+381
+How fast can tigers swim?
+"20 mph."
+how
+5
+2
+tiger
+382
+What speed do tigers swim at?
+"20 mph."
+what
+6
+2
+tiger
+383
+Do tigers swim fast?
+"20 mph."
+do
+4
+2
+tiger
+384
+How fast can a tiger swim?
+"20 mph."
+how
+6
+2
+tiger
+385
+Can a tiger swim fast?
+"20 mph."
+Default
+5
+2
+tiger
+386
+Do tigers eat meat?
+"yes. they are carnivores."
+do
+4
+4
+tiger
+387
+Do tigers eat other animals?
+"yes. they are carnivores."
+do
+5
+4
+tiger
+388
+Does a tiger eat meat?
+"yes. they are carnivores."
+do
+5
+4
+tiger
+389
+Does a tiger eat other animals?
+"yes. they are carnivores."
+do
+6
+4
+tiger
+390
+Are tigers carnivores?
+"yes. they are carnivores."
+be
+3
+4
+tiger
+391
+What do you call a tiger's hand? 
+"Paw."
+what
+7
+1
+tiger
+392
+What is a tiger's hand? 
+"Paw."
+what
+5
+1
+tiger
+393
+What is the hand of a tiger? 
+"Paw."
+what
+7
+1
+tiger
+394
+What do call the hand of a tiger? 
+"Paw."
+what
+8
+1
+tiger
+395
+What is the tiger's hand called? 
+"Paw."
+what
+6
+1
+tiger
+396
+How big are baby tigers?
+"200 pounds."
+how
+5
+2
+tiger
+397
+How much do baby tigers weigh?
+"200 pounds."
+how
+6
+2
+tiger
+398
+What is the weight of a baby tiger?
+"200 pounds."
+what
+8
+2
+tiger
+399
+What weight is a little tiger? 
+"200 pounds."
+what
+6
+2
+tiger
+400
+How much does a cub weight? 
+"200 pounds."
+how
+6
+2
+Default
+401
+Are the coats of tigers similar?
+"no two tigers have the same stripes."
+be
+6
+7
+tiger
+402
+Do tigers have the same stripes?
+"no two tigers have the same stripes."
+do
+6
+7
+tiger
+403
+Can two tigers have the same fur?
+"no two tigers have the same stripes."
+Default
+7
+7
+tiger
+404
+Can two tigers have the same stripe pattern?
+"no two tigers have the same stripes."
+Default
+8
+7
+tiger
+405
+Do tigers have the same pattern?
+"no two tigers have the same stripes."
+do
+6
+7
+tiger
+406
+How tall is a tiger?
+"2.3 to 4 ft."
+how
+5
+4
+tiger
+407
+What is the height of a tiger?
+"2.3 to 4 ft."
+what
+7
+4
+tiger
+408
+How tall are tigers?
+"2.3 to 4 ft."
+how
+4
+4
+tiger
+409
+How tall can a tiger get?
+"2.3 to 4 ft."
+how
+6
+4
+tiger
+410
+What is the heights of tigers?
+"2.3 to 4 ft."
+what
+6
+4
+tiger
+411
+Are tigers friendly? 
+"Tigers are wild animals, so they should not be bothered."
+be
+3
+4
+tiger
+412
+Is a tiger friendly? 
+"Tigers are wild animals, so they should not be bothered."
+be
+4
+4
+tiger
+413
+Is the tiger amiable? 
+"Tigers are wild animals, so they should not be bothered."
+be
+4
+4
+tiger
+414
+Are tigers nice? 
+"Tigers are wild animals, so they should not be bothered."
+be
+3
+4
+tiger
+415
+Are tigers approachable?
+"Tigers are wild animals, so they should not be bothered."
+be
+3
+4
+tiger
+416
+How big are a tigers teeth?
+"3 in."
+how
+6
+2
+tiger
+417
+How long are a tiger's teeth?
+"3 in."
+how
+6
+2
+tiger
+418
+How big are their teeth?
+"3 in ."
+how
+5
+2
+Default
+419
+What is the size of their teeth?
+"3 in."
+what
+7
+2
+Default
+420
+How long are their teeth?
+"3 in."
+how
+5
+2
+Default
+421
+Why do tigers bite? 
+"They feel threatened ."
+why
+4
+3
+tiger
+422
+How come tigers bite? 
+"They feel threatened ."
+how
+4
+3
+tiger
+423
+Why do tigers close their mouth on things? 
+"They feel threatened ."
+why
+8
+3
+tiger
+424
+For what reason does a tiger bite? 
+"They feel threatened ."
+what
+7
+3
+tiger
+425
+How come the tiger bites? 
+"They feel threatened ."
+how
+5
+3
+tiger
+426
+What is a tiger baby?
+"cub."
+what
+5
+1
+tiger
+427
+What is the child of a tiger?
+"cub."
+what
+7
+1
+tiger
+428
+What is a baby tiger?
+"cub."
+what
+5
+1
+tiger
+429
+What do you call the kid of a tiger?
+"cub."
+what
+9
+1
+tiger
+430
+What are young tigers?
+"cub."
+what
+4
+1
+tiger
+431
+How many teeth does a tiger have? 
+"30.0."
+how
+7
+1
+tiger
+432
+How many fangs does a tiger have? 
+"30.0."
+how
+7
+1
+tiger
+433
+How many tusts does a tiger have? 
+"30.0."
+how
+7
+1
+tiger
+434
+What is the amoung of teeth tigers have? 
+"30.0."
+what
+8
+1
+tiger
+435
+What number of teeth do tigers have? 
+"30.0."
+what
+7
+1
+tiger
+436
+Are tigers carnivores? 
+"Yes."
+be
+3
+1
+tiger
+437
+Do tigers eat meat? 
+"Yes."
+do
+4
+1
+tiger
+438
+Does a tiger like meat? 
+"Yes."
+do
+5
+1
+tiger
+439
+Do tigers like to eat meat? 
+"Yes."
+do
+6
+1
+tiger
+440
+Do tigers enjoy eating meat? 
+"yes."
+do
+5
+1
+tiger
+441
+Are tigers endangered?
+"yes."
+be
+3
+1
+tiger
+442
+Are tigers rare?
+"yes."
+be
+3
+1
+tiger
+443
+Are tigers going extinct?
+"yes."
+be
+4
+1
+tiger
+444
+Are tigers an endangered species?
+"yes."
+be
+5
+1
+tiger
+445
+Are they on the endangered species list?
+"yes."
+be
+7
+1
+Default
+446
+Do tigers have different colored stripes? 
+"They are black, tan, or orange."
+do
+6
+3
+tiger
+447
+Are tigers stripes different colors? 
+"They are black, tan, or orange."
+be
+5
+3
+tiger
+448
+What color are the lines on a tiger?  
+"They are black, tan, or orange."
+what
+8
+3
+tiger
+449
+What color are their stripes? 
+"They are black, tan, or orange."
+what
+5
+3
+Default
+450
+What color are the stripes? 
+"They are black, tan, or orange."
+what
+5
+3
+Default
+451
+Why are some tigers white?
+"because they have a certain gene."
+why
+5
+6
+tiger
+452
+Why are some tigers a different color?
+"because they have a certain gene."
+why
+7
+6
+tiger
+453
+What makes a tiger white?
+"because they have a certain gene."
+what
+5
+6
+tiger
+454
+What makes the fur of a tiger white?
+"because they have a certain gene."
+what
+8
+6
+tiger
+455
+What causes the white fur?
+"because they have a certain gene."
+what
+5
+6
+Default
+456
+Are white tigers rare?
+"yes, there are only 1/10000."
+be
+4
+1
+tiger
+457
+Are there white tigers?
+"yes, there are only 1/10000."
+be
+4
+1
+tiger
+458
+Is it to find a white tiger?
+"yes, there are only 1/10000."
+be
+7
+1
+tiger
+459
+Is a white tiger difficult to find?
+"yes, there are only 1/10000."
+be
+7
+1
+tiger
+460
+Is a white tiger rare?
+"yes, there are only 1/10000."
+be
+5
+1
+tiger
+461
+How much do they sleep?
+"18 to 20 hours."
+how
+5
+4
+Default
+462
+How long does a tiger sleep?
+"18 to 20 hours."
+how
+6
+4
+tiger
+463
+How much does a tiger sleep?
+"18 to 20 hours."
+how
+6
+4
+tiger
+464
+How much do they sleep in a day?
+"18 to 20 hours."
+how
+8
+4
+Default
+465
+How long can a tiger sleep?
+"18 to 20 hours."
+how
+6
+4
+tiger
+466
+Where do tigers live? 
+"swamps, grasslands, and rainforests."
+where
+4
+1
+tiger
+467
+Where is a tigers home? 
+"swamps, grasslands, and rainforests."
+where
+5
+1
+tiger
+468
+What is home to a tiger? 
+"swamps, grasslands, and rainforests."
+what
+6
+1
+tiger
+469
+Where do they reside? 
+"swamps, grasslands, and rainforests."
+where
+4
+1
+Default
+470
+Where can I find a tiger? 
+"swamps, grasslands, and rainforests."
+where
+6
+1
+tiger
+471
+Do tigers live in the zoo? 
+"TIgers can live in zoos, but not all of them do."
+do
+6
+5
+tiger
+472
+Is the zoo a home for the tiger? 
+"TIgers can live in zoos, but not all of them do."
+be
+8
+5
+tiger
+473
+Can tigers live in zoos? 
+"TIgers can live in zoos, but not all of them do."
+Default
+5
+5
+tiger
+474
+Does the tiger live in the zoo? 
+"TIgers can live in zoos, but not all of them do."
+do
+7
+5
+tiger
+475
+Can tigers live in the zoo? 
+"TIgers can live in zoos, but not all of them do."
+Default
+6
+5
+tiger
+476
+What sound to tigers make? 
+"A tiger roars."
+what
+5
+3
+tiger
+477
+What noise to tigers make? 
+"A tiger roars."
+what
+5
+3
+tiger
+478
+What noise does the tiger make? 
+"A tiger roars."
+what
+6
+3
+tiger
+479
+What sounds does a tiger make? 
+"A tiger roars."
+what
+6
+3
+tiger
+480
+What sound do tigers do? 
+"A tiger roars."
+what
+5
+3
+tiger
+481
+How long does a tiger live?
+"14-18 years."
+how
+6
+2
+tiger
+482
+What is the lifespan of a tiger?
+"14-18 years."
+what
+7
+2
+tiger
+483
+How old can a tiger get?
+"14-18 years."
+how
+6
+2
+tiger
+484
+How long do tigers live?
+"14-18 years."
+how
+5
+2
+tiger
+485
+How old do tigers get?
+"14-18 years."
+how
+5
+2
+tiger
+486
+How far does a tiger leap? 
+"A full adult male can jump up to 33 feet ."
+how
+6
+10
+tiger
+487
+How far can a tiger jump? 
+"A full adult male can jump up to 33 feet ."
+how
+6
+10
+tiger
+488
+What distance can a tiger leap? 
+"A full adult male can jump up to 33 feet ."
+what
+6
+10
+tiger
+489
+How far can a tiger vault? 
+"A full adult male can jump up to 33 feet ."
+how
+6
+10
+tiger
+490
+How far do tigers jump? 
+"A full adult male can jump up to 33 feet ."
+how
+5
+10
+tiger
+491
+Are tigers vegeterian? 
+"no ."
+be
+3
+1
+tiger
+492
+Do tigers only eat plants? 
+"no ."
+do
+5
+1
+tiger
+493
+Do tiger eat meatless meals?
+"no ."
+do
+5
+1
+tiger
+494
+Do tigers like plants?
+"no ."
+do
+4
+1
+tiger
+495
+Do tigers eat vegetables?
+"no ."
+do
+4
+1
+tiger
+496
+How fast does a baby tiger grow?
+"2 years they are matured."
+how
+7
+5
+tiger
+497
+How fast does a cub grow?
+"2 years they are matured."
+how
+6
+5
+Default
+498
+How old is a baby tiger?
+"2 years they are matured."
+how
+6
+5
+tiger
+499
+When do baby tigers become adults?
+"2 years they are matured."
+when
+6
+5
+tiger
+500
+When do cubs become adults?
+"2 years they are matured."
+when
+5
+5
+Default
+501
+How long is a tiger?
+"they are about 3.3 m long (6-7ft)."
+how
+5
+7
+tiger
+502
+What is the length of a tiger?
+"they are about 3.3 m long (6-7ft)."
+what
+7
+7
+tiger
+503
+Are tigers long?
+"they are about 3.3 m long (6-7ft)."
+be
+3
+7
+tiger
+504
+How long are tigers?
+"they are about 3.3 m long (6-7ft)."
+how
+4
+7
+tiger
+505
+How long can a tiger get?
+"they are about 3.3 m long (6-7ft)."
+how
+6
+7
+tiger
+506
+How do they catch their prey?
+"they usually sneak up and attack."
+how
+6
+6
+Default
+507
+How do they find their food?
+"they usually sneak up and attack."
+how
+6
+6
+Default
+508
+How do they capture other animals to eat?
+"they usually sneak up and attack."
+how
+8
+6
+Default
+509
+How do they capture their prey?
+"they usually sneak up and attack."
+how
+6
+6
+Default
+510
+How do they find animals to eat?
+"they usually sneak up and attack."
+how
+7
+6
+Default
+511
+How much do tigers sleep? 
+"18 to 20 hours."
+how
+5
+4
+tiger
+512
+How long do tigers sleep? 
+"19 to 20 hours."
+how
+5
+4
+tiger
+513
+How long do tigers nap? 
+"20 to 20 hours."
+how
+5
+4
+tiger
+514
+What time do tigers spend sleeping? 
+"21 to 20 hours."
+what
+6
+4
+tiger
+515
+What time do tigers spend nappin? 
+"22 to 20 hours."
+what
+6
+4
+tiger
+516
+Why are tigers hunted?
+"valuable fur and body parts."
+why
+4
+5
+tiger
+517
+Why do we hunt tigers?
+"valuable fur and body parts."
+why
+5
+5
+tiger
+518
+Why do humans kill tigers?
+"valuable fur and body parts."
+why
+5
+5
+tiger
+519
+Why are tigers valuable?
+"valuable fur and body parts."
+why
+4
+5
+tiger
+520
+Why would humans kill a tiger?
+"valuable fur and body parts."
+why
+6
+5
+tiger
+521
+What continents do tigers live in? 
+"Asia, Korea, China, Russia."
+what
+6
+1
+tiger
+522
+In what continents can we find tigers? 
+"Asia, Korea, China, Russia."
+what
+7
+1
+tiger
+523
+What continents have tigers? 
+"Asia, Korea, China, Russia."
+what
+4
+1
+tiger
+524
+Which continents have tigers? 
+"Asia, Korea, China, Russia."
+Default
+4
+1
+tiger
+525
+In which continents to tigers live? 
+"Asia, Korea, China, Russia."
+Default
+6
+1
+tiger
+526
+How many tigers are left in the world?
+"3500 tigers."
+how
+8
+2
+tiger
+527
+What number of tigers still live? 
+"3500 tigers."
+what
+6
+2
+tiger
+528
+What number of tigers are alive? 
+"3500 tigers."
+what
+6
+2
+tiger
+529
+How many tigers are there? 
+"3500 tigers."
+how
+5
+2
+tiger
+530
+How many tigers exitst? 
+"3500 tigers."
+how
+4
+2
+tiger
+531
+How big is the tiger species? 
+"Tigers are the biggest species of the cat family ."
+how
+6
+9
+tiger
+532
+How larger is the tiger species? 
+"Tigers are the biggest species of the cat family ."
+how
+6
+9
+tiger
+533
+Is the tiger species big? 
+"Tigers are the biggest species of the cat family ."
+be
+5
+9
+tiger
+534
+How big is the species?
+"Tigers are the biggest species of the cat family ."
+how
+5
+9
+Default
+535
+How big is the species of a tiger? 
+"Tigers are the biggest species of the cat family ."
+how
+8
+9
+tiger
+536
+Are tigers pack or solitary animals? 
+"Tigers are sollitary animals ."
+be
+6
+4
+tiger
+537
+Are tigers solitary animals? 
+"Tigers are sollitary animals ."
+be
+4
+4
+tiger
+538
+Are tigers lonely animals? 
+"Tigers are sollitary animals ."
+be
+4
+4
+tiger
+539
+Are tigers lonely or in groups? 
+"Tigers are sollitary animals ."
+be
+6
+4
+tiger
+540
+Are tigers solitary or in a pack? 
+"Tigers are sollitary animals ."
+be
+7
+4
+tiger
+541
+How many stripes does that tiger have?
+"Over 100."
+how
+7
+2
+tiger
+542
+How many lines do tigers have? 
+"Over 100."
+how
+6
+2
+tiger
+543
+What number of stripes do tigers have? 
+"Over 100."
+what
+7
+2
+tiger
+544
+What amount of marks does a tiger have? 
+"Over 100."
+what
+8
+2
+tiger
+545
+How many dark marks does the tiger have? 
+"Over 100."
+how
+8
+2
+tiger
+546
+Do tigers hunt in groups? 
+"They usually hunt alone ."
+do
+5
+4
+tiger
+547
+Are tigers group hunters? 
+"They usually hunt alone ."
+be
+4
+4
+tiger
+548
+Do tigers catch prey in group? 
+"They usually hunt alone ."
+do
+6
+4
+tiger
+549
+Do tigers hunt as a pack? 
+"They usually hunt alone ."
+do
+6
+4
+tiger
+550
+Is a tiger part of a hunting pack? 
+"They usually hunt alone ."
+be
+8
+4
+tiger
+551
+What color can a tiger be? 
+"orange or white ."
+what
+6
+3
+tiger
+552
+What colors can tigers be? 
+"orange or white ."
+what
+5
+3
+tiger
+553
+What color can the tiger be? 
+"orange or white ."
+what
+6
+3
+tiger
+554
+What coloring do tigers have? 
+"orange or white ."
+what
+5
+3
+tiger
+555
+What are the only colors tigers can be? 
+"orange or white ."
+what
+8
+3
+tiger
+556
+Where does a leopard live?
+"In the continents of Africa and Asia in primarily savanna and rainforest habitats."
+where
+5
+13
+leopard
+557
+Where is the leopard's habitat?
+"In the continents of Africa and Asia in primarily savanna and rainforest habitats."
+where
+5
+13
+leopard
+558
+What does a leopard live in?
+"In the continents of Africa and Asia in primarily savanna and rainforest habitats."
+what
+6
+13
+leopard
+559
+Where do leopards sleep?
+"In the continents of Africa and Asia in primarily savanna and rainforest habitats."
+where
+4
+13
+leopard
+560
+Where is a leopard's home?
+"In the continents of Africa and Asia in primarily savanna and rainforest habitats."
+where
+5
+13
+leopard
+561
+How long do leopards live?
+"The average typical life span of a leopard is between 12 and 17 years."
+how
+5
+14
+leopard
+562
+What is a leopard's lifespan?
+"The average typical life span of a leopard is between 12 and 17 years."
+what
+5
+14
+leopard
+563
+How old do leopards get?
+"The average typical life span of a leopard is between 12 and 17 years."
+how
+5
+14
+leopard
+564
+What age do leopards die?
+"The average typical life span of a leopard is between 12 and 17 years."
+what
+5
+14
+leopard
+565
+How long is a leopard's lifetime?
+"The average typical life span of a leopard is between 12 and 17 years."
+how
+6
+14
+leopard
+566
+How do leopards travel?
+"Leopards usually travel at night and tend to be solitary and territorial creatures."
+how
+4
+13
+leopard
+567
+How do leopards travel in packs?
+"Leopards usually travel at night and tend to be solitary and territorial creatures."
+how
+6
+13
+leopard
+568
+How leopards travel with other leopards?
+"Leopards usually travel at night and tend to be solitary and territorial creatures."
+how
+6
+13
+leopard
+569
+How leopards hunt in packs?
+"Leopards usually travel at night and tend to be solitary and territorial creatures."
+how
+5
+13
+leopard
+570
+How leopards travel with a family?
+"Leopards usually travel at night and tend to be solitary and territorial creatures."
+how
+6
+13
+leopard
+571
+What do leopards eat?
+"Leopards are carnivores that prefer medium-sized prey with a body mass ranging from 22-88lb; typically they eat a variety of antelopes, deer and rodents: cattle, dung beetle, impala, wildebeest, and warthogs."
+what
+4
+21
+leopard
+572
+What does a leopard's diet consist of?
+"Leopards are carnivores that prefer medium-sized prey with a body mass ranging from 22-88lb; typically they eat a variety of antelopes, deer and rodents: cattle, dung beetle, impala, wildebeest, and warthogs."
+what
+7
+21
+leopard
+573
+What do leopards hunt?
+"Leopards are carnivores that prefer medium-sized prey with a body mass ranging from 22-88lb; typically they eat a variety of antelopes, deer and rodents: cattle, dung beetle, impala, wildebeest, and warthogs."
+what
+4
+21
+leopard
+574
+What does a leopard have for dinner?
+"Leopards are carnivores that prefer medium-sized prey with a body mass ranging from 22-88lb; typically they eat a variety of antelopes, deer and rodents: cattle, dung beetle, impala, wildebeest, and warthogs."
+what
+7
+21
+leopard
+575
+What do leopards feed on?
+"Leopards are carnivores that prefer medium-sized prey with a body mass ranging from 22-88lb; typically they eat a variety of antelopes, deer and rodents: cattle, dung beetle, impala, wildebeest, and warthogs."
+what
+5
+21
+leopard
+576
+What animals live in the same area as leopards?
+"tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+9
+1
+leopard
+577
+What animals do leopards interact with?
+"tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+6
+1
+leopard
+578
+What animals do leopards share a habitat with?
+"tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+8
+1
+leopard
+579
+What animals live with leopards?
+"tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+5
+1
+leopard
+580
+What animals do leopards share a home with?
+"tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+8
+1
+leopard
+581
+What is the name for a baby leopard?
+"A baby leopard is called a cub."
+what
+8
+7
+leopard
+582
+What is a name for a young leopard?
+"A baby leopard is called a cub."
+what
+8
+7
+leopard
+583
+What is the name for a small leopard?
+"A baby leopard is called a cub."
+what
+8
+7
+leopard
+584
+What do you call a infant leopard?
+"A baby leopard is called a cub."
+what
+7
+7
+leopard
+585
+What is a young leopard called?
+"A baby leopard is called a cub."
+what
+6
+7
+leopard
+586
+How fast do leopards run?
+"Leopards can usually run at over 36 mph."
+how
+5
+8
+leopard
+587
+What speed to leopards reach?
+"Leopards can usually run at over 36 mph."
+what
+5
+8
+leopard
+588
+At what speed can leopards travel?
+"Leopards can usually run at over 36 mph."
+what
+6
+8
+leopard
+589
+How quickly do leopards run?
+"Leopards can usually run at over 36 mph."
+how
+5
+8
+leopard
+590
+How speedy are leopards?
+"Leopards can usually run at over 36 mph."
+how
+4
+8
+leopard
+591
+What is the average leopard weight?
+"males 37-90kg (82-198lb), females 28-60 kg (62-132lb)."
+what
+6
+3
+leopard
+592
+How much does a leopard weigh?
+"males 37-90kg (82-198lb), females 28-60 kg (62-132lb)."
+how
+6
+3
+leopard
+593
+How heavy is a leopard?
+"males 37-90kg (82-198lb), females 28-60 kg (62-132lb)."
+how
+5
+3
+leopard
+594
+How many pounds does a leopard weigh?
+"males 37-90kg (82-198lb), females 28-60 kg (62-132lb)."
+how
+7
+3
+leopard
+595
+What is the weight of a leopard
+"males 37-90kg (82-198lb), females 28-60 kg (62-132lb)."
+what
+7
+3
+leopard
+596
+What continents are leopards found in?
+"Africa, Asia."
+what
+6
+1
+leopard
+597
+Where do leopards exist?
+"Africa, Asia."
+where
+4
+1
+leopard
+598
+What land masses do leopards live on?
+"Africa, Asia."
+what
+7
+1
+leopard
+599
+What areas of the world do leopards live?
+"Africa, Asia."
+what
+8
+1
+leopard
+600
+Where do leopards live?
+"Africa, Asia."
+where
+4
+1
+leopard
+601
+What animals are enemies of the leopard?
+"leopards have been seen to either kill or prey on competitors such as black-backed jackal, African wild cat and the cubs of lions, cheetahs, hyenas, and wild dogs."
+what
+7
+15
+leopard
+602
+What animals are leopards scared of?
+"leopards have been seen to either kill or prey on competitors such as black-backed jackal, African wild cat and the cubs of lions, cheetahs, hyenas, and wild dogs."
+what
+6
+15
+leopard
+603
+What animals are not friendly to leopards?
+"leopards have been seen to either kill or prey on competitors such as black-backed jackal, African wild cat and the cubs of lions, cheetahs, hyenas, and wild dogs."
+what
+7
+15
+leopard
+604
+What animals do leopards fear?
+"leopards have been seen to either kill or prey on competitors such as black-backed jackal, African wild cat and the cubs of lions, cheetahs, hyenas, and wild dogs."
+what
+5
+15
+leopard
+605
+What animals do leopards actively try to avoid?
+"leopards have been seen to either kill or prey on competitors such as black-backed jackal, African wild cat and the cubs of lions, cheetahs, hyenas, and wild dogs."
+what
+8
+15
+leopard
+606
+What animals do leopards compete with?
+"Leopards must compete for food and shelter with other large predators such as tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+6
+14
+leopard
+607
+What animals do leopards fight with?
+"Leopards must compete for food and shelter with other large predators such as tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+6
+14
+leopard
+608
+What animals do leopards match?
+" "Leopards must compete for food and shelter with other large predators such as tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+5
+14
+leopard
+609
+What are some the leopard&rsquo;s rival animals?
+" "Leopards must compete for food and shelter with other large predators such as tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+7
+14
+leopard
+610
+What animals do leopards not like?
+" "Leopards must compete for food and shelter with other large predators such as tigers, lions, spotted hyenas, striped hyenas, brown hyenas, up to five species of bear and both African and Asiatic wild dogs."
+what
+6
+14
+leopard
+611
+How many cubs are usually born per litter?
+"Cubs are usually born in a litter of 2нўд‰едум4 cubs."
+how
+8
+10
+Default
+612
+How many baby leopards are born at once?
+"Cubs are usually born in a litter of 2нўд‰едум4 cubs."
+how
+8
+10
+leopard
+613
+How many siblings does a leopard have in the womb?
+"Cubs are usually born in a litter of 2нўд‰едум4 cubs."
+how
+10
+10
+leopard
+614
+How many babies does a mom leopard have?
+"Cubs are usually born in a litter of 2нўд‰едум4 cubs."
+how
+8
+10
+leopard
+615
+How many cubs are in a family?
+"Cubs are usually born in a litter of 2нўд‰едум4 cubs."
+how
+7
+10
+Default
+616
+What is the age of the oldest leopard ever lived?
+"The oldest recorded spotted leopard was a female named Roxanne living in captivity at McCarthy's Wildlife Sanctuary in The Acreage, Palm Beach County, Florida. She died August 8, 2014 at the age of 24 years, 2 months and 13 days."
+what
+10
+20
+leopard
+617
+How old is the oldest leopard ever?
+"The oldest recorded spotted leopard was a female named Roxanne living in captivity at McCarthy's Wildlife Sanctuary in The Acreage, Palm Beach County, Florida. She died August 8, 2014 at the age of 24 years, 2 months and 13 days."
+how
+7
+20
+leopard
+618
+What is the oldest a leopard has ever gotten?
+"The oldest recorded spotted leopard was a female named Roxanne living in captivity at McCarthy's Wildlife Sanctuary in The Acreage, Palm Beach County, Florida. She died August 8, 2014 at the age of 24 years, 2 months and 13 days."
+what
+9
+20
+leopard
+619
+When did the oldest leopard die?
+"The oldest recorded spotted leopard was a female named Roxanne living in captivity at McCarthy's Wildlife Sanctuary in The Acreage, Palm Beach County, Florida. She died August 8, 2014 at the age of 24 years, 2 months and 13 days."
+when
+6
+20
+leopard
+620
+What is the record for the oldest leopard?
+"The oldest recorded spotted leopard was a female named Roxanne living in captivity at McCarthy's Wildlife Sanctuary in The Acreage, Palm Beach County, Florida. She died August 8, 2014 at the age of 24 years, 2 months and 13 days."
+what
+8
+20
+leopard
+621
+How do leopards outcompete their competitors?
+"Leopards co-exist alongside these other large predators by hunting for different types of prey and by avoiding areas frequented by them. Leopards may also retreat up a tree in the face of direct aggression from other large carnivores but leopards have been seen to either kill or prey on competitors."
+how
+6
+50
+leopard
+622
+How can leopards outperform their competitors?
+"Leopards co-exist alongside these other large predators by hunting for different types of prey and by avoiding areas frequented by them. Leopards may also retreat up a tree in the face of direct aggression from other large carnivores but leopards have been seen to either kill or prey on competitors."
+how
+6
+50
+leopard
+623
+What can leopards do to perform better to its opponents?
+"Leopards co-exist alongside these other large predators by hunting for different types of prey and by avoiding areas frequented by them. Leopards may also retreat up a tree in the face of direct aggression from other large carnivores but leopards have been seen to either kill or prey on competitors."
+what
+10
+50
+leopard
+624
+What will a leopard do to outperform their challengers?
+"Leopards co-exist alongside these other large predators by hunting for different types of prey and by avoiding areas frequented by them. Leopards may also retreat up a tree in the face of direct aggression from other large carnivores but leopards have been seen to either kill or prey on competitors."
+what
+9
+50
+leopard
+625
+How can leopards trick their rivals?
+"Leopards co-exist alongside these other large predators by hunting for different types of prey and by avoiding areas frequented by them. Leopards may also retreat up a tree in the face of direct aggression from other large carnivores but leopards have been seen to either kill or prey on competitors."
+how
+6
+50
+leopard
+626
+What animals are closely related to leopards?
+"Jaguar, lion, snow leopard, tiger."
+what
+7
+1
+leopard
+627
+What animals are in the same family as leopards?
+"Jaguar, lion, snow leopard, tiger."
+what
+9
+1
+leopard
+628
+What animals resemble leopards?
+"Jaguar, lion, snow leopard, tiger."
+what
+4
+1
+leopard
+629
+What animals are leopard's cousins?
+"Jaguar, lion, snow leopard, tiger."
+what
+5
+1
+leopard
+630
+What animals are like leopards?
+"Jaguar, lion, snow leopard, tiger."
+what
+5
+1
+leopard
+631
+How does a leopard hunt?
+"It will stalk the prey and try to approach as close as possible (typically within 5 metres (16 ft)) to the target, and finally pounce on it with its forepaws (unlike the lion, that pounces as the prey starts escaping) and kill it by suffocation. Small prey are killed with a bite on the back of the neck, while larger animals are held strongly by the neck and strangled."
+how
+5
+22
+leopard
+632
+What is a leopard's hunting behavior?
+"It will stalk the prey and try to approach as close as possible (typically within 5 metres (16 ft)) to the target, and finally pounce on it with its forepaws (unlike the lion, that pounces as the prey starts escaping) and kill it by suffocation. Small prey are killed with a bite on the back of the neck, while larger animals are held strongly by the neck and strangled."
+what
+6
+22
+leopard
+633
+How does a leopard chase their prey?
+"It will stalk the prey and try to approach as close as possible (typically within 5 metres (16 ft)) to the target, and finally pounce on it with its forepaws (unlike the lion, that pounces as the prey starts escaping) and kill it by suffocation. Small prey are killed with a bite on the back of the neck, while larger animals are held strongly by the neck and strangled."
+how
+7
+22
+leopard
+634
+What does a leopard do before killing their prey?
+"It will stalk the prey and try to approach as close as possible (typically within 5 metres (16 ft)) to the target, and finally pounce on it with its forepaws (unlike the lion, that pounces as the prey starts escaping) and kill it by suffocation. Small prey are killed with a bite on the back of the neck, while larger animals are held strongly by the neck and strangled."
+what
+9
+22
+leopard
+635
+How does a leopard track their food?
+"It will stalk the prey and try to approach as close as possible (typically within 5 metres (16 ft)) to the target, and finally pounce on it with its forepaws (unlike the lion, that pounces as the prey starts escaping) and kill it by suffocation. Small prey are killed with a bite on the back of the neck, while larger animals are held strongly by the neck and strangled."
+how
+7
+22
+leopard
+636
+What mating behavior do leopards display?
+"Female leopards can give birth at any time of the year. They usually have two grayish cubs with barely visible spots. The mother hides her cubs and moves them from one safe location to the next until they are old enough to begin playing and learning to hunt. Cubs live with their mothers for about two years, otherwise leopards are solitary animals."
+what
+6
+57
+leopard
+637
+What displays does a leopard put on when trying to mate?
+"Female leopards can give birth at any time of the year. They usually have two grayish cubs with barely visible spots. The mother hides her cubs and moves them from one safe location to the next until they are old enough to begin playing and learning to hunt. Cubs live with their mothers for about two years, otherwise leopards are solitary animals."
+what
+11
+57
+leopard
+638
+What do leopards display when attempting to mate?
+"Female leopards can give birth at any time of the year. They usually have two grayish cubs with barely visible spots. The mother hides her cubs and moves them from one safe location to the next until they are old enough to begin playing and learning to hunt. Cubs live with their mothers for about two years, otherwise leopards are solitary animals."
+what
+8
+57
+leopard
+639
+How do leopards breed?
+"Female leopards can give birth at any time of the year. They usually have two grayish cubs with barely visible spots. The mother hides her cubs and moves them from one safe location to the next until they are old enough to begin playing and learning to hunt. Cubs live with their mothers for about two years, otherwise leopards are solitary animals."
+how
+4
+57
+leopard
+640
+What will a leopard do to display an attempt to mate?
+"Female leopards can give birth at any time of the year. They usually have two grayish cubs with barely visible spots. The mother hides her cubs and moves them from one safe location to the next until they are old enough to begin playing and learning to hunt. Cubs live with their mothers for about two years, otherwise leopards are solitary animals."
+what
+11
+57
+leopard
+641
+How long does a leopard's gestation period last?
+"Gestation lasts for 90 to 105 days."
+how
+8
+7
+leopard
+642
+How long is a leopard pregnant for?
+"Gestation lasts for 90 to 105 days."
+how
+7
+7
+leopard
+643
+How long are baby leopards in their mom's belly?
+"Gestation lasts for 90 to 105 days."
+how
+9
+7
+leopard
+644
+How long does it take for a baby leopard to be born?
+"Gestation lasts for 90 to 105 days."
+how
+12
+7
+leopard
+645
+What time are leopards born?
+"Gestation lasts for 90 to 105 days."
+what
+5
+7
+leopard
+646
+What color fur do leopards have?
+"pale yellow to yellowish brown or golden but can vary by climate and geography."
+what
+6
+14
+leopard
+647
+What pelage color do leopards have?
+"pale yellow to yellowish brown or golden but can vary by climate and geography."
+what
+6
+14
+leopard
+648
+What color does a leopard have?
+"pale yellow to yellowish brown or golden but can vary by climate and geography."
+what
+6
+14
+leopard
+649
+What is the color of a leopard?
+"pale yellow to yellowish brown or golden but can vary by climate and geography."
+what
+7
+14
+leopard
+650
+What is a leopard's hair color?
+"pale yellow to yellowish brown or golden but can vary by climate and geography."
+what
+6
+14
+leopard
+651
+What is the average size of a leopard?
+"head and body length is typically 90-190 cm."
+what
+8
+8
+leopard
+652
+How big are leopards?
+"head and body length is typically 90-190 cm."
+how
+4
+8
+leopard
+653
+How massive are leopards?
+"head and body length is typically 90-190 cm."
+how
+4
+8
+leopard
+654
+What size do leopards get?
+"head and body length is typically 90-190 cm."
+what
+5
+8
+leopard
+655
+How large do leopards get?
+"head and body length is typically 90-190 cm."
+how
+5
+8
+leopard
+656
+How long can a leopard run for?
+"Default."
+how
+7
+1
+leopard
+657
+When does a leopard get tired of running?
+"Default."
+when
+8
+1
+leopard
+658
+How far can a leopard run without getting tired?
+"Default."
+how
+9
+1
+leopard
+659
+When do leopards need to take a break from running?
+"Default."
+when
+10
+1
+leopard
+660
+How much time can a leopard run for?
+"Default."
+how
+8
+1
+leopard
+661
+What is the scientific name of leopards?
+"Panthera pardus."
+what
+7
+2
+leopard
+662
+What is the fancy name for leopards?
+"Panthera pardus."
+what
+7
+2
+leopard
+663
+What do scientists call leopards?
+"Panthera pardus."
+what
+5
+2
+leopard
+664
+What other name do leopards go by?
+"Panthera pardus."
+what
+7
+2
+leopard
+665
+Do leopards have a nickname?
+"Panthera pardus."
+do
+5
+2
+leopard
+666
+How many pounds of food do leopards eat a week?
+"Default."
+how
+10
+1
+leopard
+667
+How much does a leopard eat?
+"Default."
+how
+6
+1
+leopard
+668
+How fast can a leopard run?
+"Default."
+how
+6
+1
+leopard
+669
+How many pounds of food will a leopard eat weekly?
+"Default."
+how
+10
+1
+leopard
+670
+What is the amount of pounds of food a leopard will eat in a week?
+"Default."
+what
+15
+1
+leopard
+671
+What color is a leopard
+"light fur with rosette."
+what
+5
+4
+leopard
+672
+What color does a leopard have
+"light fur with rosette."
+what
+6
+4
+leopard
+673
+What color is found on a leopard
+"light fur with rosette."
+what
+7
+4
+leopard
+674
+What color is that on a leopard
+"light fur with rosette."
+what
+7
+4
+leopard
+675
+What color do you see on the leopard
+"light fur with rosette."
+what
+8
+4
+leopard
+676
+How many leopards do you see
+"leopards have four legs."
+how
+6
+4
+leopard
+677
+How many leopards are here?
+"leopards have four legs."
+how
+5
+4
+leopard
+678
+How many leopards do you see?
+"leopards have four legs."
+how
+6
+4
+leopard
+679
+How many leopards can you count?
+"leopards have four legs."
+how
+6
+4
+leopard
+680
+whats the number of leopards present here
+"leopards have four legs."
+what
+7
+4
+leopard
+681
+What is the speed of a leopard
+"36 miles per hour."
+what
+7
+4
+leopard
+682
+How many miles per hour can a leopard run
+"37 miles per hour."
+how
+9
+4
+leopard
+683
+What is the fastest pace a leopard can run?
+"38 miles per hour."
+what
+9
+4
+leopard
+684
+How fast can a leopard run
+"39 miles per hour."
+how
+6
+4
+leopard
+685
+at what rate does a leopard run
+"40 miles per hour."
+what
+7
+4
+leopard
+686
+How old can a leopard be ?
+"they can live up to 17 years."
+how
+7
+7
+leopard
+687
+How long can leopard live?
+"they can live up to 17 years."
+how
+5
+7
+leopard
+688
+What the age of an old leopard
+"they can live up to 17 years."
+what
+7
+7
+leopard
+689
+How many years can a leopard live
+"they can live up to 17 years."
+how
+7
+7
+leopard
+690
+How long can leopard survive on earth
+"they can live up to 17 years."
+how
+7
+7
+leopard
+691
+ How many hours does a leopard sleep ?
+"roughly 12 hours a day."
+how
+8
+5
+leopard
+692
+How long does a leopard sleep
+"roughly 12 hours a day."
+how
+6
+5
+leopard
+693
+What is the sleep duration for leopard
+"roughly 12 hours a day."
+what
+7
+5
+leopard
+694
+How many hours does a leopard spend on sleep?
+"roughly 12 hours a day."
+how
+9
+5
+leopard
+695
+How long can leopard sleep
+"roughly 12 hours a day."
+how
+5
+5
+leopard
+696
+Where do leopards live ?
+"they live in forests, mountains, grassland and deserts."
+where
+5
+4
+leopard
+697
+What is the home of leopards
+"they live in forests, mountains, grassland and deserts."
+what
+6
+4
+leopard
+698
+Where can we find leopard
+"they live in forests, mountains, grassland and deserts."
+where
+5
+4
+leopard
+699
+What is the habitat for leopards
+"they live in forests, mountains, grassland and deserts."
+what
+6
+4
+leopard
+700
+What is the dwelling place for leopards
+"they live in forests, mountains, grassland and deserts."
+what
+7
+4
+leopard
+701
+How do leopards play?
+"they play fight with their siblings to learn the life skills they will need as an adults. eg hunting."
+how
+4
+19
+leopard
+702
+What is the favorite game for leopard
+"they play fight with their siblings to learn the life skills they will need as an adults. eg hunting."
+what
+7
+19
+leopard
+703
+What do we call the game for leopard
+"they play fight with their siblings to learn the life skills they will need as an adults. eg hunting."
+what
+8
+19
+leopard
+704
+What game do leopards love to play
+"they play fight with their siblings to learn the life skills they will need as an adults. eg hunting."
+what
+7
+19
+leopard
+705
+What is the most interesting game for leopards
+"they play fight with their siblings to learn the life skills they will need as an adults. eg hunting."
+what
+8
+19
+leopard
+706
+Who is the biggest enemy for leopards ?
+"hyenas, jackals, lions, tigers, bears and wild dogs."
+Default
+8
+1
+leopard
+707
+Who who hunts for leopard?
+"hyenas, jackals, lions, tigers, bears and wild dogs."
+Default
+5
+1
+leopard
+708
+Which animal do leopards hate
+"hyenas, jackals, lions, tigers, bears and wild dogs."
+do
+5
+1
+leopard
+709
+Who threatens leopards
+"hyenas, jackals, lions, tigers, bears and wild dogs."
+Default
+3
+1
+leopard
+710
+Who do leopards dislike the most
+"hyenas, jackals, lions, tigers, bears and wild dogs."
+do
+6
+1
+leopard
+711
+Who is a friend to leopards
+"domestic dogs are usually friends for leopards ."
+Default
+6
+7
+leopard
+712
+What is the name of the friend for leopards
+"domestic dogs are usually friends for leopards ."
+what
+9
+7
+leopard
+713
+Who loves to be with leopard
+"domestic dogs are usually friends for leopards ."
+Default
+6
+7
+leopard
+714
+Who do leopards love to be with
+"domestic dogs are usually friends for leopards ."
+do
+7
+7
+leopard
+715
+Who is a companion for leopards 
+"domestic dogs are usually friends for leopards ."
+Default
+6
+7
+leopard
+716
+12. How much do leopards weigh ?
+"68 pounds for males and 60 pounds for females."
+how
+7
+9
+leopard
+717
+What is the weight for leopards
+"69 pounds for males and 60 pounds for females."
+what
+6
+9
+leopard
+718
+How many pounds do leopards weigh
+"70 pounds for males and 60 pounds for females."
+how
+6
+9
+leopard
+719
+What is the typical weight for leopards
+"71 pounds for males and 60 pounds for females."
+what
+7
+9
+leopard
+720
+What is the average weight for leopards
+"72 pounds for males and 60 pounds for females."
+what
+7
+9
+leopard
+721
+What color are leopard's eyes
+"pale blue color ."
+what
+5
+3
+leopard
+722
+What is the color for leopard's eyes
+"pale blue color ."
+what
+7
+3
+leopard
+723
+How do leopards eyes look
+"pale blue color ."
+how
+5
+3
+leopard
+724
+Mention the color or leopard's eyes
+"pale blue color ."
+Default
+6
+3
+leopard
+725
+In what color are leopards eyes ?
+"pale blue color ."
+what
+7
+3
+leopard
+726
+What time do leopards prefer to work
+"they prefer to work at night."
+what
+7
+6
+leopard
+727
+What is the best time for leopards to work
+"they prefer to work at night."
+what
+9
+6
+leopard
+728
+What time of the day do leopards prefer to work
+"they prefer to work at night."
+what
+10
+6
+leopard
+729
+What part of the day will you find leopards working
+"they prefer to work at night."
+what
+10
+6
+leopard
+730
+What if the favorite time for leopards to work
+"they prefer to work at night."
+what
+9
+6
+leopard
+731
+What do leopards do when they are angry ?
+"leopards growl when angry."
+what
+9
+4
+leopard
+732
+What sign will leopards who when they are angry
+"leopards growl when angry."
+what
+9
+4
+leopard
+733
+How can you tell when leopards are angry
+"leopards growl when angry."
+when
+8
+4
+leopard
+734
+What sign will leopards give when they are angry
+"leopards growl when angry."
+what
+9
+4
+leopard
+735
+How do leopards show their anger
+"leopards growl when angry."
+how
+6
+4
+leopard
+736
+What do leopards do when they are content ?
+"leopards purr when content ."
+what
+9
+4
+leopard
+737
+What sign will leopards who when they are content
+"leopards purr when content ."
+what
+9
+4
+leopard
+738
+How can you tell if leopards are content?
+"leopards purr when content ."
+how
+8
+4
+leopard
+739
+What sign will leopards give when they are content?
+"leopards purr when content ."
+what
+9
+4
+leopard
+740
+how do leopards express themselves when they are content
+"leopards purr when content ."
+when
+9
+4
+leopard
+741
+Where do leopards take  their prey in trees?
+"They take their prey up in trees to keep them out of reach of lions and hyenas."
+where
+8
+17
+leopard
+742
+What is the best place for leopards to keep their prey ?
+"They take their prey up in trees to keep them out of reach of lions and hyenas."
+what
+12
+17
+leopard
+743
+How do leopards secure their prey from other animals reach?
+"They take their prey up in trees to keep them out of reach of lions and hyenas."
+how
+10
+17
+leopard
+744
+What is the most convenient place for leopards to take their prey?
+"They take their prey up in trees to keep them out of reach of lions and hyenas."
+what
+12
+17
+leopard
+745
+How do leopards hide their prey from other animals
+"They take their prey up in trees to keep them out of reach of lions and hyenas."
+how
+9
+17
+leopard
+746
+How do leopards mark their ranges to remember their path?
+"they mark their ranges with urine."
+how
+10
+6
+leopard
+747
+What sign will leopards leave on path for future reference?
+"they mark their ranges with urine."
+what
+10
+6
+leopard
+748
+How do leopards keep track of their path
+"they mark their ranges with urine."
+how
+8
+6
+leopard
+749
+What do leopards do to avoid getting lost on a new path?
+"they mark their ranges with urine."
+what
+12
+6
+leopard
+750
+How do leopards remember their directions
+"they mark their ranges with urine."
+how
+6
+6
+leopard
+751
+What warning signs do leopards give to their friends to stay away from a dangerous path
+"they leave claw marks on trees to warn their friends ."
+what
+16
+10
+leopard
+752
+How do leopards make their friends stay away from a dangerous path
+"they leave claw marks on trees to warn their friends ."
+how
+12
+10
+leopard
+753
+What sign do leopards leave on tree to warn their friends that there is danger in that area
+"they leave claw marks on trees to warn their friends ."
+what
+18
+10
+leopard
+754
+What leopards do to trees to place a warning sign for their friends
+"they leave claw marks on trees to warn their friends ."
+what
+13
+10
+leopard
+755
+How do leopards keep their friends safe when they sense danger on a path
+"they leave claw marks on trees to warn their friends ."
+when
+14
+10
+leopard
+756
+How do leopards announce their presence to other leopards ?
+"they perfome various vocalisations eg rasping coughs to annouce their presence."
+how
+10
+11
+leopard
+757
+What sign do leopards give other leopards to show their presence?
+"they perfome various vocalisations eg rasping coughs to annouce their presence."
+what
+11
+11
+leopard
+758
+How do other leopards know that another leopard is available nearby ?
+"they perfome various vocalisations eg rasping coughs to annouce their presence."
+how
+12
+11
+leopard
+759
+What signal do leopards give other leopards as a way to announce their presence ?
+"they perfome various vocalisations eg rasping coughs to annouce their presence."
+what
+15
+11
+leopard
+760
+How do leopards reveal their presence to other leopards ?
+"they perfome various vocalisations eg rasping coughs to annouce their presence."
+how
+10
+11
+leopard
+761
+What do we call the dark spots on leopards fur?
+"rosette ."
+what
+10
+1
+leopard
+762
+What are the dark spots found on leopards fur?
+"rosette ."
+what
+9
+1
+leopard
+763
+What dark spots on makes leopards beautiful and distinct?
+"rosette ."
+what
+9
+1
+leopard
+764
+What do leopards have that make their light fur beautiful ?
+"rosette ."
+what
+11
+1
+leopard
+765
+What feature is on leopards fur that make them beautiful
+"rosette ."
+what
+10
+1
+leopard
+766
+Why is the sense of hearing for leopards better than humans?
+"they can pick up various sounds  five times more than a human ear."
+why
+11
+13
+leopard
+767
+How are leopards ears better off than humans
+"they can pick up various sounds  five times more than a human ear."
+how
+8
+13
+leopard
+768
+How are leopards very sensitive to sounds as compared to humans
+"they can pick up various sounds  five times more than a human ear."
+how
+11
+13
+leopard
+769
+how powerful is leopards ear as compared to a human ear
+"they can pick up various sounds  five times more than a human ear."
+how
+11
+13
+leopard
+770
+What makes a leopards ear unique when compared to a human ea?r
+"they can pick up various sounds  five times more than a human ear."
+what
+12
+13
+leopard
+771
+How many legs do leopards have?
+"they have four legs ."
+how
+6
+4
+leopard
+772
+How many legs do you see on a leopard ?
+"they have four legs ."
+how
+10
+4
+leopard
+773
+What is the total number of legs that leopards have?
+"they have four legs ."
+what
+10
+4
+leopard
+774
+how many legs are found on a leopard
+"they have four legs ."
+how
+8
+4
+leopard
+775
+How many legs do leopards walk with?
+"they have four legs ."
+how
+7
+4
+leopard
+776
+How does a leopard sleep?
+"laying down on a tree."
+how
+5
+5
+leopard
+777
+In what position does a leopard sleep?
+"laying down on a tree."
+what
+7
+5
+leopard
+778
+Which position does a leopard sleep in?
+"laying down on a tree."
+do
+7
+5
+leopard
+779
+In which position does a leopard sleep in?
+"laying down on a tree."
+do
+8
+5
+leopard
+780
+When a leopard sleep how does it do it?
+"laying down on a tree."
+when
+9
+5
+leopard
+781
+How far can a leopard leap?
+"Leopards can leap 20 feet."
+how
+6
+5
+leopard
+782
+How far can a leopard jump?
+"Leopards can leap 20 feet."
+how
+6
+5
+leopard
+783
+What distance can a leopard jump?
+"Leopards can leap 20 feet."
+what
+6
+5
+leopard
+784
+What distance can a leopard leap?
+"Leopards can leap 20 feet."
+what
+6
+5
+leopard
+785
+How much distance can a leopard cover in one leap?
+"Leopards can leap 20 feet."
+how
+10
+5
+leopard
+786
+How do leopards mark their territory?
+"Leopards scratch a tree."
+how
+6
+4
+leopard
+787
+What do leopards do to mark their territory?
+"Leopards scratch a tree."
+what
+8
+4
+leopard
+788
+How do leopards let other animals know it&rsquo;s their house?
+"Leopards scratch a tree."
+how
+10
+4
+leopard
+789
+How do leopards let other animals know this is their home?
+"Leopards scratch a tree."
+how
+11
+4
+leopard
+790
+How do leopards mar their home?
+"Leopards scratch a tree."
+how
+6
+4
+leopard
+791
+What noise do leopards make when they are happy?
+"Leopards purr when they are happy."
+what
+9
+6
+leopard
+792
+What do leopards do when they are happy?
+"Leopards purr when they are happy."
+what
+8
+6
+leopard
+793
+How do leopards show they are happy?
+"Leopards purr when they are happy."
+how
+7
+6
+leopard
+794
+How does a leopard demonstrate its happiness?
+"Leopards purr when they are happy."
+how
+7
+6
+leopard
+795
+How do leopards demonstrate they are happy?
+"Leopards purr when they are happy."
+how
+7
+6
+leopard
+796
+What noise do leopards make when they are angry?
+"Leopards growl."
+what
+9
+2
+leopard
+797
+What do leopards do when they are angry?
+"Leopards growl."
+what
+8
+2
+leopard
+798
+How do leopards demonstrate their anger?
+"Leopards growl."
+how
+6
+2
+leopard
+799
+How do leopards show their anger?
+"Leopards growl."
+how
+6
+2
+leopard
+800
+What noise do leopards make to show they are angry?
+"Leopards growl."
+what
+10
+2
+leopard
+801
+Do leopards live alone?
+"Yes, leopards are isolated animals."
+do
+4
+1
+leopard
+802
+Are leopards isolated animals?
+"Yes, leopards are isolated animals."
+be
+4
+1
+leopard
+803
+Do leopards live in isolation?
+"Yes, leopards are isolated animals."
+do
+5
+1
+leopard
+804
+Are leopards lonely?
+"Yes, leopards are isolated animals."
+be
+3
+1
+leopard
+805
+Do leopards like living alone?
+"Yes, leopards are isolated animals."
+do
+5
+1
+leopard
+806
+How tall are leopards?
+"leopards are 2-3 feet tall."
+how
+4
+5
+leopard
+807
+How big are leopards?
+"leopards are 2-3 feet tall."
+how
+4
+5
+leopard
+808
+What height are leopards?
+"leopards are 2-3 feet tall."
+what
+4
+5
+leopard
+809
+What is a leopard&rsquo;s height?
+"leopards are 2-3 feet tall."
+what
+5
+5
+leopard
+810
+What size are leopards?
+"leopards are 2-3 feet tall."
+what
+4
+5
+leopard
+811
+What do leopards do during the day?
+"Leopards rest during the day."
+what
+7
+5
+leopard
+812
+How do leopards spend their day?
+"Leopards rest during the day."
+how
+6
+5
+leopard
+813
+What do leopards do for most of the day?
+"Leopards rest during the day."
+what
+9
+5
+leopard
+814
+What is a leopard&rsquo;s favorite thing to do in the day?
+"Leopards rest during the day."
+what
+11
+5
+leopard
+815
+What is the leopards favorite hobby in the day?
+"Leopards rest during the day."
+what
+9
+5
+leopard
+816
+Are leopards carnivores?
+"Yes they like to eat meat."
+be
+3
+6
+leopard
+817
+Do leopards eat meat?
+"Yes they like to eat meat."
+do
+4
+6
+leopard
+818
+Do leopards enjoy eating meat?
+"Yes they like to eat meat."
+do
+5
+6
+leopard
+819
+Are leopards meat eaters?
+"Yes they like to eat meat."
+be
+4
+6
+leopard
+820
+Is meat in a leopard's diet?
+"Yes they like to eat meat."
+be
+6
+6
+leopard
+821
+Where do leopards hide their food?
+"leopards hide their food on top of trees."
+where
+6
+8
+leopard
+822
+What do leopards do with their food?
+"leopards hide their food on top of trees."
+what
+7
+8
+leopard
+823
+Where do leopards like to eat their food?
+"leopards hide their food on top of trees."
+where
+8
+8
+leopard
+824
+Where do leopards like to eat their meals?
+"leopards hide their food on top of trees."
+where
+8
+8
+leopard
+825
+Where do leopards put their food?
+"leopards hide their food on top of trees."
+where
+6
+8
+leopard
+826
+What family do leopards belong to?
+"the cat family."
+what
+6
+3
+leopard
+827
+What family are leopards part of?
+"the cat family."
+what
+6
+3
+leopard
+828
+What family is the leopards in?
+"the cat family."
+what
+6
+3
+leopard
+829
+The leopards belong to what family?
+"the cat family."
+what
+6
+3
+leopard
+830
+Which family do leopards belong to?
+"the cat family."
+do
+6
+3
+leopard
+831
+Are leopards great swimmers?
+"yes they are great swimmers."
+be
+4
+5
+leopard
+832
+Can leopards swim?
+"yes they are great swimmers."
+Default
+3
+5
+leopard
+833
+Are leopards able to swim?
+"yes they are great swimmers."
+be
+5
+5
+leopard
+834
+Do leopards like the water?
+"yes they are great swimmers."
+do
+5
+5
+leopard
+835
+Do leopards enjoy swimming?
+"yes they are great swimmers."
+do
+4
+5
+leopard
+836
+What kind of pattern do leopards have on their skin?
+"leopards have rosettes on their skin."
+what
+10
+6
+leopard
+837
+What is another name for the leopard&rsquo;s black spots?
+"leopards have rosettes on their skin."
+what
+9
+6
+leopard
+838
+What is another name for the leopard&rsquo;s black spots on their skin?
+"leopards have rosettes on their skin."
+what
+12
+6
+leopard
+839
+What are the black spots on the leopard&rsquo;s skin called?
+"leopards have rosettes on their skin."
+what
+10
+6
+leopard
+840
+What do you call the black spots on the leopard?
+"leopards have rosettes on their skin."
+what
+10
+6
+leopard
+841
+What is a female leopard called?
+"a female leopard is called leopardess."
+what
+6
+6
+leopard
+842
+What is another name for a female leopard?
+"a female leopard is called leopardess."
+what
+8
+6
+leopard
+843
+What do you call a female leopard?
+"a female leopard is called leopardess."
+what
+7
+6
+leopard
+844
+What is a female leopard known as?
+"a female leopard is called leopardess."
+what
+7
+6
+leopard
+845
+What is the proper name of a female leopard?
+"a female leopard is called leopardess."
+what
+9
+6
+leopard
+846
+What is a male leopard called?
+"a male leopard is called a leopard."
+what
+6
+7
+leopard
+847
+What is another name for a male leopard?
+"a male leopard is called a leopard."
+what
+8
+7
+leopard
+848
+What do you call a male leopard?
+"a male leopard is called a leopard."
+what
+7
+7
+leopard
+849
+What is a male leopard known as?
+"a male leopard is called a leopard."
+what
+7
+7
+leopard
+850
+What is the proper name of a male leopard?
+"a male leopard is called a leopard."
+what
+9
+7
+leopard
+851
+What is the scientific name of a leopard?
+"the scientific name of a leopard is panthera pardus."
+what
+8
+9
+leopard
+852
+What is the proper name of a leopard?
+"the scientific name of a leopard is panthera pardus."
+what
+8
+9
+leopard
+853
+What is the binomen of a leopard?
+"the scientific name of a leopard is panthera pardus."
+what
+7
+9
+leopard
+854
+What is the binomial name of a leopard?
+"the scientific name of a leopard is panthera pardus."
+what
+8
+9
+leopard
+855
+What is the species epithet of the leopard?
+"the scientific name of a leopard is panthera pardus."
+what
+8
+9
+leopard
+856
+How long do cubs live with their mother?
+"two years."
+how
+8
+2
+Default
+857
+After how many years do cubs leave their mother?
+"two years."
+how
+9
+2
+Default
+858
+For how long do mothers stay with their cubs?
+"two years."
+how
+9
+2
+Default
+859
+How long does a mother shadow their cubs?
+"two years."
+how
+8
+2
+Default
+860
+How many years do cubs spend with their mother?
+"two years."
+how
+9
+2
+Default
+861
+How long is a leopard's tail?
+"the length of the body."
+how
+6
+5
+leopard
+862
+What is the length of the leopard&rsquo;s tail?
+"the length of the body."
+what
+8
+5
+leopard
+863
+How long do you think the leopard&rsquo;s tail is?
+"the length of the body."
+how
+9
+5
+leopard
+864
+What is the measurement of the leopard&rsquo;s tail?
+"the length of the body."
+what
+8
+5
+leopard
+865
+How big is the leopard&rsquo;s tail?
+"the length of the body."
+how
+6
+5
+leopard
+866
+Are leopards shy?
+"Yes, they are rarely seen."
+be
+3
+1
+leopard
+867
+Do leopards like to be shy?
+"Yes, they are rarely seen."
+do
+6
+1
+leopard
+868
+Are leopard easily frightened?
+"Yes, they are rarely seen."
+be
+4
+1
+leopard
+869
+Why are leopards cautious?
+"Yes, they are rarely seen."
+why
+4
+1
+leopard
+870
+Are leopards hesitant to contact humans?
+"Yes, they are rarely seen."
+be
+6
+1
+leopard
+871
+What do leopards use their tail for?
+"to keep balance."
+what
+7
+3
+leopard
+872
+What does the tail help the leopard maintain?
+"to keep balance."
+what
+8
+3
+leopard
+873
+What use those the tail have for the leopard?
+"to keep balance."
+what
+9
+3
+leopard
+874
+What is one function of the leopard&rsquo;s tail?
+"to keep balance."
+what
+8
+3
+leopard
+875
+What purpose does a leopard&rsquo;s tail have?
+"to keep balance."
+what
+7
+3
+leopard
+876
+Where does the name leopard come from?
+"Greek word leopardus."
+where
+7
+3
+leopard
+877
+What origin does the name leopard have?
+"Greek word leopardus."
+what
+7
+3
+leopard
+878
+What is the origin of the name leopard?
+"Greek word leopardus."
+what
+8
+3
+leopard
+879
+What is the greek word of leopard?
+"Greek word leopardus."
+what
+7
+3
+leopard
+880
+Where does the name leopard derive from?
+"Greek word leopardus."
+where
+7
+3
+leopard
+881
+What are two things leopards are good at?
+"swimming or climbing."
+what
+8
+3
+leopard
+882
+What are two skills leopards possess?
+"swimming or climbing."
+what
+6
+3
+leopard
+883
+What are two things leopards can do well?
+"swimming or climbing."
+what
+8
+3
+leopard
+884
+What are two skills leopards have?
+"swimming or climbing."
+what
+6
+3
+leopard
+885
+What are two things leopards do better than other cats?
+"swimming or climbing."
+what
+10
+3
+leopard
+886
+What purpose does the white spot on the tail serve?
+"to communicate with other animals in tall grass."
+what
+10
+8
+Default
+887
+What does the leopard use the white spots on its tail?
+"to communicate with other animals in tall grass."
+what
+11
+8
+leopard
+888
+Why does a leopard use its tail with a white spot in tall grass?
+"to communicate with other animals in tall grass."
+why
+14
+8
+leopard
+889
+What is the purpose of the white spot on the tail of the leopard?
+"to communicate with other animals in tall grass."
+what
+14
+8
+leopard
+890
+Why is the white spot in the tail of the leopard important?
+"to communicate with other animals in tall grass."
+why
+12
+8
+leopard
+891
+What is one animal that steals food from leopards?
+"Lions and hyenas ."
+what
+9
+3
+leopard
+892
+What is one animal the leopards must protect their food from?
+"Lions and hyenas ."
+what
+11
+3
+leopard
+893
+What is one animal the leopards dont like to be close by when they are eating?
+"Lions and hyenas ."
+what
+16
+3
+leopard
+894
+Can you name an animal that steals the leopards food?
+"Lions and hyenas ."
+Default
+10
+3
+leopard
+895
+What is one animal that likes to take the leopard&rsquo;s food?
+"Lions and hyenas ."
+what
+11
+3
+leopard
+896
+What kingdom do leopards belong to? 
+"Animalia."
+what
+6
+1
+leopard
+897
+What is the kindom in which leopards belong to?
+"Animalia."
+what
+9
+1
+leopard
+898
+What is the scientific kingdom of leopards?
+"Animalia."
+what
+7
+1
+leopard
+899
+What scientific kingdom do leopards belong to? 
+"Animalia."
+what
+7
+1
+leopard
+900
+What is the name of the scientific kingdom lwhicheopards belong to? 
+"Animalia."
+what
+11
+1
+Default
+901
+What Phylum do leopards belong to?
+"Chordata."
+what
+6
+1
+leopard
+902
+What is the phylum in which leopards belong to?
+"Chordata."
+what
+9
+1
+leopard
+903
+What is the scientific phylum of leopards?
+"Chordata."
+what
+7
+1
+leopard
+904
+What scientific phylum do leopards belong to? 
+"Chordata."
+what
+7
+1
+leopard
+905
+What is the name of the scientific phylum which  leopards belong to? 
+"Chordata."
+what
+12
+1
+leopard
+906
+What clade do leopards belong to? 
+"Synapsida ."
+what
+6
+1
+leopard
+907
+What is the clade in which leopards belong to?
+"Synapsida ."
+what
+9
+1
+leopard
+908
+What is the scientific clade of leopards?
+"Synapsida ."
+what
+7
+1
+leopard
+909
+What scientific clade do leopards belong to? 
+"Synapsida ."
+what
+7
+1
+leopard
+910
+What is the name of the scientific clade which leopards belong to? 
+"Synapsida ."
+what
+12
+1
+leopard
+911
+What class do leopards belong to?
+"Mammalia."
+what
+6
+1
+leopard
+912
+What is the class in which leopards belong to?
+"Mammalia."
+what
+9
+1
+leopard
+913
+What is the scientific class of leopards?
+"Mammalia."
+what
+7
+1
+leopard
+914
+What scientific class do leopards belong to? 
+"Mammalia."
+what
+7
+1
+leopard
+915
+What is the name of the scientific class which leopards belong to? 
+"Mammalia."
+what
+12
+1
+leopard
+916
+What order to leopards belong to?
+"Carnivora."
+what
+6
+1
+leopard
+917
+What is the order in which leopards belong to?
+"Carnivora."
+what
+9
+1
+leopard
+918
+What is the scientific order of leopards?
+"Carnivora."
+what
+7
+1
+leopard
+919
+What scientific order do leopards belong to? 
+"Carnivora."
+what
+7
+1
+leopard
+920
+What is the name of the scientific order leopards belong to? 
+"Carnivora."
+what
+11
+1
+leopard
+921
+What family do leopards belong to?
+"Felidae."
+what
+6
+1
+leopard
+922
+What is the kindom in which leopards belong to?
+"Felidae."
+what
+9
+1
+leopard
+923
+What is the scientific family of leopards?
+"Felidae."
+what
+7
+1
+leopard
+924
+What scientific family do leopards belong to? 
+"Felidae."
+what
+7
+1
+leopard
+925
+What is the name of the scientific family leopards belong to? 
+"Felidae."
+what
+11
+1
+leopard
+926
+What genus do leopards belong to? 
+"Panthera ."
+what
+6
+1
+leopard
+927
+What is the genus in which leopards belong to?
+"Panthera ."
+what
+9
+1
+leopard
+928
+What is the scientific genus of leopards?
+"Panthera ."
+what
+7
+1
+leopard
+929
+What scientific genus do leopards belong to? 
+"Panthera ."
+what
+7
+1
+leopard
+930
+What is the name of the scientific genus leopards belong to? 
+"Panthera ."
+what
+11
+1
+leopard
+931
+What species do leopards belong to?
+"P. pardus."
+what
+6
+2
+leopard
+932
+What is the species in which leopards belong to?
+"P. pardus."
+what
+9
+2
+leopard
+933
+What is the scientific species of leopards?
+"P. pardus."
+what
+7
+2
+leopard
+934
+What scientific species do leopards belong to? 
+"P. pardus."
+what
+7
+2
+leopard
+935
+What is the name of the scientific species which leopards belong to? 
+"P. pardus."
+what
+12
+2
+leopard
+936
+What is the leopards closest relative
+"The leopards closest relative is the Lion."
+what
+6
+7
+leopard
+937
+What animal is most closely related to the leopard
+"The leopards closest relative is the Lion."
+what
+9
+7
+leopard
+938
+What animal is the leopards closest relative
+"The leopards closest relative is the Lion."
+what
+7
+7
+leopard
+939
+Are leopards closely related to another animal? 
+"The leopards closest relative is the Lion."
+be
+7
+7
+leopard
+940
+Who is the leopards closest relative
+"The leopards closest relative is the Lion."
+Default
+6
+7
+leopard
+941
+Are leopards endangered?
+"Leopards are Near Threatened."
+be
+3
+4
+leopard
+942
+Are leopards an endangered species?
+"Leopards are Near Threatened."
+be
+5
+4
+leopard
+943
+Are leopards classified as endangered?
+"Leopards are Near Threatened."
+be
+5
+4
+leopard
+944
+Is a leopard an endangered animal?
+"Leopards are Near Threatened."
+be
+6
+4
+leopard
+945
+Are leopards on the list of endangered species
+"Leopards are Near Threatened."
+be
+8
+4
+leopard
+946
+Who are the leopards predators?
+"Humans."
+Default
+5
+1
+leopard
+947
+Who prays on leopards? 
+"Humans."
+Default
+4
+1
+leopard
+948
+What animal prays on leopards?
+"Humans."
+what
+5
+1
+leopard
+949
+Is a leopard preyed on?
+"Humans."
+be
+5
+1
+leopard
+950
+What is the leopards pray?
+"Humans."
+what
+5
+1
+leopard
+951
+Why are leopards hunted?
+"Leopards are hunted for their soft fur whcih is used to make coats and ceremonial robes as well as for their claws, whiskers, and tails."
+why
+4
+22
+leopard
+952
+Why do humans hunt leopards?
+"Leopards are hunted for their soft fur whcih is used to make coats and ceremonial robes as well as for their claws, whiskers, and tails."
+why
+5
+22
+leopard
+953
+Why do humans like to hunt leopards?
+"Leopards are hunted for their soft fur whcih is used to make coats and ceremonial robes as well as for their claws, whiskers, and tails."
+why
+7
+22
+leopard
+954
+Why are leopards a popular animal to hunt?
+"Leopards are hunted for their soft fur whcih is used to make coats and ceremonial robes as well as for their claws, whiskers, and tails."
+why
+8
+22
+leopard
+955
+Why do people like to hunt leopards
+"Leopards are hunted for their soft fur whcih is used to make coats and ceremonial robes as well as for their claws, whiskers, and tails."
+why
+7
+22
+leopard
+956
+Can leopards live with humans?
+"No, leopards are a nuisance to humans."
+Default
+5
+1
+leopard
+957
+Do leopards live with humans?
+"No, leopards are a nuisance to humans."
+do
+5
+1
+leopard
+958
+Can leopards and humans co-habitate?
+"No, leopards are a nuisance to humans."
+Default
+5
+1
+leopard
+959
+Can leopards live in proximity to humans?
+"No, leopards are a nuisance to humans."
+Default
+7
+1
+leopard
+960
+Are leopards found living near numans. 
+"No, leopards are a nuisance to humans."
+be
+6
+1
+leopard
+961
+Where does the word leopard come from?
+"The name ""leopard"" comes from the Greek word leopardus, which is a combination of leon (lion) and pardus (panther)."
+where
+7
+9
+leopard
+962
+How did the leopard get his name?
+"The name ""leopard"" comes from the Greek word leopardus, which is a combination of leon (lion) and pardus (panther)."
+how
+7
+9
+leopard
+963
+Where did the word leopard originate?
+"The name ""leopard"" comes from the Greek word leopardus, which is a combination of leon (lion) and pardus (panther)."
+where
+6
+9
+leopard
+964
+Where does the name leopard originate form?
+"The name ""leopard"" comes from the Greek word leopardus, which is a combination of leon (lion) and pardus (panther)."
+where
+7
+9
+leopard
+965
+Where does leopard come from?
+"The name ""leopard"" comes from the Greek word leopardus, which is a combination of leon (lion) and pardus (panther)."
+where
+5
+9
+leopard
+966
+Do leopards drink water?
+"Leopards don't need much water. They survive from the moisture they get from eating their prey."
+do
+4
+16
+leopard
+967
+How much water do leopards drink?
+"Leopards don't need much water. They survive from the moisture they get from eating their prey."
+how
+6
+16
+leopard
+968
+Do leopards drink a lot of water?
+"Leopards don't need much water. They survive from the moisture they get from eating their prey."
+do
+7
+16
+leopard
+969
+Do leopards like to drink water?
+"Leopards don't need much water. They survive from the moisture they get from eating their prey."
+do
+6
+16
+leopard
+970
+How much water do leopards need?
+"Leopards don't need much water. They survive from the moisture they get from eating their prey."
+how
+6
+16
+leopard
+971
+Do leopards have good hearing?
+"Leopards can hear 5x more sound than the human ear."
+do
+5
+10
+leopard
+972
+Can leopards hear well?
+"Leopards can hear 5x more sound than the human ear."
+Default
+4
+10
+leopard
+973
+Do leopards have a good sence of hearing?
+"Leopards can hear 5x more sound than the human ear."
+do
+8
+10
+leopard
+974
+Can leopards hear?
+"Leopards can hear 5x more sound than the human ear."
+Default
+3
+10
+leopard
+975
+How well do leopards hear?
+"Leopards can hear 5x more sound than the human ear."
+how
+5
+10
+leopard
+976
+How many Amur leopards are there?
+"There are only about 60 Amur leopards left in the world."
+how
+6
+11
+leopard
+977
+How many Amur leopards exist?
+"There are only about 60 Amur leopards left in the world."
+how
+5
+11
+leopard
+978
+How many Amur leopards are still alive today?
+"There are only about 60 Amur leopards left in the world."
+how
+8
+11
+leopard
+979
+Are Amur leopards still alive?
+"There are only about 60 Amur leopards left in the world."
+be
+5
+11
+leopard
+980
+How many Amur leopards are alive?
+"There are only about 60 Amur leopards left in the world."
+how
+6
+11
+leopard
+981
+Which leopards are critically endangered?
+"Amur, North Chinese, Javan, Sri-Lankan, Arabian."
+Default
+5
+1
+leopard
+982
+What are the leopards that are critically endangere?
+"Amur, North Chinese, Javan, Sri-Lankan, Arabian."
+what
+8
+1
+leopard
+983
+What leopards are most endangered?
+"Amur, North Chinese, Javan, Sri-Lankan, Arabian."
+what
+5
+1
+leopard
+984
+What species of leopards are most endangered?
+"Amur, North Chinese, Javan, Sri-Lankan, Arabian."
+what
+7
+1
+leopard
+985
+Which species of leopards are most endangered?
+"Amur, North Chinese, Javan, Sri-Lankan, Arabian."
+Default
+7
+1
+leopard
+986
+Do leopards live in South America?
+"No, leopards are not native to South America."
+do
+6
+1
+leopard
+987
+Are leopards native to South America?
+"No, leopards are not native to South America."
+be
+6
+1
+leopard
+988
+Are leopards found living in South America?
+"No, leopards are not native to South America."
+be
+7
+1
+leopard
+989
+Do leopards live anywhere in South America?
+"No, leopards are not native to South America."
+where
+7
+1
+leopard
+990
+Are leopards found in regions in South America
+"No, leopards are not native to South America."
+be
+8
+1
+leopard
+991
+How tall is a Gazelle?
+"2-3.6 feet tall."
+how
+5
+3
+gazelle
+992
+What's the height of a gazelle?
+"2-3.6 feet tall."
+what
+6
+3
+gazelle
+993
+How many feet tall is a Gazelle?
+"2-3.6 feet tall."
+how
+7
+3
+gazelle
+994
+How many feet is a Gazelle?
+"2-3.6 feet tall."
+how
+6
+3
+gazelle
+995
+How big is a gazelle?
+"2-3.6 feet tall."
+how
+5
+3
+gazelle
+996
+How long do Gazelles live?
+"10-15 years."
+how
+5
+2
+gazelle
+997
+What's the lifespan of a gazelle?
+"10-15 years."
+what
+6
+2
+gazelle
+998
+How old do gazelles get?
+"10-15 years."
+how
+5
+2
+gazelle
+999
+what is the average life of a Gazelle?
+"10-15 years."
+what
+8
+2
+gazelle
+1000
+What is average lifespan of a gazelle?
+"10-15 years."
+what
+7
+2
+gazelle
+1001
+Where do Gazelles come from?
+"Africa and parts of Asia."
+where
+5
+5
+gazelle
+1002
+What country are gazelles from?
+"Africa and parts of Asia."
+what
+5
+5
+gazelle
+1003
+What's the origin of a gazelle?
+"Africa and parts of Asia."
+what
+6
+5
+gazelle
+1004
+Where do gazelles originate from?
+"Africa and parts of Asia."
+where
+5
+5
+gazelle
+1005
+Where is gazelles' home?
+"Africa and parts of Asia."
+where
+4
+5
+gazelle
+1006
+Where do Gazelles live?
+"many countries in Africa and Asia."
+where
+4
+6
+gazelle
+1007
+which area do gazelles live?
+"many countries in Africa and Asia."
+do
+5
+6
+gazelle
+1008
+Where do gazelles live in?
+"many countries in Africa and Asia."
+where
+5
+6
+gazelle
+1009
+What country do gazelles live in? 
+"many countries in Africa and Asia."
+what
+6
+6
+gazelle
+1010
+what part of the world gazelles live?
+"many countries in Africa and Asia."
+what
+7
+6
+gazelle
+1011
+What color are Gazelles?
+"most gazelles are brown and white ."
+what
+4
+6
+gazelle
+1012
+What color is a gazelle?
+"most gazelles are brown and white ."
+what
+5
+6
+gazelle
+1013
+What colors are gazelles?
+"most gazelles are brown and white ."
+what
+4
+6
+gazelle
+1014
+What colors is a gazelle?
+"most gazelles are brown and white ."
+what
+5
+6
+gazelle
+1015
+what colors do gazelles have?
+"most gazelles are brown and white ."
+what
+5
+6
+gazelle
+1016
+What do Gazelles eat?
+"herbs, shrubs and grasses."
+what
+4
+1
+gazelle
+1017
+What's the diet of a gazelle?
+"herbs, shrubs and grasses."
+what
+6
+1
+gazelle
+1018
+What are gazelle's main foods?
+"herbs, shrubs and grasses."
+what
+5
+1
+gazelle
+1019
+What does a gazelle eat?
+"herbs, shrubs and grasses."
+what
+5
+1
+gazelle
+1020
+what is on gazelle's dish?
+"herbs, shrubs and grasses."
+what
+5
+1
+gazelle
+1021
+How many teeth do Gazelles have?
+"32.0."
+how
+6
+1
+gazelle
+1022
+do gazelles have many teeth
+"32.0."
+do
+5
+1
+gazelle
+1023
+do gazelles have very many teeth?
+"32.0."
+do
+6
+1
+gazelle
+1024
+what number of teeth do gazelles have?
+"32.0."
+what
+7
+1
+gazelle
+1025
+how many teeth gazelles bear?
+"32.0."
+how
+5
+1
+gazelle
+1026
+What are Gazelles related to?
+"Antelopes ."
+what
+5
+1
+gazelle
+1027
+Are gazelles related to another animal?
+"Antelopes ."
+be
+6
+1
+gazelle
+1028
+What animal are gazelles related to?
+"Antelopes ."
+what
+6
+1
+gazelle
+1029
+What animal are gazelles like?
+"Antelopes ."
+what
+5
+1
+gazelle
+1030
+What animls is gazelle related to?
+"Antelopes ."
+what
+6
+1
+gazelle
+1031
+How much do Gazelles eat?
+"as much grass herbs and shrubs as they like."
+how
+5
+9
+gazelle
+1032
+Do gazelles eat a lot?
+"as much grass herbs and shrubs as they like."
+do
+5
+9
+gazelle
+1033
+How much food do gazelles eat?
+"as much grass herbs and shrubs as they like."
+how
+6
+9
+gazelle
+1034
+what quantity of food do gazelles eat?
+"as much grass herbs and shrubs as they like."
+what
+7
+9
+gazelle
+1035
+How much do gazelles eat in a day?
+"as much grass herbs and shrubs as they like."
+how
+8
+9
+gazelle
+1036
+What is a Gazelle?
+"They belong to the Bovidae family."
+what
+4
+6
+gazelle
+1037
+what kind of animal is a gazelle?
+"They belong to the Bovidae family."
+what
+7
+6
+gazelle
+1038
+Which type of animal is a gazelle?
+"They belong to the Bovidae family."
+Default
+7
+6
+gazelle
+1039
+What animal is a gazelle?
+"They belong to the Bovidae family."
+what
+5
+6
+gazelle
+1040
+What animal type is a gazelle?
+"They belong to the Bovidae family."
+what
+6
+6
+gazelle
+1041
+How many legs does a Gazelle have?
+"They have 4 legs."
+how
+7
+4
+gazelle
+1042
+do gazelles have four legs?
+"They have 4 legs."
+do
+5
+4
+gazelle
+1043
+What number of legs do gazelles have?
+"They have 4 legs."
+what
+7
+4
+gazelle
+1044
+do gazelles have many legs?
+"They have 4 legs."
+do
+5
+4
+gazelle
+1045
+do gazelles have very many legs?
+"They have 4 legs."
+do
+6
+4
+gazelle
+1046
+How many horns do Gazelles have?
+"They have 2 horns."
+how
+6
+4
+gazelle
+1047
+what number of horns do gazelles have?
+"They have 2 horns."
+what
+7
+4
+gazelle
+1048
+do gazelles have many horns?
+"They have 2 horns."
+do
+5
+4
+gazelle
+1049
+do gazelles have 2 horns?
+"They have 2 horns."
+do
+5
+4
+gazelle
+1050
+do gazelles have very many horns?
+"They have 2 horns."
+do
+6
+4
+gazelle
+1051
+How many hours do Gazelles sleep?
+"around 6 hours a day."
+how
+6
+5
+gazelle
+1052
+Do gazelles sleep many hours?
+"around 6 hours a day."
+do
+5
+5
+gazelle
+1053
+what number of hours do gazelles sleep?
+"around 6 hours a day."
+what
+7
+5
+gazelle
+1054
+do gazelles sleep?
+"around 6 hours a day."
+do
+3
+5
+gazelle
+1055
+how much do gazelles sleep?
+"around 6 hours a day."
+how
+5
+5
+gazelle
+1056
+How fast do Gazelles run?
+"they can run up to 60mph ."
+how
+5
+6
+gazelle
+1057
+do gazelles run fast?
+"they can run up to 60mph ."
+do
+4
+6
+gazelle
+1058
+what speed can a gazelle run?
+"they can run up to 60mph ."
+what
+6
+6
+gazelle
+1059
+at what speed do gazelles run?
+"they can run up to 60mph ."
+what
+6
+6
+gazelle
+1060
+Are gazelles really fast?
+"they can run up to 60mph ."
+be
+4
+6
+gazelle
+1061
+What eats Gazelles?
+"Lions, Cheetah, Humans.. etc."
+what
+3
+1
+gazelle
+1062
+What hunts Gazelles?
+"Lions, Cheetah, Humans.. etc."
+what
+3
+1
+gazelle
+1063
+Who attacks Gazelles?
+"Lions, Cheetah, Humans.. etc."
+Default
+3
+1
+gazelle
+1064
+What are Gazelle's enemys?
+"Lions, Cheetah, Humans.. etc."
+what
+4
+1
+gazelle
+1065
+Who are Gazelle's predators?
+"Lions, Cheetah, Humans.. etc."
+Default
+4
+1
+gazelle
+1066
+how many babies can Gazelles have?
+"one or two."
+how
+6
+3
+gazelle
+1067
+do gazelles have a lot of babies?
+"one or two."
+do
+7
+3
+gazelle
+1068
+what number of babies can a gazelle have?
+"one or two."
+what
+8
+3
+gazelle
+1069
+how many baby gazelles can one mom have?
+"one or two."
+how
+8
+3
+gazelle
+1070
+Do gazelles always have a lot of babies?
+"one or two."
+do
+8
+3
+gazelle
+1071
+What do Gazelles drink?
+"gazelles drink water."
+what
+4
+3
+gazelle
+1072
+do gazelles only drink water?
+"gazelles drink water."
+do
+5
+3
+gazelle
+1073
+what liquid do gazelles drink?
+"gazelles drink water."
+what
+5
+3
+gazelle
+1074
+can gazelles drink many things?
+"gazelles drink water."
+Default
+5
+3
+gazelle
+1075
+what can a gazelle drink?
+"gazelles drink water."
+what
+5
+3
+gazelle
+1076
+How high can a Gazelles jump?
+"12 to 15 feet."
+how
+6
+4
+gazelle
+1077
+can gazelles jump high?
+"12 to 15 feet."
+Default
+4
+4
+gazelle
+1078
+what height can gazelles jump?
+"12 to 15 feet."
+what
+5
+4
+gazelle
+1079
+what is the highest a gazelle can jump?
+"12 to 15 feet."
+what
+8
+4
+gazelle
+1080
+can gazelles jump higher than other animals?
+"12 to 15 feet."
+Default
+7
+4
+gazelle
+1081
+How big can a Gazelle get?
+"varies from 50 to 170cm."
+how
+6
+5
+gazelle
+1082
+what size do gazelles get?
+"varies from 50 to 170cm."
+what
+5
+5
+gazelle
+1083
+is a gazelle bigger than a horse?
+"varies from 50 to 170cm."
+Default
+7
+5
+gazelle
+1084
+is a gazelle bigger than a donkey?
+"varies from 50 to 170cm."
+do
+7
+5
+gazelle
+1085
+how big are gazelles?
+"varies from 50 to 170cm."
+how
+4
+5
+gazelle
+1086
+What color are Gazelles eyes?
+"black."
+what
+5
+1
+gazelle
+1087
+do gazelles have colored eyes?
+"black."
+do
+5
+1
+gazelle
+1088
+What color eyes do gazelles have?
+"black."
+what
+6
+1
+gazelle
+1089
+can gazelles have colored eyes?
+"black."
+Default
+5
+1
+gazelle
+1090
+do all gazelles have brown eyes?
+"black."
+do
+6
+1
+gazelle
+1091
+Can Gazelles see in the dark?
+"yes, they do have good nightvision."
+Default
+6
+1
+gazelle
+1092
+do gazelles have good night vision?
+"yes, they do have good nightvision."
+do
+6
+1
+gazelle
+1093
+can gazelles see better at night?
+"yes, they do have good nightvision."
+Default
+6
+1
+gazelle
+1094
+When do gazelles see best?
+"yes, they do have good nightvision."
+when
+5
+1
+gazelle
+1095
+Do gazelles see well in the dark?
+"yes, they do have good nightvision."
+do
+7
+1
+gazelle
+1096
+How long are Gazelles tongues?
+"it depends on the gazelle."
+how
+5
+5
+gazelle
+1097
+Do gazelles have long tongues?
+"it depends on the gazelle."
+do
+5
+5
+gazelle
+1098
+what length is a gazelles tongue?
+"it depends on the gazelle."
+what
+6
+5
+gazelle
+1099
+are gazelles tongues really long?
+"it depends on the gazelle."
+Default
+5
+5
+gazelle
+1100
+do gazelles have really long tongues?
+"it depends on the gazelle."
+do
+6
+5
+gazelle
+1101
+How do Gazelles cool off?
+"move at night."
+how
+5
+3
+gazelle
+1102
+what do gazelles do to cool down?
+"move at night."
+what
+7
+3
+gazelle
+1103
+how can a gazelle become cool?
+"move at night."
+how
+6
+3
+gazelle
+1104
+what do gazelles do to cool off?
+"move at night."
+what
+7
+3
+gazelle
+1105
+how do gazelles usually cool off? 
+"move at night."
+how
+6
+3
+gazelle
+1106
+Do Gazelles bathe?
+"not really."
+do
+3
+2
+gazelle
+1107
+do gazelles take baths?
+"not really."
+do
+4
+2
+gazelle
+1108
+can a gazelle take a bath?
+"not really."
+Default
+6
+2
+gazelle
+1109
+do all gazelles bathe?
+"not really."
+do
+4
+2
+gazelle
+1110
+can a gazelle take a bath in a river?
+"not really."
+Default
+9
+2
+gazelle
+1111
+Do Gazelles have hoofs?
+"gazelles have hooves."
+do
+4
+3
+gazelle
+1112
+Do Gazelles have toes?
+"gazelles have hooves."
+do
+4
+3
+gazelle
+1113
+What's on Gazelle's feet?
+"gazelles have hooves."
+what
+4
+3
+gazelle
+1114
+What do gazelles have for foot?
+"gazelles have hooves."
+what
+6
+3
+gazelle
+1115
+Do gazelles wear shoes?
+"gazelles have hooves."
+do
+4
+3
+gazelle
+1116
+Do Gazelles have paws?
+"gazelles have hooves."
+do
+4
+3
+gazelle
+1117
+do gazelles have paws like a dog?
+"gazelles have hooves."
+do
+7
+3
+gazelle
+1118
+can gazelles have paws?
+"gazelles have hooves."
+Default
+4
+3
+gazelle
+1119
+does a gazelle have paws?
+"gazelles have hooves."
+do
+5
+3
+gazelle
+1120
+do gazelles have paws for feet?
+"gazelles have hooves."
+do
+6
+3
+gazelle
+1121
+Do all Gazelles have stripes?
+"Some gazelles do, but not all."
+do
+5
+3
+gazelle
+1122
+does a gazelle have stripes?
+"Some gazelles do, but not all."
+do
+5
+3
+gazelle
+1123
+Do gazelles have stripes?
+"Some gazelles do, but not all."
+do
+4
+3
+gazelle
+1124
+does every gazelle have stripes?
+"Some gazelles do, but not all."
+do
+5
+3
+gazelle
+1125
+do gazelles always have stripes?
+"Some gazelles do, but not all."
+do
+5
+3
+gazelle
+1126
+How old do Gazelles have to be till they can walk?
+"Gazelles walk within 30min of being born."
+how
+11
+7
+gazelle
+1127
+can gazelles walk right after birth?
+"Gazelles walk within 30min of being born."
+Default
+6
+7
+gazelle
+1128
+can gazelles walk right away?
+"Gazelles walk within 30min of being born."
+Default
+5
+7
+gazelle
+1129
+do gazelles have to learn how to walk?
+"Gazelles walk within 30min of being born."
+how
+8
+7
+gazelle
+1130
+what age can gazelles walk at?
+"Gazelles walk within 30min of being born."
+what
+6
+7
+gazelle
+1131
+Do Gazelles poop?
+"gazelles poop in small pellets."
+do
+3
+5
+gazelle
+1132
+does every gazelle poop?
+"gazelles poop in small pellets."
+do
+4
+5
+gazelle
+1133
+how do gazelles poop?
+"gazelles poop in small pellets."
+how
+4
+5
+gazelle
+1134
+do all gazelles poop?
+"gazelles poop in small pellets."
+do
+4
+5
+gazelle
+1135
+why do gazelles poop?
+"gazelles poop in small pellets."
+why
+4
+5
+gazelle
+1136
+Do Gazelles shed?
+"no ."
+do
+3
+1
+gazelle
+1137
+do gazelles shed like dogs?
+"no ."
+do
+5
+1
+gazelle
+1138
+do gazelles shed like cats?
+"no ."
+do
+5
+1
+gazelle
+1139
+can gazelles shed?
+"no ."
+Default
+3
+1
+gazelle
+1140
+do all gazelles shed?
+"no ."
+do
+4
+1
+gazelle
+1141
+Do Gazelles lose their antlers?
+"Gazelle's horns can break but doesn't grow back."
+do
+5
+8
+gazelle
+1142
+do gazelles lose their antlers sometimes?
+"Gazelle's horns can break but doesn't grow back."
+do
+6
+8
+gazelle
+1143
+do all gazelles lose their antlers?
+"Gazelle's horns can break but doesn't grow back."
+do
+6
+8
+gazelle
+1144
+can a gazelle lose their antlers?
+"Gazelle's horns can break but doesn't grow back."
+Default
+6
+8
+gazelle
+1145
+can a gazelle lose its antlers?
+"Gazelle's horns can break but doesn't grow back."
+Default
+6
+8
+gazelle
+1146
+How often do Gazelles poop?
+"yes."
+how
+5
+1
+gazelle
+1147
+do gazelles poop every day?
+"yes."
+do
+5
+1
+gazelle
+1148
+do gazelles poop all the time?
+"yes."
+do
+6
+1
+gazelle
+1149
+do all gazelles poop often?
+"yes."
+do
+5
+1
+gazelle
+1150
+how often does each gazelle poop?
+"yes."
+how
+6
+1
+gazelle
+1151
+Do Gazelles have teeth?
+"They have teeth."
+do
+4
+3
+gazelle
+1152
+do all gazelles have teeth?
+"They have teeth."
+do
+5
+3
+gazelle
+1153
+does each gazelle have teeth?
+"They have teeth."
+do
+5
+3
+gazelle
+1154
+do gazelles have many teeth?
+"They have teeth."
+do
+5
+3
+gazelle
+1155
+do gazelles have a lot of teeth?
+"They have teeth."
+do
+7
+3
+gazelle
+1156
+Do Gazelles hibernate?
+"They do not hibernate."
+do
+3
+4
+gazelle
+1157
+do gazelles go into hibernation?
+"They do not hibernate."
+do
+5
+4
+gazelle
+1158
+do all gazelles go into hibernation?
+"They do not hibernate."
+do
+6
+4
+gazelle
+1159
+do all gazelles hibernate?
+"They do not hibernate."
+do
+4
+4
+gazelle
+1160
+Does each gazelle hibernate?
+"They do not hibernate."
+do
+4
+4
+gazelle
+1161
+Do Gazelles move in a group?
+"Gazelles travel in group size 10 to 25."
+do
+6
+8
+gazelle
+1162
+Do gazelles move in groups?
+"Gazelles travel in group size 10 to 25."
+do
+5
+8
+gazelle
+1163
+do gazells travel in groups?
+"Gazelles travel in group size 10 to 25."
+do
+5
+8
+Default
+1164
+does a gazell travel in a group?
+"Gazelles travel in group size 10 to 25."
+do
+7
+8
+Default
+1165
+Do all gazelles travel in groups?
+"Gazelles travel in group size 10 to 25."
+do
+6
+8
+gazelle
+1166
+Can Gazelles swim?
+"Gazelles can swim for brief period of time."
+Default
+3
+8
+gazelle
+1167
+Can gazelles move in water?
+"Gazelles can swim for brief period of time."
+Default
+5
+8
+gazelle
+1168
+Can gazelles float?
+"Gazelles can swim for brief period of time."
+Default
+3
+8
+gazelle
+1169
+Do gazelles swim?
+"Gazelles can swim for brief period of time."
+do
+3
+8
+gazelle
+1170
+Do gazelles move on water?
+"Gazelles can swim for brief period of time."
+do
+5
+8
+gazelle
+1171
+What countries do Gazelles live in?
+"Africa and Asia as far east as Mongolia."
+what
+6
+8
+gazelle
+1172
+What country does a gazell live in?
+"Africa and Asia as far east as Mongolia."
+what
+7
+8
+Default
+1173
+what country do gazelles live in?
+"Africa and Asia as far east as Mongolia."
+what
+6
+8
+gazelle
+1174
+do gazelles live in different countries?
+"Africa and Asia as far east as Mongolia."
+do
+6
+8
+gazelle
+1175
+do gazelles live in many countries?
+"Africa and Asia as far east as Mongolia."
+do
+6
+8
+gazelle
+1176
+Do Gazelles dream?
+"Yes."
+do
+3
+1
+gazelle
+1177
+can gazelles dream?
+"Yes."
+Default
+3
+1
+gazelle
+1178
+do many gazelles dream?
+"Yes."
+do
+4
+1
+gazelle
+1179
+do gazelles have dreams?
+"Yes."
+do
+4
+1
+gazelle
+1180
+do gazelles dream often?
+"Yes."
+do
+4
+1
+gazelle
+1181
+What are Gazelles' predators?
+"All major predators ."
+what
+4
+3
+gazelle
+1182
+what eats gazelles?
+"All major predators ."
+what
+3
+3
+gazelle
+1183
+what animal hunts gazelles?
+"All major predators ."
+what
+4
+3
+gazelle
+1184
+do animals eat gazelles?
+"All major predators ."
+do
+4
+3
+gazelle
+1185
+which animal eats gazelles?
+"All major predators ."
+Default
+4
+3
+gazelle
+1186
+Do Gazelles eat meat?
+"No, gazelles are herbivores."
+do
+4
+1
+gazelle
+1187
+Do all gazelles eat meat?
+"No, gazelles are herbivores."
+do
+5
+1
+gazelle
+1188
+can gazelles eat meat?
+"No, gazelles are herbivores."
+Default
+4
+1
+gazelle
+1189
+do many gazelles eat meat?
+"No, gazelles are herbivores."
+do
+5
+1
+gazelle
+1190
+can all gazelles eat meat?
+"No, gazelles are herbivores."
+Default
+5
+1
+gazelle
+1191
+Do Gazelles eat plants?
+"Yes. Gazelles are herbivores."
+do
+4
+4
+gazelle
+1192
+Are gazelles vegeterian?
+"Yes. Gazelles are herbivores."
+be
+3
+4
+gazelle
+1193
+Do gazelles eat leaves?
+"Yes. Gazelles are herbivores."
+do
+4
+4
+gazelle
+1194
+Is gazelle a vegeterian?
+"Yes. Gazelles are herbivores."
+be
+4
+4
+gazelle
+1195
+Does a gazelle eat tree?
+"Yes. Gazelles are herbivores."
+do
+5
+4
+gazelle
+1196
+What are Gazelles good at?
+"Gazelles can run upto 40mph."
+what
+5
+5
+gazelle
+1197
+What is gazelle good at?
+"Gazelles can run upto 40mph."
+what
+5
+5
+gazelle
+1198
+Can gazelles do anything?
+"Gazelles can run upto 40mph."
+do
+4
+5
+gazelle
+1199
+What skills gazelles have?
+"Gazelles can run upto 40mph."
+what
+4
+5
+gazelle
+1200
+What is gazelle good at?
+"Gazelles can run upto 40mph."
+what
+5
+5
+gazelle
+1201
+Do Gazelles sleep in the open?
+"They sleep in tall grasses or caves."
+do
+6
+7
+gazelle
+1202
+Where do gazelles sleep?
+"They sleep in tall grasses or caves."
+where
+4
+7
+gazelle
+1203
+Does gazelle sleep in a cave?
+"They sleep in tall grasses or caves."
+do
+6
+7
+gazelle
+1204
+Do gazelles sleep on the grass?
+"They sleep in tall grasses or caves."
+do
+6
+7
+gazelle
+1205
+Do gazelles sleep on a tree?
+"They sleep in tall grasses or caves."
+do
+6
+7
+gazelle
+1206
+Do Gazelles have caves?
+"pawns or caves."
+do
+4
+3
+gazelle
+1207
+What are baby gazelles called?
+"pawns or caves."
+what
+5
+3
+gazelle
+1208
+Are baby gazelles called caves?
+"pawns or caves."
+be
+5
+3
+gazelle
+1209
+Gazelle have caves?
+"pawns or caves."
+Default
+3
+3
+gazelle
+1210
+Baby gazelle is what?
+"pawns or caves."
+what
+4
+3
+gazelle
+1211
+What animals do Gazelles hang out with?
+"Zebras or other species of antelope."
+what
+7
+6
+gazelle
+1212
+do gazelles only like other gazelles?
+"Zebras or other species of antelope."
+do
+6
+6
+gazelle
+1213
+do gazelles have other animal friends?
+"Zebras or other species of antelope."
+do
+6
+6
+gazelle
+1214
+do gazelles like other animals?
+"Zebras or other species of antelope."
+do
+5
+6
+gazelle
+1215
+can gazelles have other animal friends?
+"Zebras or other species of antelope."
+Default
+6
+6
+gazelle
+1216
+Do Gazelles hate people?
+"Yes, gazelles are scared of humans."
+do
+4
+1
+gazelle
+1217
+do gazelles like people?
+"Yes, gazelles are scared of humans."
+do
+4
+1
+gazelle
+1218
+are gazelles afraid of people?
+"Yes, gazelles are scared of humans."
+Default
+5
+1
+gazelle
+1219
+do gazelles dislike people?
+"Yes, gazelles are scared of humans."
+do
+4
+1
+gazelle
+1220
+do all gazelles feel afraid of people?
+"Yes, gazelles are scared of humans."
+do
+7
+1
+gazelle
+1221
+Can I buy a Gazelle?
+"No, it is illegal."
+Default
+5
+1
+gazelle
+1222
+can people buy gazelles?
+"No, it is illegal."
+Default
+4
+1
+gazelle
+1223
+can i have a gazelle for a pet?
+"No, it is illegal."
+Default
+8
+1
+gazelle
+1224
+am i allowed to buy a gazelle?
+"No, it is illegal."
+Default
+7
+1
+gazelle
+1225
+do people buy gazelles?
+"No, it is illegal."
+do
+4
+1
+gazelle
+1226
+Do they sell Gazelles at pet stores?
+"No."
+do
+7
+1
+gazelle
+1227
+can i see a gazelle at a pet store?
+"No."
+Default
+9
+1
+gazelle
+1228
+do pet stores sell gazelles?
+"No."
+do
+5
+1
+gazelle
+1229
+do they sell baby gazelles at pet stores?
+"No."
+do
+8
+1
+gazelle
+1230
+do any pet stores sell gazelles?
+"No."
+do
+6
+1
+gazelle
+1231
+Can Gazelles live in California?
+"No, only in Zoos."
+Default
+5
+1
+gazelle
+1232
+do gazelles live in california?
+"No, only in Zoos."
+do
+5
+1
+gazelle
+1233
+can gazelles survive in california?
+"No, only in Zoos."
+Default
+5
+1
+gazelle
+1234
+are there wild gazelles in california?
+"No, only in Zoos."
+Default
+6
+1
+gazelle
+1235
+can wild gazelles live in california?
+"No, only in Zoos."
+Default
+6
+1
+gazelle
+1236
+Can I eat Gazelles?
+"Yes."
+Default
+4
+1
+gazelle
+1237
+do people eat gazelles?
+"Yes."
+do
+4
+1
+gazelle
+1238
+can gazelles be eaten?
+"Yes."
+Default
+4
+1
+gazelle
+1239
+can i eat a gazelle?
+"Yes."
+Default
+5
+1
+gazelle
+1240
+do many people eat gazelles?
+"Yes."
+do
+5
+1
+gazelle
+1241
+Do Gazelles taste good?
+"Lean beef."
+do
+4
+2
+gazelle
+1242
+what do gazelles taste like?
+"Lean beef."
+what
+5
+2
+gazelle
+1243
+how does gazelle taste?
+"Lean beef."
+how
+4
+2
+gazelle
+1244
+how good does gazelle taste?
+"Lean beef."
+how
+5
+2
+gazelle
+1245
+are gazelles tasty?
+"Lean beef."
+Default
+3
+2
+gazelle
+1246
+Do poachers hunt Gazelles?
+"yes."
+do
+4
+1
+gazelle
+1247
+do humans hunt gazelle?
+"yes."
+do
+4
+1
+gazelle
+1248
+do people hunt gazelle?
+"yes."
+do
+4
+1
+gazelle
+1249
+are there poachers for gazelle?
+"yes."
+Default
+5
+1
+gazelle
+1250
+are gazelles hunted by human?
+"yes."
+Default
+5
+1
+gazelle
+1251
+Are Gazelles friendly?
+"Gazelles can attack if threatened."
+be
+3
+5
+gazelle
+1252
+Is gazelle friendly?
+"Gazelles can attack if threatened."
+be
+3
+5
+gazelle
+1253
+are gazelles passive?
+"Gazelles can attack if threatened."
+Default
+3
+5
+gazelle
+1254
+do gazelles attack?
+"Gazelles can attack if threatened."
+do
+3
+5
+gazelle
+1255
+are gazelles nice?
+"Gazelles can attack if threatened."
+Default
+3
+5
+gazelle
+1256
+How long is a Gazelles fur?
+"short, around an inch."
+how
+6
+1
+gazelle
+1257
+how long is gazelles hair?
+"short, around an inch."
+how
+5
+1
+gazelle
+1258
+what is lenght of gazelles hair?
+"short, around an inch."
+what
+6
+1
+gazelle
+1259
+what is length of gazelles fur?
+"short, around an inch."
+what
+6
+1
+gazelle
+1260
+how many inches is gazelle's fur?
+"short, around an inch."
+how
+6
+1
+gazelle
+1261
+How long is a Gazelles tail?
+"15-20cm."
+how
+6
+1
+gazelle
+1262
+what cm is gazelles tail?
+"15-20cm."
+what
+5
+1
+gazelle
+1263
+how many inches is gazelle's tail?
+"15-20cm."
+how
+6
+1
+gazelle
+1264
+what length is gazelle's tail?
+"15-20cm."
+what
+5
+1
+gazelle
+1265
+what is the length of gazelle's tail?
+"15-20cm."
+what
+7
+1
+gazelle
+1266
+How long are Gazelles antlers?
+"depends on type of species."
+how
+5
+5
+gazelle
+1267
+what cm is gazelle's horns?
+"depends on type of species."
+what
+5
+5
+gazelle
+1268
+how long are gazelle's horns?
+"depends on type of species."
+how
+5
+5
+gazelle
+1269
+what length is gazelle's antlers?
+"depends on type of species."
+what
+5
+5
+gazelle
+1270
+what length is gazelle's horns?
+"depends on type of species."
+what
+5
+5
+gazelle
+1271
+Are Gazelles' antlers sharp?
+"yes."
+be
+4
+1
+gazelle
+1272
+are gazelle's horns sharp?
+"yes."
+Default
+4
+1
+gazelle
+1273
+does gazelle have sharp antlers?
+"yes."
+do
+5
+1
+gazelle
+1274
+does gazelle have sharp horns?
+"yes."
+do
+5
+1
+gazelle
+1275
+does gazelle have pointy antlers?
+"yes."
+do
+5
+1
+gazelle
+1276
+Are Gazelle's teeth sharp?
+"no."
+be
+4
+1
+gazelle
+1277
+are gazelle's teeth pointy?
+"no."
+Default
+4
+1
+gazelle
+1278
+how sharp are gazelle's teeth?
+"no."
+how
+5
+1
+gazelle
+1279
+does gazelle have sharpt teeth?
+"no."
+do
+5
+1
+gazelle
+1280
+does gazelle have pointy teeth?
+"no."
+do
+5
+1
+gazelle
+1281
+What animals do gazelles hate?
+"Cheetahs."
+what
+5
+1
+gazelle
+1282
+Which animals do gazelles hate?
+"Cheetahs."
+do
+5
+1
+gazelle
+1283
+Which animals do gazelles dislike?
+"Cheetahs."
+do
+5
+1
+gazelle
+1284
+Which animals do gazelles not like?
+"Cheetahs."
+do
+6
+1
+gazelle
+1285
+what animals gazelles don't get along?
+"Cheetahs."
+what
+6
+1
+gazelle
+1286
+What plants do gazelles like?
+"Gazelles like to eat grasses, leaves, and shoots."
+what
+5
+5
+gazelle
+1287
+Which plants do gazelles like?
+"Gazelles like to eat grasses, leaves, and shoots."
+do
+5
+5
+gazelle
+1288
+Which plants do gazelles like to eat?
+"Gazelles like to eat grasses, leaves, and shoots."
+do
+7
+5
+gazelle
+1289
+What plants do gazelles like to eat?
+"Gazelles like to eat grasses, leaves, and shoots."
+what
+7
+5
+gazelle
+1290
+what are the plants that gazelles like?
+"Gazelles like to eat grasses, leaves, and shoots."
+what
+7
+5
+gazelle
+1291
+How much do gazelles cost?
+"Gazelles aren't normally for sale! They're wild animals. ."
+how
+5
+8
+gazelle
+1292
+How much money do gazelles cost?
+"Gazelles aren't normally for sale! They're wild animals. ."
+how
+6
+8
+gazelle
+1293
+What's the price of a gazelle?
+"Gazelles aren't normally for sale! They're wild animals. ."
+what
+6
+8
+gazelle
+1294
+What's the price of gazelles?
+"Gazelles aren't normally for sale! They're wild animals. ."
+what
+5
+8
+gazelle
+1295
+how much is a gazelle?
+"Gazelles aren't normally for sale! They're wild animals. ."
+how
+5
+8
+gazelle
+1296
+Do gazelles like to run?
+"Gazelles love to run; in fact, they can reach speeds of up to 60 miles per hour - that's the speed of a car on a freeway!."
+do
+5
+6
+gazelle
+1297
+Do gazelles run?
+"Gazelles love to run; in fact, they can reach speeds of up to 60 miles per hour - that's the speed of a car on a freeway!."
+do
+3
+6
+gazelle
+1298
+Do gazelles like running?
+"Gazelles love to run; in fact, they can reach speeds of up to 60 miles per hour - that's the speed of a car on a freeway!."
+do
+4
+6
+gazelle
+1299
+Is running fun for gazelles?
+"Gazelles love to run; in fact, they can reach speeds of up to 60 miles per hour - that's the speed of a car on a freeway!."
+be
+5
+6
+gazelle
+1300
+do gazelles enjoy running?
+"Gazelles love to run; in fact, they can reach speeds of up to 60 miles per hour - that's the speed of a car on a freeway!."
+do
+4
+6
+gazelle
+1301
+Are gazelles fun to play with?
+"Gazelles are wild animals, and don't play with people!."
+be
+6
+4
+gazelle
+1302
+Are gazelles fun?
+"Gazelles are wild animals, and don't play with people!."
+be
+3
+4
+gazelle
+1303
+Is it fun to play with gazelles?
+"Gazelles are wild animals, and don't play with people!."
+be
+7
+4
+gazelle
+1304
+Is playing with gazelles fun?
+"Gazelles are wild animals, and don't play with people!."
+be
+5
+4
+gazelle
+1305
+can you play with gazelles?
+"Gazelles are wild animals, and don't play with people!."
+Default
+5
+4
+gazelle
+1306
+How hard is it to find a gazelle?
+"During rain seasons, gazelles roam open plains in groups that can number in the thousands, so not very difficult!."
+how
+8
+3
+gazelle
+1307
+How hard is it finding a gazelle?
+"During rain seasons, gazelles roam open plains in groups that can number in the thousands, so not very difficult! " ."
+how
+7
+3
+gazelle
+1308
+How difficult is it to find a gazelle?
+"During rain seasons, gazelles roam open plains in groups that can number in the thousands, so not very difficult!."
+how
+8
+3
+gazelle
+1309
+How difficult is it finding a gazelle?
+"During rain seasons, gazelles roam open plains in groups that can number in the thousands, so not very difficult!."
+how
+7
+3
+gazelle
+1310
+is it hard to find a gazelle?
+"During rain seasons, gazelles roam open plains in groups that can number in the thousands, so not very difficult!."
+Default
+7
+3
+gazelle
+1311
+How many gazelles are there in the wild?
+"There are estimated to be over 400,000 gazelle in the wild."
+how
+8
+12
+gazelle
+1312
+How many gazelles are there?
+"There are estimated to be over 400,000 gazelle in the wild."
+how
+5
+12
+gazelle
+1313
+How many gazelles exist?
+"There are estimated to be over 400,000 gazelle in the wild."
+how
+4
+12
+gazelle
+1314
+What's the world's population of gazelles?
+"There are estimated to be over 400,000 gazelle in the wild."
+what
+6
+12
+gazelle
+1315
+What is total number of gazelles?
+"There are estimated to be over 400,000 gazelle in the wild."
+what
+6
+12
+gazelle
+1316
+Are gazelles endangered?
+"The dama gazelle is one species of gazelle that's currently on the endangered species list; however, not all types of gazelle are endangered."
+be
+3
+16
+gazelle
+1317
+Are gazelles an endangered species?
+"The dama gazelle is one species of gazelle that's currently on the endangered species list; however, not all types of gazelle are endangered."
+be
+5
+16
+gazelle
+1318
+Is the gazelle endangered?
+"The dama gazelle is one species of gazelle that's currently on the endangered species list; however, not all types of gazelle are endangered."
+be
+4
+16
+gazelle
+1319
+Is the gazelle an endangered species?
+"The dama gazelle is one species of gazelle that's currently on the endangered species list; however, not all types of gazelle are endangered."
+be
+6
+16
+gazelle
+1320
+Is gazelle considered endangered?
+"The dama gazelle is one species of gazelle that's currently on the endangered species list; however, not all types of gazelle are endangered."
+be
+4
+16
+gazelle
+1321
+Do gazelles like to roam open plains?
+"Gazelles love to roam - their preferred habitats are open plains. ."
+do
+7
+11
+gazelle
+1322
+Do gazelles like to roam?
+"Gazelles love to roam - their preferred habitats are open plains. ."
+do
+5
+11
+gazelle
+1323
+Do gazelles like open spaces?
+"Gazelles love to roam - their preferred habitats are open plains. ."
+do
+5
+11
+gazelle
+1324
+Does the gazelle like to roam?
+"Gazelles love to roam - their preferred habitats are open plains. ."
+do
+6
+11
+gazelle
+1325
+Do gazelles like to walk around?
+"Gazelles love to roam - their preferred habitats are open plains. ."
+do
+6
+11
+gazelle
+1326
+What environments do gazelles like?
+"Gazelles like deserts, grasslands, and savannas: anywhere with vegetation and room to roam."
+what
+5
+3
+gazelle
+1327
+What type of environments do gazelles like?
+"Gazelles like deserts, grasslands, and savannas: anywhere with vegetation and room to roam."
+what
+7
+3
+gazelle
+1328
+What type of environment does a gazelle like?
+"Gazelles like deserts, grasslands, and savannas: anywhere with vegetation and room to roam."
+what
+8
+3
+gazelle
+1329
+Which environments does a gazelle like?
+"Gazelles like deserts, grasslands, and savannas: anywhere with vegetation and room to roam."
+do
+6
+3
+gazelle
+1330
+What kind of environment do gazelles like?
+"Gazelles like deserts, grasslands, and savannas: anywhere with vegetation and room to roam."
+what
+7
+3
+gazelle
+1331
+What ecosystems do gazelles live in?
+"Gazelles live in deserts, grasslands, and savannas, in Africa and on the Indian subcontinent."
+what
+6
+4
+gazelle
+1332
+Which ecosystems do gazelles live in?
+"Gazelles live in deserts, grasslands, and savannas, in Africa and on the Indian subcontinent."
+do
+6
+4
+gazelle
+1333
+What ecosystem does the gazelle live in?
+"Gazelles live in deserts, grasslands, and savannas, in Africa and on the Indian subcontinent."
+what
+7
+4
+gazelle
+1334
+Which ecosystem does the gazelle live in?
+"Gazelles live in deserts, grasslands, and savannas, in Africa and on the Indian subcontinent."
+do
+7
+4
+gazelle
+1335
+What kind of ecosystem do gazelle live in?
+"Gazelles live in deserts, grasslands, and savannas, in Africa and on the Indian subcontinent."
+what
+8
+4
+gazelle
+1336
+How many kinds of gazelles are there?
+"There are estimated to be over 400,000 gazelle in the wild."
+how
+7
+12
+gazelle
+1337
+How many types of gazelles are there?
+"There are estimated to be over 400,000 gazelle in the wild."
+how
+7
+12
+gazelle
+1338
+How many kinds of gazelle are there?
+"There are estimated to be over 400,000 gazelle in the wild."
+how
+7
+12
+gazelle
+1339
+How many types of gazelle are there?
+"There are estimated to be over 400,000 gazelle in the wild."
+how
+7
+12
+gazelle
+1340
+How many different breed of gazelles are there?
+"There are estimated to be over 400,000 gazelle in the wild."
+how
+8
+12
+gazelle
+1341
+What are the types of gazelles?
+"There are 13 species of gazelle. ."
+what
+6
+6
+gazelle
+1342
+What are the kinds of gazelles?
+"There are 13 species of gazelle. ."
+what
+6
+6
+gazelle
+1343
+What types of gazelles are there?
+"There are 13 species of gazelle. ."
+what
+6
+6
+gazelle
+1344
+What kinds of gazelles are there?
+"There are 13 species of gazelle. ."
+what
+6
+6
+gazelle
+1345
+What breed of gazelles are there?
+"There are 13 species of gazelle. ."
+what
+6
+6
+gazelle
+1346
+Do gazelles live alone?
+"The gazelle is a herd animal and lives in groups that range in size from 10 to 100."
+do
+4
+18
+gazelle
+1347
+Do gazelles live by themselves?
+"The gazelle is a herd animal and lives in groups that range in size from 10 to 100."
+do
+5
+18
+gazelle
+1348
+Do gazelles live with other gazelles?
+"The gazelle is a herd animal and lives in groups that range in size from 10 to 100."
+do
+6
+18
+gazelle
+1349
+Does the gazelle live alone?
+"The gazelle is a herd animal and lives in groups that range in size from 10 to 100."
+do
+5
+18
+gazelle
+1350
+Is gazelle single?
+"The gazelle is a herd animal and lives in groups that range in size from 10 to 100."
+be
+3
+18
+gazelle
+1351
+Is the gazelle a herd animal?
+"The gazelle does indeed travel in a herds; its numbers are substantial. ."
+be
+6
+12
+gazelle
+1352
+Are gazelles herd animals?
+"The gazelle does indeed travel in a herds; its numbers are substantial. ."
+be
+4
+12
+gazelle
+1353
+Do gazelles travel in herds?
+"The gazelle does indeed travel in a herds; its numbers are substantial. ."
+do
+5
+12
+gazelle
+1354
+Does the gazelle travel in a herd?
+"The gazelle does indeed travel in a herds; its numbers are substantial. ."
+do
+7
+12
+gazelle
+1355
+Can gazelles be herded?
+"The gazelle does indeed travel in a herds; its numbers are substantial. ."
+Default
+4
+12
+gazelle
+1356
+What kind of animals are gazelles?
+"The gazelle belongs to the Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Artiodactyla, Family Bovidae, Subfamily Antilopinae, and Genus Gazella. ."
+what
+6
+7
+gazelle
+1357
+What type of animals are gazelles?
+"The gazelle belongs to the Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Artiodactyla, Family Bovidae, Subfamily Antilopinae, and Genus Gazella. ."
+what
+6
+7
+gazelle
+1358
+What type of animal is the gazelle?
+"The gazelle belongs to the Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Artiodactyla, Family Bovidae, Subfamily Antilopinae, and Genus Gazella. ."
+what
+7
+7
+gazelle
+1359
+What kind of animal is the gazelle?
+"The gazelle belongs to the Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Artiodactyla, Family Bovidae, Subfamily Antilopinae, and Genus Gazella. ."
+what
+7
+7
+gazelle
+1360
+Which kind of animal is gazelle?
+"The gazelle belongs to the Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Artiodactyla, Family Bovidae, Subfamily Antilopinae, and Genus Gazella. ."
+Default
+6
+7
+gazelle
+1361
+Are gazelles mammals?
+"Yes, the gazelle is a mammal."
+be
+3
+1
+gazelle
+1362
+Is the gazelle a mammal?
+"Yes, the gazelle is a mammal."
+be
+5
+1
+gazelle
+1363
+Are gazelles mammalian?
+"Yes, the gazelle is a mammal."
+be
+3
+1
+gazelle
+1364
+Is the gazelle mammalian?
+"Yes, the gazelle is a mammal."
+be
+4
+1
+gazelle
+1365
+Is gazelle considered mammal?
+"Yes, the gazelle is a mammal."
+be
+4
+1
+gazelle
+1366
+A gazelle
+"What animal do you see?."
+Default
+2
+5
+gazelle
+1367
+Gazelles
+"What animal do you see?."
+Default
+1
+5
+gazelle
+1368
+Some gazelles
+"What animal do you see?."
+Default
+2
+5
+gazelle
+1369
+Gazelle
+"What animal do you see?."
+Default
+1
+5
+gazelle
+1370
+many gazelles
+"What animal do you see?."
+Default
+2
+5
+gazelle
+1371
+Brown
+"What color is the animal?."
+Default
+1
+5
+Default
+1372
+Beige
+"What color is the animal?."
+Default
+1
+5
+Default
+1373
+White
+"What color is the animal?."
+Default
+1
+5
+Default
+1374
+Mixed
+"What color is the animal?."
+Default
+1
+5
+Default
+1375
+stripes
+"What color is the animal?."
+Default
+1
+5
+Default
+1376
+Yes
+"Is the animal a mammal?."
+Default
+1
+5
+Default
+1377
+No
+"Is the animal a mammal?."
+Default
+1
+5
+Default
+1378
+I don't know
+"Is the animal a mammal?."
+do
+3
+5
+Default
+1379
+I'm unsure
+"Is the animal a mammal?."
+Default
+2
+5
+Default
+1380
+I do not know
+"Is the animal a mammal?."
+do
+4
+5
+Default
+1381
+Desert
+"What kind of ecosystem are you looking at?."
+Default
+1
+8
+Default
+1382
+Grassland
+"What kind of ecosystem are you looking at?."
+Default
+1
+8
+Default
+1383
+Savanna
+"What kind of ecosystem are you looking at?."
+Default
+1
+8
+Default
+1384
+Plains
+"What kind of ecosystem are you looking at?."
+Default
+1
+8
+Default
+1385
+Mountains
+"What kind of ecosystem are you looking at?."
+Default
+1
+8
+Default
+1386

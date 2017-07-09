@@ -37,7 +37,7 @@ public class RealtimePredict {
     public RealtimePredict(String mlModelId) {
     	AWSCredentials credentials = null;
         try {
-            credentials = new ProfileCredentialsProvider("Luyi2").getCredentials();
+            credentials = new ProfileCredentialsProvider("JDK_Test").getCredentials();
         } catch (Exception e) {
             throw new AmazonClientException(
                     "Cannot load the credentials from the credential profiles file. " +

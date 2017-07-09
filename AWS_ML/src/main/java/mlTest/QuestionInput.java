@@ -1,3 +1,5 @@
+// Chun Ming Test
+
 package mlTest;
 import java.util.*;
 import java.io.BufferedReader;
@@ -59,7 +61,7 @@ public class QuestionInput {
         String classify = null;
         double currentline = 0;
         int line_num2 = 0;
-		 in2 = new BufferedReader(new FileReader("E:\\workspace\\AWS_ML\\src\\main\\resources\\Perfect_bpResult2.txt"));
+		 in2 = new BufferedReader(new FileReader("C:\\Users\\chunm\\OneDrive\\Fung Fellowship\\project\\AWS_Animal_Sample_Test\\AWS_ML\\src\\main\\resources\\Perfect_bpResult2.txt"));
         line2 = in2.readLine();
         while(line2 != null)
        {
@@ -286,7 +288,7 @@ public class QuestionInput {
         String line;
         BufferedReader in;
         int line_num = 0;
-        in = new BufferedReader(new FileReader("E:\\workspace\\AWS_ML\\src\\main\\resources\\Perfect_Answers.txt"));
+        in = new BufferedReader(new FileReader("C:\\Users\\chunm\\OneDrive\\Fung Fellowship\\project\\AWS_Animal_Sample_Test\\AWS_ML\\src\\main\\resources\\Perfect_Answers.txt"));
         line = in.readLine();
         while(line != null)
         {

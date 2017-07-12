@@ -9694,3 +9694,9319 @@ Default
 8
 Default
 1386
+1.0
+"How many animals do you see?."
+Default
+1
+6
+Default
+1387
+2.0
+"How many animals do you see?."
+Default
+1
+6
+Default
+1388
+3.0
+"How many animals do you see?."
+Default
+1
+6
+Default
+1389
+4.0
+"How many animals do you see?."
+Default
+1
+6
+Default
+1390
+5.0
+"How many animals do you see?."
+Default
+1
+6
+Default
+1391
+It is small
+"What does the animal look like?."
+Default
+3
+6
+Default
+1392
+It is big
+"What does the animal look like?."
+Default
+3
+6
+Default
+1393
+It is brown
+"What does the animal look like?."
+Default
+3
+6
+Default
+1394
+It is spotted
+"What does the animal look like?."
+Default
+3
+6
+Default
+1395
+It is striped
+"What does the animal look like?."
+Default
+3
+6
+Default
+1396
+Grass
+"Which plants does the animal like?."
+Default
+1
+6
+Default
+1397
+Shoots
+"Which plants does the animal like?."
+Default
+1
+6
+Default
+1398
+Leaves
+"Which plants does the animal like?."
+Default
+1
+6
+Default
+1399
+Trees
+"Which plants does the animal like?."
+Default
+1
+6
+Default
+1400
+Roots
+"Which plants does the animal like?."
+Default
+1
+6
+Default
+1401
+Behind the plants
+"Where are the animals?."
+Default
+3
+4
+Default
+1402
+On the plains
+"Where are the animals?."
+Default
+3
+4
+Default
+1403
+In the fields
+"Where are the animals?."
+Default
+3
+4
+Default
+1404
+In front of the plants
+"Where are the animals?."
+Default
+5
+4
+Default
+1405
+By the water
+"Where are the animals?."
+Default
+3
+4
+Default
+1406
+Do gazelles sleep underground
+"Sometimes they sleep in caves."
+do
+4
+5
+gazelle
+1407
+Does a gazelle sleep undergroud?
+"Sometimes they sleep in caves."
+do
+5
+5
+gazelle
+1408
+Do gazelles go to sleep underground?
+"Sometimes they sleep in caves."
+do
+6
+5
+gazelle
+1409
+Do gazelles go to bed underground?
+"Sometimes they sleep in caves."
+do
+6
+5
+gazelle
+1410
+Does a gazelle go to sleep underground?
+"Sometimes they sleep in caves."
+do
+7
+5
+gazelle
+1411
+Do gazelles fart
+"yes."
+do
+3
+1
+gazelle
+1412
+Does a gazelle fart?
+"yes."
+do
+4
+1
+gazelle
+1413
+Do gazelles pass gas?
+"yes."
+do
+4
+1
+gazelle
+1414
+Does a gazelle pass gas?
+"yes."
+do
+5
+1
+gazelle
+1415
+Do gazelles release farts?
+"yes."
+do
+4
+1
+gazelle
+1416
+How long can a gazelle hold its breath
+"probably."
+how
+8
+1
+gazelle
+1417
+How long can gazelle stop breathing?
+"probably."
+how
+6
+1
+gazelle
+1418
+How long does gazelle hold breath?
+"probably."
+how
+6
+1
+gazelle
+1419
+Can gazelles hold breath for long?
+"probably."
+Default
+6
+1
+gazelle
+1420
+Can a gazelle breathe underwater?
+"No."
+Default
+5
+1
+gazelle
+1421
+Can a gazelle hold its breath underwater?
+"No."
+Default
+7
+1
+gazelle
+1422
+Can gazelles dive?
+"No."
+Default
+3
+1
+gazelle
+1423
+Can gazelles hold breath underwater?
+"No."
+Default
+5
+1
+gazelle
+1424
+Can gazelles swin underwater?
+"No."
+Default
+4
+1
+gazelle
+1425
+Can a gazelle hold breath underwater?
+"No."
+Default
+6
+1
+gazelle
+1426
+Can a gazelle swim
+"for a brief period yes."
+Default
+4
+5
+gazelle
+1427
+can gazelles swim?
+"for a brief period yes."
+Default
+3
+5
+gazelle
+1428
+can gazelles move on water?
+"for a brief period yes."
+Default
+5
+5
+gazelle
+1429
+can gazelles travel on water?
+"for a brief period yes."
+Default
+5
+5
+gazelle
+1430
+can gazelles swin on water?
+"for a brief period yes."
+Default
+5
+5
+gazelle
+1431
+Does a gazelle like the snow
+"no."
+do
+6
+1
+gazelle
+1432
+do gazelles like snow?
+"no."
+do
+4
+1
+gazelle
+1433
+do gazelles enjoy snow?
+"no."
+do
+4
+1
+gazelle
+1434
+can gazelles like snow?
+"no."
+Default
+4
+1
+gazelle
+1435
+can gazelles enjoy snow?
+"no."
+Default
+4
+1
+gazelle
+1436
+Do gazelles live alone
+"no they live in a group."
+do
+4
+6
+gazelle
+1437
+Do gazelles live individually?
+"no they live in a group."
+do
+4
+6
+gazelle
+1438
+Do gazelles like to be alone?
+"no they live in a group."
+do
+6
+6
+gazelle
+1439
+Do gazelles move alone?
+"no they live in a group."
+do
+4
+6
+gazelle
+1440
+Do gazelles ride solo?
+"no they live in a group."
+do
+4
+6
+gazelle
+1441
+Do gazelles see colors?
+"yes."
+do
+4
+1
+gazelle
+1442
+Can gazelles see color?
+"yes."
+Default
+4
+1
+gazelle
+1443
+Do gazelles see color?
+"yes."
+do
+4
+1
+gazelle
+1444
+Can a gazelle see color?
+"yes."
+Default
+5
+1
+gazelle
+1445
+Does a gazelle see color?
+"yes."
+do
+5
+1
+gazelle
+1446
+Do gazelles have good hearing
+"yes."
+do
+5
+1
+gazelle
+1447
+Can gazelles hear well?
+"yes."
+Default
+4
+1
+gazelle
+1448
+How good is gazelle's hearing?
+"yes."
+how
+5
+1
+gazelle
+1449
+Do gazelles have good ear?
+"yes."
+do
+5
+1
+gazelle
+1450
+Is gazelle sensetive to sound?
+"yes."
+be
+5
+1
+gazelle
+1451
+Do gazelles have a good sense of smell
+"yes."
+do
+8
+1
+gazelle
+1452
+Can gazelles smell well?
+"yes."
+Default
+4
+1
+gazelle
+1453
+How good is gazelle's sense of smell?
+"yes."
+how
+7
+1
+gazelle
+1454
+Do gazelles have good nose?
+"yes."
+do
+5
+1
+gazelle
+1455
+Is gazelle sensetive to smell?
+"yes."
+be
+5
+1
+gazelle
+1456
+Do gazelles hatch from eggs when theyνΆδ‰εδ‹Άre born
+"no."
+when
+8
+1
+gazelle
+1457
+Do gazelles lay eggs?
+"no."
+do
+4
+1
+gazelle
+1458
+How is gazelle born?
+"no."
+how
+4
+1
+gazelle
+1459
+Does gazelle give birth to eggs?
+"no."
+do
+6
+1
+gazelle
+1460
+Is gazelle born from egg?
+"no."
+be
+5
+1
+gazelle
+1461
+How long do gazelles live
+"around 12 years."
+how
+5
+3
+gazelle
+1462
+What's gazelle's lifespan?
+"around 12 years."
+what
+3
+3
+gazelle
+1463
+How old can gazelle get?
+"around 12 years."
+how
+5
+3
+gazelle
+1464
+How long do gazelles usually live?
+"around 12 years."
+how
+6
+3
+gazelle
+1465
+What is gazelle's average lifespan?
+"around 12 years."
+what
+5
+3
+gazelle
+1466
+Are gazelles found in the United States
+"no, just in zoos."
+be
+7
+1
+gazelle
+1467
+Are there gazelles in US?
+"no, just in zoos."
+be
+5
+1
+gazelle
+1468
+Do we have gazelles in US?
+"no, just in zoos."
+do
+6
+1
+gazelle
+1469
+Where are gazelles in US?
+"no, just in zoos."
+where
+5
+1
+gazelle
+1470
+Is there a gazelle in America?
+"no, just in zoos."
+be
+6
+1
+gazelle
+1471
+Can a gazelle and an elephant be friends
+"they could be."
+Default
+8
+3
+gazelle
+1472
+Are gazelles and elephants friends?
+"they could be."
+be
+5
+3
+gazelle
+1473
+Do gazelles and elephants get along?
+"they could be."
+do
+6
+3
+gazelle
+1474
+Are gazelles and elephants nice to each other?
+"they could be."
+be
+8
+3
+gazelle
+1475
+Do gazelles and elephants like each other?
+"they could be."
+do
+7
+3
+gazelle
+1476
+Do gazelles smell bad
+"animals may have scents."
+do
+4
+4
+gazelle
+1477
+How bad does gazelle smell?
+"animals may have scents."
+how
+5
+4
+gazelle
+1478
+What does gazelle smell like?
+"animals may have scents."
+what
+5
+4
+gazelle
+1479
+Are gazelles stinky?
+"animals may have scents."
+be
+3
+4
+gazelle
+1480
+Are gazelle odor bad?
+"animals may have scents."
+do
+4
+4
+gazelle
+1481
+Do gazelles have arms or just legs
+"just legs."
+do
+7
+2
+gazelle
+1482
+Does a gazelle have arms?
+"just legs."
+do
+5
+2
+gazelle
+1483
+What are gazelle's limbs called?
+"just legs."
+what
+5
+2
+gazelle
+1484
+Are gazelle's limbs called arms or legs?
+"just legs."
+be
+7
+2
+gazelle
+1485
+Do gazelles have arms or legs?
+"just legs."
+do
+6
+2
+gazelle
+1486
+How tall is a hyena?
+"A fully-grown hyena is usually between 28 and 35 inches."
+how
+5
+10
+Default
+1487
+How big is a hyena?
+"A fully-grown hyena is usually between 28 and 35 inches."
+how
+5
+10
+Default
+1488
+How big hyena?
+"A fully-grown hyena is usually between 28 and 35 inches."
+how
+3
+10
+Default
+1489
+How tall hyena?
+"A fully-grown hyena is usually between 28 and 35 inches."
+how
+3
+10
+Default
+1490
+How large is a hyena?
+"A fully-grown hyena is usually between 28 and 35 inches."
+how
+5
+10
+Default
+1491
+How much does a hyena weigh?
+"A hyena can be anywhere from 90 to 190 pounds!."
+how
+6
+10
+Default
+1492
+Is a hyena heavy?
+"A hyena can be anywhere from 90 to 190 pounds!."
+be
+4
+10
+Default
+1493
+How much weight does a hyena have?
+"A hyena can be anywhere from 90 to 190 pounds!."
+how
+7
+10
+Default
+1494
+Is a hyena light or heavy?
+"A hyena can be anywhere from 90 to 190 pounds!."
+be
+6
+10
+Default
+1495
+How much hyena weigh?
+"A hyena can be anywhere from 90 to 190 pounds!."
+how
+4
+10
+Default
+1496
+How many different types of hyenas are there?
+"There are four different types of hyenas: the spotted hyena, the striped hyena, the brown hyena, and the aardwolf."
+how
+8
+10
+Default
+1497
+What are the different types of hyenas?
+"There are four different types of hyenas: the spotted hyena, the striped hyena, the brown hyena, and the aardwolf."
+what
+7
+10
+Default
+1498
+How many kinds of hyenas are there?
+"There are four different types of hyenas: the spotted hyena, the striped hyena, the brown hyena, and the aardwolf."
+how
+7
+10
+Default
+1499
+Is there more than one kind of hyena?
+"There are four different types of hyenas: the spotted hyena, the striped hyena, the brown hyena, and the aardwolf."
+be
+8
+10
+Default
+1500
+Is there only one type of hyena?
+"There are four different types of hyenas: the spotted hyena, the striped hyena, the brown hyena, and the aardwolf."
+be
+7
+10
+Default
+1501
+How fast can a hyena run?
+"Hyenas can reach speeds up to 37 mph (60kph)."
+how
+6
+9
+Default
+1502
+How fast are hyenas?
+"Hyenas can reach speeds up to 37 mph (60kph)."
+how
+4
+9
+Default
+1503
+Are hyenas fast?
+"Hyenas can reach speeds up to 37 mph (60kph)."
+be
+3
+9
+Default
+1504
+Can hyenas run fast?
+"Hyenas can reach speeds up to 37 mph (60kph)."
+Default
+4
+9
+Default
+1505
+Do hyenas run fast?
+"Hyenas can reach speeds up to 37 mph (60kph)."
+do
+4
+9
+Default
+1506
+What do they eat?
+"Hyenas are carnivores which means they eat meat. They will even eat the bones and teeth of the animal they hunted. Hyena cubs will drink milk from their mothers."
+what
+4
+29
+Default
+1507
+What do hyenas eat?
+"Hyenas are carnivores which means they eat meat. They will even eat the bones and teeth of the animal they hunted. Hyena cubs will drink milk from their mothers."
+what
+4
+29
+Default
+1508
+What food do they eat?
+"Hyenas are carnivores which means they eat meat. They will even eat the bones and teeth of the animal they hunted. Hyena cubs will drink milk from their mothers."
+what
+5
+29
+Default
+1509
+What they eat?
+"Hyenas are carnivores which means they eat meat. They will even eat the bones and teeth of the animal they hunted. Hyena cubs will drink milk from their mothers."
+what
+3
+29
+Default
+1510
+Do hyenas eat animals?
+"Hyenas are carnivores which means they eat meat. They will even eat the bones and teeth of the animal they hunted. Hyena cubs will drink milk from their mothers."
+do
+4
+29
+Default
+1511
+Do hyenas have friends?
+"Spotted hyenas live in large groups known as clans. They are social animals which means they like to be friends with other hyenas iin their clan."
+do
+4
+26
+Default
+1512
+Do hyena got friends?
+"Spotted hyenas live in large groups known as clans. They are social animals which means they like to be friends with other hyenas iin their clan."
+do
+4
+26
+Default
+1513
+Do hyenas live alone?
+"Spotted hyenas live in large groups known as clans. They are social animals which means they like to be friends with other hyenas iin their clan."
+do
+4
+26
+Default
+1514
+Are hyenas alone?
+"Spotted hyenas live in large groups known as clans. They are social animals which means they like to be friends with other hyenas iin their clan."
+be
+3
+26
+Default
+1515
+They alone?
+"Spotted hyenas live in large groups known as clans. They are social animals which means they like to be friends with other hyenas iin their clan."
+Default
+2
+26
+Default
+1516
+Can hyenas talk?
+"To communicate with their clan members hyenas make grunting, groaning, yelling, and laughing sounds."
+Default
+3
+9
+Default
+1517
+Do hyena talk?
+"To communicate with their clan members hyenas make grunting, groaning, yelling, and laughing sounds."
+do
+3
+9
+Default
+1518
+Are there talking hyenas?
+"To communicate with their clan members hyenas make grunting, groaning, yelling, and laughing sounds."
+be
+4
+9
+Default
+1519
+Do hyenas speak?
+"To communicate with their clan members hyenas make grunting, groaning, yelling, and laughing sounds."
+do
+3
+9
+Default
+1520
+Can hyenas speak?
+"To communicate with their clan members hyenas make grunting, groaning, yelling, and laughing sounds."
+Default
+3
+9
+Default
+1521
+How old are they?
+"The pitch of the hyena's laugh tells scientist how old that hyena is."
+how
+4
+13
+Default
+1522
+Can we tell how old they are?
+"The pitch of the hyena's laugh tells scientist how old that hyena is."
+how
+7
+13
+Default
+1523
+What age are they?
+"The pitch of the hyena's laugh tells scientist how old that hyena is."
+what
+4
+13
+Default
+1524
+What is their age?
+"The pitch of the hyena's laugh tells scientist how old that hyena is."
+what
+4
+13
+Default
+1525
+Age?
+"The pitch of the hyena's laugh tells scientist how old that hyena is."
+Default
+1
+13
+Default
+1526
+Do hyenas like lions?
+"Hyenas do not get along with lions. They fight and sometimes the hyenas will kill each lion babies."
+do
+4
+18
+lion
+1527
+Do hyenas hunt alone?
+"They hunt and kill in packs. ."
+do
+4
+6
+Default
+1528
+Who is stronger in a hyena family? 
+"Females are stronger than males and they rule the clan."
+Default
+7
+10
+Default
+1529
+What happens to the weakest cubs? 
+"The weakest cubs usually die of starvation because their brothers and sisters will not let them drink from their moms milk."
+what
+6
+21
+Default
+1530
+Do hyenas have babysitters? 
+"Hyena cubs have babysitters until they are old enough to hunt at around 12-18 months."
+do
+4
+15
+Default
+1531
+Why do hyenas laugh?
+"Laughing sound is used to tell other hyenas there is food. This can be heard up to 3 miles away. ."
+why
+4
+20
+Default
+1532
+Why they laughing?
+"Laughing sound is used to tell other hyenas there is food. This can be heard up to 3 miles away. ."
+why
+3
+20
+Default
+1533
+What's so funny?
+"Laughing sound is used to tell other hyenas there is food. This can be heard up to 3 miles away. ."
+what
+3
+20
+Default
+1534
+What does the laughing mean?
+"Laughing sound is used to tell other hyenas there is food. This can be heard up to 3 miles away. ."
+what
+5
+20
+Default
+1535
+What is that laugh for?
+"Laughing sound is used to tell other hyenas there is food. This can be heard up to 3 miles away. ."
+what
+5
+20
+Default
+1536
+Do they have kings?
+"Scientists use a hyena's laugh ranks their level of power. ."
+do
+4
+10
+Default
+1537
+Do they have queens?
+"Scientists use a hyena's laugh ranks their level of power. ."
+do
+4
+10
+Default
+1538
+Is there a president?
+"Scientists use a hyena's laugh ranks their level of power. ."
+be
+4
+10
+Default
+1539
+Is there a ruler?
+"Scientists use a hyena's laugh ranks their level of power. ."
+be
+4
+10
+Default
+1540
+Who has power?
+"Scientists use a hyena's laugh ranks their level of power. ."
+Default
+3
+10
+Default
+1541
+Do hyenas have tails?
+"Yes, hyenas do have tails."
+do
+4
+1
+Default
+1542
+Are there tails on hyenas?
+"Yes, hyenas do have tails."
+be
+5
+1
+Default
+1543
+Hyenas have tails?
+"Yes, hyenas do have tails."
+Default
+3
+1
+Default
+1544
+Does that hyena have a tail?
+"Yes, hyenas do have tails."
+do
+6
+1
+Default
+1545
+Hyenas got tails?
+"Yes, hyenas do have tails."
+Default
+3
+1
+Default
+1546
+How long is a hyena's tail?
+"Depending on the type of hyena and its age, its tail can be anywhere between 10 and 14 inches."
+how
+6
+9
+Default
+1547
+How long hyenas tail?
+"Depending on the type of hyena and its age, its tail can be anywhere between 10 and 14 inches."
+how
+4
+9
+Default
+1548
+Is hyenas tail long?
+"Depending on the type of hyena and its age, its tail can be anywhere between 10 and 14 inches."
+be
+4
+9
+Default
+1549
+Do hyenas have long tails?
+"Depending on the type of hyena and its age, its tail can be anywhere between 10 and 14 inches."
+do
+5
+9
+Default
+1550
+Are hyenas tails long?
+"Depending on the type of hyena and its age, its tail can be anywhere between 10 and 14 inches."
+be
+4
+9
+Default
+1551
+How many teeth does a hyena have?
+"On avergage they have around 32 teeth but they can have up to 59."
+how
+7
+14
+Default
+1552
+Do hyenas have a lot of teeth?
+"On avergage they have around 32 teeth but they can have up to 59."
+do
+7
+14
+Default
+1553
+How many teeth do hyenas got?
+"On avergage they have around 32 teeth but they can have up to 59."
+how
+6
+14
+Default
+1554
+Do hyenas got a lot of teeth?
+"On avergage they have around 32 teeth but they can have up to 59."
+do
+7
+14
+Default
+1555
+How many teeth does hyenas got?
+"On avergage they have around 32 teeth but they can have up to 59."
+how
+6
+14
+Default
+1556
+How many babies can a hyena have at once?
+"They usually have one to two babies per pregnancy."
+how
+9
+9
+Default
+1557
+How many babies can a hyena have?
+"They usually have one to two babies per pregnancy."
+how
+7
+9
+Default
+1558
+Can hyenas have a lot of babies?
+"They usually have one to two babies per pregnancy."
+Default
+7
+9
+Default
+1559
+Do hyenas have a lot of babies?
+"They usually have one to two babies per pregnancy."
+do
+7
+9
+Default
+1560
+How many babies can hyenas have?
+"They usually have one to two babies per pregnancy."
+how
+6
+9
+Default
+1561
+Can hyenas get sunburned?
+"Default."
+Default
+4
+1
+Default
+1562
+Do hyenas like fresh meat or dead meat?
+"Hyenas are scavengers, meaning they eat meat that has been killed by other animals, but they also hunt for their own meat."
+do
+8
+3
+Default
+1563
+Are hyenas scavengers?
+"Hyenas are scavengers, meaning they eat meat that has been killed by other animals, but they also hunt for their own meat."
+be
+3
+3
+Default
+1564
+Do male hyenas weigh more than females?
+"Female hyenas will often weigh more than the males!."
+do
+7
+9
+Default
+1565
+Do boy hyenas weigh more than girl hyenas?
+"Female hyenas will often weigh more than the males!."
+do
+8
+9
+Default
+1566
+Do girl hyenas weigh more than boy hyenas?
+"Female hyenas will often weigh more than the males!."
+do
+8
+9
+Default
+1567
+Do female hyenas weigh more than males?
+"Female hyenas will often weigh more than the males!."
+do
+7
+9
+Default
+1568
+Which hyena gender weighs more?
+"Female hyenas will often weigh more than the males!."
+Default
+5
+9
+Default
+1569
+How many hyenas live with each other?
+"Hyenas live in groups of up to 80 related members!."
+how
+7
+10
+Default
+1570
+How big are hyena families?
+"Hyenas live in groups of up to 80 related members!."
+how
+5
+10
+Default
+1571
+Do hyenas only eat meat?
+"In addition to meat, hyenas eat bones, skin, and even animal droppings!."
+do
+5
+4
+Default
+1572
+How much food can a hyena eat at once?
+"A hyena can eat up to one-third of its body weight during one feeding frenzy!."
+how
+9
+15
+Default
+1573
+Do humans eat hyenas?
+"Hyenas were eaten by humans in ancient Egypt."
+do
+4
+8
+Default
+1574
+Which type of hyena is the smallest?
+"The aardwolf is the smallest type of hyena.  They usually weight between 50 and 60 pounds."
+Default
+7
+16
+Default
+1575
+Do male or female hyenas have more power?
+"Female spotted hyenas are more powerful than the males!."
+do
+8
+9
+Default
+1576
+Where do warthogs live?
+"grassland, savanna, and woodland."
+where
+4
+1
+warthog
+1577
+What environments do warthogs live in?
+"grassland, savanna, and woodland."
+what
+6
+1
+warthog
+1578
+Where does a warthog live?
+"grassland, savanna, and woodland."
+where
+5
+1
+warthog
+1579
+Where would a warthog live?
+"grassland, savanna, and woodland."
+where
+5
+1
+warthog
+1580
+Where do warthogs like to live?
+"grassland, savanna, and woodland."
+where
+6
+1
+warthog
+1581
+What is a warthog?
+"A warthog is an animal that is a wild member of the pig family."
+what
+4
+14
+warthog
+1582
+What are warthogs?
+"A warthog is an animal that is a wild member of the pig family."
+what
+3
+14
+warthog
+1583
+What's a warthog?
+"A warthog is an animal that is a wild member of the pig family."
+what
+3
+14
+warthog
+1584
+What is a warthog like?
+"A warthog is an animal that is a wild member of the pig family."
+what
+5
+14
+warthog
+1585
+What are warthogs like?
+"A warthog is an animal that is a wild member of the pig family."
+what
+4
+14
+warthog
+1586
+What does a warthog eat?
+"grasses, roots, berries and other fruits, bark, fungi, insects, eggs, carrion."
+what
+5
+1
+warthog
+1587
+What do warthogs eat?
+"grasses, roots, berries and other fruits, bark, fungi, insects, eggs, carrion."
+what
+4
+1
+warthog
+1588
+What is a warthog's favorite food?
+"grasses, roots, berries and other fruits, bark, fungi, insects, eggs, carrion."
+what
+6
+1
+warthog
+1589
+What are warthogs' favorite food?
+"grasses, roots, berries and other fruits, bark, fungi, insects, eggs, carrion."
+what
+5
+1
+warthog
+1590
+What do warthogs like to eat?
+"grasses, roots, berries and other fruits, bark, fungi, insects, eggs, carrion."
+what
+6
+1
+warthog
+1591
+Does a warthog have a tail?
+"Yes."
+do
+6
+1
+warthog
+1592
+Do warthogs have tails?
+"Yes."
+do
+4
+1
+warthog
+1593
+Does a warthog have a tail on it?
+"Yes."
+do
+8
+1
+warthog
+1594
+Do warthogs have tails on them?
+"Yes."
+do
+6
+1
+warthog
+1595
+Do warthogs' bodies have tails?
+"Yes."
+do
+5
+1
+warthog
+1596
+What color is a warthog?
+"Brown, Tan, Grey."
+what
+5
+1
+warthog
+1597
+What color are warthogs?
+"Brown, Tan, Grey."
+what
+4
+1
+warthog
+1598
+What is the color of a warthog?
+"Brown, Tan, Grey."
+what
+7
+1
+warthog
+1599
+What is the color of warthogs?
+"Brown, Tan, Grey."
+what
+6
+1
+warthog
+1600
+What is the color of a warthog's skin?
+"Brown, Tan, Grey."
+what
+8
+1
+warthog
+1601
+Do warthogs have fur?
+"Yes."
+do
+4
+1
+warthog
+1602
+Does a warthog have fur?
+"Yes."
+do
+5
+1
+warthog
+1603
+Is a warthog furry?
+"Yes."
+be
+4
+1
+warthog
+1604
+Are warthogs furry?
+"Yes."
+be
+3
+1
+warthog
+1605
+Is a warthog hairy?
+"Yes."
+be
+4
+1
+warthog
+1606
+How big are warthogs?
+"3-5 ft long."
+how
+4
+3
+warthog
+1607
+How large are warthogs?
+"3-5 ft long."
+how
+4
+3
+warthog
+1608
+How big is a warthog?
+"3-5 ft long."
+how
+5
+3
+warthog
+1609
+How large is a warthog?
+"3-5 ft long."
+how
+5
+3
+warthog
+1610
+What size are warthogs?
+"3-5 ft long."
+what
+4
+3
+warthog
+1611
+What are relatives of a warthog?
+"Pigs."
+what
+6
+1
+warthog
+1612
+Which other animals are similar to warthogs?
+"Pigs."
+Default
+7
+1
+warthog
+1613
+What are relatives of warthogs?
+"Pigs."
+what
+5
+1
+warthog
+1614
+How are warthogs related to other animals?
+"Pigs."
+how
+7
+1
+warthog
+1615
+How are other animals related to warthogs?
+"Pigs."
+how
+7
+1
+warthog
+1616
+Where is the world can you find warthogs?
+"Tanzania, Kenya, Congo, Zambia, Angola, Namibia, Eritrea, Somalia, South Africa, Djibouti, Ethiopia."
+where
+8
+1
+warthog
+1617
+Where in the world can you find a warthog?
+"Tanzania, Kenya, Congo, Zambia, Angola, Namibia, Eritrea, Somalia, South Africa, Djibouti, Ethiopia."
+where
+9
+1
+warthog
+1618
+Which countries do warthogs live in?
+"Tanzania, Kenya, Congo, Zambia, Angola, Namibia, Eritrea, Somalia, South Africa, Djibouti, Ethiopia."
+do
+6
+1
+warthog
+1619
+Where is the world to warthogs live?
+"Tanzania, Kenya, Congo, Zambia, Angola, Namibia, Eritrea, Somalia, South Africa, Djibouti, Ethiopia."
+where
+7
+1
+warthog
+1620
+Which countries can one find a warthog?
+"Tanzania, Kenya, Congo, Zambia, Angola, Namibia, Eritrea, Somalia, South Africa, Djibouti, Ethiopia."
+Default
+7
+1
+warthog
+1621
+How many inches long are warthogs' teeth?
+"10 inches."
+how
+7
+2
+warthog
+1622
+How long does are a warthog's teeth?
+"10 inches."
+how
+7
+2
+warthog
+1623
+How many inches are a warthog's teeth?
+"10 inches."
+how
+7
+2
+warthog
+1624
+How long are warthogs' teeth?
+"10 inches."
+how
+5
+2
+warthog
+1625
+What is the length of a warthog's tooth?
+"10 inches."
+what
+8
+2
+warthog
+1626
+What type of animal is a warthog?
+"Mammal."
+what
+7
+1
+warthog
+1627
+What type of animal are warthogs?
+"Mammal."
+what
+6
+1
+warthog
+1628
+"Warthogs, are what type of animal?"
+"Mammal."
+what
+5
+1
+warthog
+1629
+How would you classify warthogs?
+"Mammal."
+how
+5
+1
+warthog
+1630
+How would you classify a warthog?
+"Mammal."
+how
+6
+1
+warthog
+1631
+How fast are warthogs?
+"Warthogs can run up to 30 mph."
+how
+4
+7
+warthog
+1632
+How fast is a warthog?
+"Warthogs can run up to 30 mph."
+how
+5
+7
+warthog
+1633
+How fast can a warthog run?
+"Warthogs can run up to 30 mph."
+how
+6
+7
+warthog
+1634
+How fast do warthogs run?
+"Warthogs can run up to 30 mph."
+how
+5
+7
+warthog
+1635
+At what speed does a warthog run?
+"Warthogs can run up to 30 mph."
+what
+7
+7
+warthog
+1636
+How long does a warthog live?
+"12-18 years."
+how
+6
+2
+warthog
+1637
+How old is an average warthog?
+"12-18 years."
+how
+6
+2
+warthog
+1638
+What is the lifespan of a warthog?
+"12-18 years."
+what
+7
+2
+warthog
+1639
+How long do warthogs live?
+"12-18 years."
+how
+5
+2
+warthog
+1640
+What is a lifespan of warthogs?
+"12-18 years."
+what
+6
+2
+warthog
+1641
+How much do warthogs weigh?
+"110-330 lbs."
+how
+5
+2
+warthog
+1642
+How many pounds is a warthog?
+"110-330 lbs."
+how
+6
+2
+warthog
+1643
+How many pounds are warthogs?
+"110-330 lbs."
+how
+5
+2
+warthog
+1644
+How much does a warthog weigh?
+"110-330 lbs."
+how
+6
+2
+warthog
+1645
+What is the weight of a warthog?
+"110-330 lbs."
+what
+7
+2
+warthog
+1646
+What is a warthog's home like?
+"Warthogs move into empty aardvark dens."
+what
+6
+6
+warthog
+1647
+What are warthogs' homes like?
+"Warthogs move into empty aardvark dens."
+what
+5
+6
+warthog
+1648
+What type of home does a warthog have?
+"Warthogs move into empty aardvark dens."
+what
+8
+6
+warthog
+1649
+What type of home do warthogs have?
+"Warthogs move into empty aardvark dens."
+what
+7
+6
+warthog
+1650
+What is a warthog's home?
+"Warthogs move into empty aardvark dens."
+what
+5
+6
+warthog
+1651
+Why are they called warthogs?
+"Warthog's flat heads are covered with protect bumps or ""warts.""."
+why
+5
+10
+warthog
+1652
+Where do warthogs get their name?
+"Warthog's flat heads are covered with protect bumps or ""warts.""."
+where
+6
+10
+warthog
+1653
+Why is it called a warthog?
+"Warthog's flat heads are covered with protect bumps or ""warts.""."
+why
+6
+10
+warthog
+1654
+Where does a warthog get its name?
+"Warthog's flat heads are covered with protect bumps or ""warts.""."
+where
+7
+10
+warthog
+1655
+Why do we call them warthogs?
+"Warthog's flat heads are covered with protect bumps or ""warts.""."
+why
+6
+10
+warthog
+1656
+How to warthogs use their snouts?
+"Warthogs use their snouts to dig."
+how
+6
+6
+warthog
+1657
+How does a warthog use its snout?
+"Warthogs use their snouts to dig."
+how
+7
+6
+warthog
+1658
+What does a warthog use its nose for?
+"Warthogs use their snouts to dig."
+what
+8
+6
+warthog
+1659
+How does a warthog use its nose?
+"Warthogs use their snouts to dig."
+how
+7
+6
+warthog
+1660
+How do warthogs use their noses?
+"Warthogs use their snouts to dig."
+how
+6
+6
+warthog
+1661
+How much do warthogs drink?
+"Warthogs can go months without drinking water during the dry season."
+how
+5
+11
+warthog
+1662
+What do warthogs drink?
+"Warthogs can go months without drinking water during the dry season."
+what
+4
+11
+warthog
+1663
+How much does a warthog drink?
+"Warthogs can go months without drinking water during the dry season."
+how
+6
+11
+warthog
+1664
+What does a warthog drink?
+"Warthogs can go months without drinking water during the dry season."
+what
+5
+11
+warthog
+1665
+How much water does a warthog drink?
+"Warthogs can go months without drinking water during the dry season."
+how
+7
+11
+warthog
+1666
+Do birds like warthogs?
+"Birds frequent warthogs' backs to feed on bugs in the warthog's hair."
+do
+4
+12
+warthog
+1667
+How do birds and warthogs work together?
+"Birds frequent warthogs' backs to feed on bugs in the warthog's hair."
+how
+7
+12
+warthog
+1668
+Are birds and warthogs friends?
+"Birds frequent warthogs' backs to feed on bugs in the warthog's hair."
+be
+5
+12
+warthog
+1669
+Would a bird and a warthog work together?
+"Birds frequent warthogs' backs to feed on bugs in the warthog's hair."
+Default
+8
+12
+warthog
+1670
+How does a bird and a warthog work together?
+"Birds frequent warthogs' backs to feed on bugs in the warthog's hair."
+how
+9
+12
+warthog
+1671
+What does a warthog look like?
+"Warthogs have flat large faces with an elongated snout and sparse bristles that cover their bodies."
+what
+6
+16
+warthog
+1672
+What do warthogs look like?
+"Warthogs have flat large faces with an elongated snout and sparse bristles that cover their bodies."
+what
+5
+16
+warthog
+1673
+How can I tell it is a warthog?
+"Warthogs have flat large faces with an elongated snout and sparse bristles that cover their bodies."
+how
+8
+16
+warthog
+1674
+How can I tell they are warthogs?
+"Warthogs have flat large faces with an elongated snout and sparse bristles that cover their bodies."
+how
+7
+16
+warthog
+1675
+What are key features of a warthog?
+"Warthogs have flat large faces with an elongated snout and sparse bristles that cover their bodies."
+what
+7
+16
+warthog
+1676
+How long does a warthog's tusk grow?
+"10.0 to 25.0 in."
+how
+7
+4
+warthog
+1677
+How long do warthogs' tusks grow?
+"10.0 to 25.0 in."
+how
+6
+4
+warthog
+1678
+What is the length of a warthog's tusk?
+"10.0 to 25.0 in."
+what
+8
+4
+warthog
+1679
+How long is a warthog's tusk?
+"10.0 to 25.0 in."
+how
+6
+4
+warthog
+1680
+How long are warthog's tusks
+"10.0 to 25.0 in."
+how
+5
+4
+warthog
+1681
+What is a warthog's predators?
+"Lion, Hyena, Crocodile."
+what
+5
+1
+warthog
+1682
+What animals eat warthogs?
+"Lion, Hyena, Crocodile."
+what
+4
+1
+warthog
+1683
+Which animals eat warthogs?
+"Lion, Hyena, Crocodile."
+Default
+4
+1
+warthog
+1684
+What are warthogs' predators?
+"Lion, Hyena, Crocodile."
+what
+4
+1
+warthog
+1685
+What can be a warthog's predator?
+"Lion, Hyena, Crocodile."
+what
+6
+1
+warthog
+1686
+How to warthogs communicate?
+"squeaks, squeals, snorts, chirrups, growls and grunts."
+how
+4
+1
+warthog
+1687
+How does a warthog communicate?
+"squeaks, squeals, snorts, chirrups, growls and grunts."
+how
+5
+1
+warthog
+1688
+How do warthogs talk to each other?
+"squeaks, squeals, snorts, chirrups, growls and grunts."
+how
+7
+1
+warthog
+1689
+How does a warthog communicate with other warthogs?
+"squeaks, squeals, snorts, chirrups, growls and grunts."
+how
+8
+1
+warthog
+1690
+How do warthogs communicate with other warthogs?
+"squeaks, squeals, snorts, chirrups, growls and grunts."
+how
+7
+1
+warthog
+1691
+How big is a litter of warthogs?
+"2-4 per litter."
+how
+7
+3
+warthog
+1692
+How many babies does a warthog have?
+"2-4 per litter."
+how
+7
+3
+warthog
+1693
+How many babies do warthogs have?
+"2-4 per litter."
+how
+6
+3
+warthog
+1694
+How large is a litter of warthogs?
+"2-4 per litter."
+how
+7
+3
+warthog
+1695
+How many babies are in a litter of warthogs?
+"2-4 per litter."
+how
+9
+3
+warthog
+1696
+How do warthogs groom?
+"Warthogs take sand baths and rub against trees."
+how
+4
+8
+warthog
+1697
+How does a warthog groom?
+"Warthogs take sand baths and rub against trees."
+how
+5
+8
+warthog
+1698
+How do warthogs clean themselves?
+"Warthogs take sand baths and rub against trees."
+how
+5
+8
+warthog
+1699
+How does a warthog clean himself?
+"Warthogs take sand baths and rub against trees."
+how
+6
+8
+warthog
+1700
+How does a warthog clean herself?
+"Warthogs take sand baths and rub against trees."
+how
+6
+8
+warthog
+1701
+What are a warthog's best senses?
+"smell and hearing."
+what
+6
+3
+warthog
+1702
+What are warthogs' best senses?
+"smell and hearing."
+what
+5
+3
+warthog
+1703
+What are a warthog's most useful senses?
+"smell and hearing."
+what
+7
+3
+warthog
+1704
+What are warthogs' most useful senses?
+"smell and hearing."
+what
+6
+3
+warthog
+1705
+Which senses do warthogs use?
+"smell and hearing."
+do
+5
+3
+warthog
+1706
+How many species of warthogs are there?
+"There are two distinct species of warthogs. The desert and common warthog."
+how
+7
+12
+warthog
+1707
+There are how many species of warthogs?
+"There are two distinct species of warthogs. The desert and common warthog."
+how
+7
+12
+warthog
+1708
+Are there multiple species of warthogs?
+"There are two distinct species of warthogs. The desert and common warthog."
+be
+6
+12
+warthog
+1709
+Is there more than one species of warthog?
+"There are two distinct species of warthogs. The desert and common warthog."
+be
+8
+12
+warthog
+1710
+Are there many species of warthogs?
+"There are two distinct species of warthogs. The desert and common warthog."
+be
+6
+12
+warthog
+1711
+How much do warthogs weigh when they are born?
+"1-2 pounds."
+when
+9
+2
+warthog
+1712
+How much do baby warthogs weigh?
+"1-2 pounds."
+how
+6
+2
+warthog
+1713
+How big are baby warthogs?
+"1-2 pounds."
+how
+5
+2
+warthog
+1714
+How heavy are baby warthogs?
+"1-2 pounds."
+how
+5
+2
+warthog
+1715
+How heavy are warthogs at birth?
+"1-2 pounds."
+how
+6
+2
+warthog
+1716
+How to warthogs stay warm?
+"Warthogs huddle together in underground burrows to stay warm."
+how
+5
+9
+warthog
+1717
+What do warthogs do when they are cold?
+"Warthogs huddle together in underground burrows to stay warm."
+what
+8
+9
+warthog
+1718
+How does a warthog stay warm?
+"Warthogs huddle together in underground burrows to stay warm."
+how
+6
+9
+warthog
+1719
+What does a warthog do when he is cold?
+"How do warthogs stay warm?."
+what
+9
+5
+warthog
+1720
+What does a warthog do when she is cold?
+"Warthogs huddle together in underground burrows to stay warm."
+what
+9
+9
+warthog
+1721
+How does a warthog stay cool?
+"Warthogs cool off in mud wallows to cool off on a warm day."
+how
+6
+13
+warthog
+1722
+How do warthogs stay cool?
+"Warthogs cool off in mud wallows to cool off on a warm day."
+how
+5
+13
+warthog
+1723
+What does a warthog do when it is hot?
+"Warthogs cool off in mud wallows to cool off on a warm day."
+what
+9
+13
+warthog
+1724
+What do warthogs do when it is too hot?
+"Warthogs cool off in mud wallows to cool off on a warm day."
+what
+9
+13
+warthog
+1725
+What do warthogs do when it is hot?
+"Warthogs cool off in mud wallows to cool off on a warm day."
+what
+8
+13
+warthog
+1726
+How many warthogs are there?
+"Approximately 250,000."
+how
+5
+2
+warthog
+1727
+How many warthogs are there in the world?
+"Approximately 250,000."
+how
+8
+2
+warthog
+1728
+About how many warthogs are there?
+"Approximately 250,000."
+how
+6
+2
+warthog
+1729
+About how many warthogs are there in the world?
+"Approximately 250,000."
+how
+9
+2
+warthog
+1730
+What is the population size of warthogs?
+"Approximately 250,000."
+what
+7
+2
+warthog
+1731
+How many tusks do warthogs have?
+"4.0."
+how
+6
+1
+warthog
+1732
+How many tusks does warthog have?
+"4.0."
+how
+6
+1
+warthog
+1733
+How many tusks does would a warthog have?
+"4.0."
+how
+8
+1
+warthog
+1734
+How many tusks can warthogs have?
+"4.0."
+how
+6
+1
+warthog
+1735
+How many tusks can a warthog have?
+"4.0."
+how
+7
+1
+warthog
+1736
+What do baby warthogs eat?
+"Young warthogs drink their mother's milk for the first four months of life."
+what
+5
+13
+warthog
+1737
+What does a baby waterhog eat?
+"Young warthogs drink their mother's milk for the first four months of life."
+what
+6
+13
+Default
+1738
+What food does a baby warthog eat?
+"Young warthogs drink their mother's milk for the first four months of life."
+what
+7
+13
+warthog
+1739
+What food do baby warthogs eat?
+"Young warthogs drink their mother's milk for the first four months of life."
+what
+6
+13
+warthog
+1740
+What sort of food do baby warthogs eat?
+"Young warthogs drink their mother's milk for the first four months of life."
+what
+8
+13
+warthog
+1741
+"Are warthogs omnivores, carnivores, or herbivores?"
+"Omnivore."
+be
+3
+1
+warthog
+1742
+"Are warthogs carnivores, omnivores, or herbivores?"
+"Omnivore."
+be
+3
+1
+warthog
+1743
+"Is a warthog a carnivore, omnivore, or herbivore?"
+"Omnivore."
+be
+5
+1
+warthog
+1744
+"Is a warthog an omnivore, carnivore, or herbivore?"
+"Omnivore."
+be
+5
+1
+warthog
+1745
+"Is a warthog an herbivore, carnivore, or omnivore?"
+"Omnivore."
+be
+5
+1
+warthog
+1746
+How does a warthog defend itself?
+"Warthogs are likely to flee from danger."
+how
+6
+7
+warthog
+1747
+How do warthogs defend themselves?
+"Warthogs are likely to flee from danger."
+how
+5
+7
+warthog
+1748
+How do warthogs protect themselves?
+"Warthogs are likely to flee from danger."
+how
+5
+7
+warthog
+1749
+How does a warthog protect itself?
+"Warthogs are likely to flee from danger."
+how
+6
+7
+warthog
+1750
+How does a warthog protect himself?
+"Warthogs are likely to flee from danger."
+how
+6
+7
+warthog
+1751
+What do you call a group of warthogs?
+"Sounders."
+what
+8
+1
+warthog
+1752
+What are warthog groups called?
+"Sounders."
+what
+5
+1
+warthog
+1753
+What does one call a group of warthogs?
+"Sounders."
+what
+8
+1
+warthog
+1754
+What is the name of a group of warthogs?
+"Sounders."
+what
+9
+1
+warthog
+1755
+What are many warthogs together called?
+"Sounders."
+what
+6
+1
+warthog
+1756
+How are boy and girl warthogs different?
+"Male weigh 20-50lbs more than females and have disproportionately large heads."
+how
+7
+11
+warthog
+1757
+How are girl and boy warthogs different?
+"Male weigh 20-50 lbs more than females and have disproportionately large heads."
+how
+7
+12
+warthog
+1758
+How are male and female warthogs different?
+"Male weigh 20-50 lbs more than females and have disproportionately large heads."
+how
+7
+12
+warthog
+1759
+How are female and male warthogs different?
+"Male weigh 20-50 lbs more than females and have disproportionately large heads."
+how
+7
+12
+warthog
+1760
+What are the differences between male and female warthogs?
+"Male weigh 20-50 lbs more than females and have disproportionately large heads."
+what
+9
+12
+warthog
+1761
+What is unique about the warthog's tail when it runs?
+"Their tail stick straight up while they run."
+what
+10
+8
+warthog
+1762
+What is special about the warthog's tail when it runs?
+"Their tail stick straight up while they run."
+what
+10
+8
+warthog
+1763
+What is special about warthogs' tails when they run?
+"Their tail stick straight up while they run."
+what
+9
+8
+warthog
+1764
+What is unique about warthogs' tails when they runs?
+"Their tail stick straight up while they run."
+what
+9
+8
+warthog
+1765
+What is strange about a warthog's tail when it runs?
+"Their tail stick straight up while they run."
+what
+10
+8
+warthog
+1766
+How is a warthog's vision?
+"Warthogs have poor vision."
+how
+5
+4
+warthog
+1767
+Does a warthog have good vision?
+"Warthogs have poor vision."
+do
+6
+4
+warthog
+1768
+Can a warthog see clearly?
+"Warthogs have poor vision."
+Default
+5
+4
+warthog
+1769
+Can a warthog see well?
+"Warthogs have poor vision."
+Default
+5
+4
+warthog
+1770
+Do warthogs have good vision?
+"Warthogs have poor vision."
+do
+5
+4
+warthog
+1771
+What is a difference between pigs and warthogs?
+"Warthogs have long legs compared to pigs."
+what
+8
+7
+warthog
+1772
+What is a key difference between pigs and warthogs?
+"Warthogs have long legs compared to pigs."
+what
+9
+7
+warthog
+1773
+What is a difference between a pig and a warthog?
+"Warthogs have long legs compared to pigs."
+what
+10
+7
+warthog
+1774
+What is a key difference between a pig and a warthog?
+"Warthogs have long legs compared to pigs."
+what
+11
+7
+warthog
+1775
+How are warthogs different from pigs?
+"Warthogs have long legs compared to pigs."
+how
+6
+7
+warthog
+1776
+How long is a warthog's tail?
+"9-17 inches."
+how
+6
+2
+warthog
+1777
+How many inches is a warthog's tail?
+"9-17 inches."
+how
+7
+2
+warthog
+1778
+How long are warthogs' tails?
+"9-17 inches."
+how
+5
+2
+warthog
+1779
+How many inches are warthogs' tails?
+"9-17 inches."
+how
+6
+2
+warthog
+1780
+How long are most warthogs' tails?
+"9-17 inches."
+how
+6
+2
+warthog
+1781
+What is another name for warthogs?
+"Phacochoerus."
+what
+6
+1
+warthog
+1782
+Is there another name for warthogs?
+"Phacochoerus."
+be
+6
+1
+warthog
+1783
+Do warthogs have another name?
+"Phacochoerus."
+do
+5
+1
+warthog
+1784
+Can warthogs be called something else?
+"Phacochoerus."
+Default
+6
+1
+warthog
+1785
+What else can a warthog be called?
+"Phacochoerus."
+what
+7
+1
+warthog
+1786
+What continent can you find warthogs on?
+"Africa."
+what
+7
+1
+warthog
+1787
+On which continent can you find warthogs?
+"Africa."
+Default
+7
+1
+warthog
+1788
+What continent has warthogs on it?
+"Africa."
+what
+6
+1
+warthog
+1789
+What continent can you see warthogs on?
+"Africa."
+what
+7
+1
+warthog
+1790
+On which continent can you go to see warthogs?
+"Africa."
+Default
+9
+1
+warthog
+1791
+Is there different species of common warthogs?
+"Nolan, Eritrean, Central African, Southern."
+be
+7
+1
+warthog
+1792
+What are the subspecies of common warthogs?
+"Nolan, Eritrean, Central African, Southern."
+what
+7
+1
+warthog
+1793
+What are the different subspecies of common warthogs?
+"Nolan, Eritrean, Central African, Southern."
+what
+8
+1
+warthog
+1794
+What are the names of the different common warthog subspecies?
+"Nolan, Eritrean, Central African, Southern."
+what
+10
+1
+warthog
+1795
+What are the names of different common warthog species?
+"Nolan, Eritrean, Central African, Southern."
+what
+9
+1
+warthog
+1796
+What is the difference among the 4 tusks?
+"The lower pair is shorter and sharper than the upper pair."
+what
+8
+11
+Default
+1797
+Is there a difference among the 4 tusks?
+"The lower pair is shorter and sharper than the upper pair."
+be
+8
+11
+Default
+1798
+Are there differences among the 4 tusks?
+"The lower pair is shorter and sharper than the upper pair."
+be
+7
+11
+Default
+1799
+What are the differences among the 4 tusks?
+"The lower pair is shorter and sharper than the upper pair."
+what
+8
+11
+Default
+1800
+Are the 4 tusks different in any way?
+"The lower pair is shorter and sharper than the upper pair."
+be
+8
+11
+Default
+1801
+Why are the lower tusks sharper?
+"The lower pair rubs against the upper pair when the warthogs open and close their mouths."
+why
+6
+16
+Default
+1802
+Is there a reason the lower tusks are sharper?
+"The lower pair rubs against the upper pair when the warthogs open and close their mouths."
+be
+9
+16
+Default
+1803
+What makes the lower tusks sharper?
+"The lower pair rubs against the upper pair when the warthogs open and close their mouths."
+what
+6
+16
+Default
+1804
+How come the lower tusks are sharper?
+"The lower pair rubs against the upper pair when the warthogs open and close their mouths."
+how
+7
+16
+Default
+1805
+Why are the lower tusks so sharp?
+"The lower pair rubs against the upper pair when the warthogs open and close their mouths."
+why
+7
+16
+Default
+1806
+What are the tusks for?
+"The tusks are used for digging, for combat with other hogs, and in defense against predators."
+what
+5
+6
+Default
+1807
+What is the purpose of the tusks?
+"The tusks are used for digging, for combat with other hogs, and in defense against predators."
+what
+7
+6
+Default
+1808
+Are there purposes for the tusks?
+"The tusks are used for digging, for combat with other hogs, and in defense against predators."
+be
+6
+6
+Default
+1809
+What are the purposes for the tusks?
+"The tusks are used for digging, for combat with other hogs, and in defense against predators."
+what
+7
+6
+Default
+1810
+Is there a purpose for the tusks?
+"The tusks are used for digging, for combat with other hogs, and in defense against predators."
+be
+7
+6
+Default
+1811
+How do the tusks look like?
+"A tusk will curve 90ν‰Α or more from the root."
+how
+6
+10
+Default
+1812
+Are the tusks straight?
+"A tusk will curve 90ν‰Α or more from the root."
+be
+4
+10
+Default
+1813
+Are the tusks flat?
+"A tusk will curve 90ν‰Α or more from the root."
+be
+4
+10
+Default
+1814
+Are the tusks curved?
+"A tusk will curve 90ν‰Α or more from the root."
+be
+4
+10
+Default
+1815
+How are the tusks shaped?
+"A tusk will curve 90ν‰Α or more from the root."
+how
+5
+10
+Default
+1816
+Do people use tusks?
+"Tusks are carved for the tourist trade in east and southern Africa."
+do
+4
+12
+Default
+1817
+Do people make anything with the tusks?
+"Tusks are carved for the tourist trade in east and southern Africa."
+do
+7
+12
+Default
+1818
+What do people do with the tusks?
+"Tusks are carved for the tourist trade in east and southern Africa."
+what
+7
+12
+Default
+1819
+Are the tusks used for anything by people?
+"Tusks are carved for the tourist trade in east and southern Africa."
+be
+8
+12
+Default
+1820
+How are tusks used by people?
+"Tusks are carved for the tourist trade in east and southern Africa."
+how
+6
+12
+Default
+1821
+What are warthogs good at?
+"Warthogs are powerful diggers, using both their snouts and feet."
+what
+5
+4
+warthog
+1822
+What is a warthog good at doing?
+"Warthogs are powerful diggers, using both their snouts and feet."
+what
+7
+4
+warthog
+1823
+Are warthogs good at anything?
+"Warthogs are powerful diggers, using both their snouts and feet."
+be
+5
+4
+warthog
+1824
+Is a warthog good at anything?
+"Warthogs are powerful diggers, using both their snouts and feet."
+be
+6
+4
+warthog
+1825
+What is a warthog good at?
+"Warthogs are powerful diggers, using both their snouts and feet."
+what
+6
+4
+warthog
+1826
+How do warthogs defend their piglets?
+"A female warthog will defend her piglets very aggressively, sometimes charging and wounding predators."
+how
+6
+9
+warthog
+1827
+How do warthogs defend their babies?
+"A female warthog will defend her piglets very aggressively, sometimes charging and wounding predators."
+how
+6
+9
+warthog
+1828
+What do warthogs do to defend their babies?
+"A female warthog will defend her piglets very aggressively, sometimes charging and wounding predators."
+what
+8
+9
+warthog
+1829
+What do warthogs do to defend their piglets?
+"A female warthog will defend her piglets very aggressively, sometimes charging and wounding predators."
+what
+8
+9
+warthog
+1830
+What do warthogs do to defend their kids?
+"A female warthog will defend her piglets very aggressively, sometimes charging and wounding predators."
+what
+8
+9
+warthog
+1831
+How are warthogs with other animals?
+"Warthogs have been observed allowing banded mongooses and vervet monkeys groom them to remove ticks."
+how
+6
+15
+warthog
+1832
+How do warthogs interact with other animals?
+"Warthogs have been observed allowing banded mongooses and vervet monkeys groom them to remove ticks."
+how
+7
+15
+warthog
+1833
+Do warthogs get along with other animals?
+"Warthogs have been observed allowing banded mongooses and vervet monkeys groom them to remove ticks."
+do
+7
+15
+warthog
+1834
+Do warthogs interact with other animals?
+"Warthogs have been observed allowing banded mongooses and vervet monkeys groom them to remove ticks."
+do
+6
+15
+warthog
+1835
+How do warthogs get along with other animals?
+"Warthogs have been observed allowing banded mongooses and vervet monkeys groom them to remove ticks."
+how
+8
+15
+warthog
+1836
+Are warthogs territorial?
+"No."
+be
+3
+1
+warthog
+1837
+Is a warthog territorial?
+"No."
+be
+4
+1
+warthog
+1838
+Does a warthog claim territory?
+"No."
+do
+5
+1
+warthog
+1839
+Do warthogs claim their territory?
+"No."
+do
+5
+1
+warthog
+1840
+Does a warthog claim a territory as its own?
+"No."
+do
+9
+1
+warthog
+1841
+Do warthog families live together?
+"Females live in sounders with their young and with other females while males leave, but stay within the home range."
+do
+5
+14
+warthog
+1842
+Do warthogs live together in families?
+"Females live in sounders with their young and with other females while males leave, but stay within the home range."
+do
+6
+14
+warthog
+1843
+Do warthogs live together with their whole family?
+"Females live in sounders with their young and with other females while males leave, but stay within the home range."
+do
+8
+14
+warthog
+1844
+Do warthogs live in families?
+"Females live in sounders with their young and with other females while males leave, but stay within the home range."
+do
+5
+14
+warthog
+1845
+Do warthogs live in the sample place as their family?
+"Females live in sounders with their young and with other females while males leave, but stay within the home range."
+do
+10
+14
+warthog
+1846
+Do warthogs mark their territory?
+"Warthogs mark sleeping and feeding areas and waterholes."
+do
+5
+8
+warthog
+1847
+Does a warthog mark its territory?
+"Warthogs mark sleeping and feeding areas and waterholes."
+do
+6
+8
+warthog
+1848
+Does a warthog mark where it pees?
+"Warthogs mark sleeping and feeding areas and waterholes."
+where
+7
+8
+warthog
+1849
+Does a warthog mark where it eats?
+"Warthogs mark sleeping and feeding areas and waterholes."
+where
+7
+8
+warthog
+1850
+Does a warthog mark where it lives?
+"Warthogs mark sleeping and feeding areas and waterholes."
+where
+7
+8
+warthog
+1851
+What do warthogs mark with their tusks for?
+"Warthogs use tusk marking for courtship, for antagonistic behaviors, and to establish status."
+what
+8
+6
+warthog
+1852
+Why do warthogs mark with their tusks?
+"Warthogs use tusk marking for courtship, for antagonistic behaviors, and to establish status."
+why
+7
+6
+warthog
+1853
+What does a warthog mark with its tusk for?
+"Warthogs use tusk marking for courtship, for antagonistic behaviors, and to establish status."
+what
+9
+6
+warthog
+1854
+Why does a warthog mark with its tusk?
+"Warthogs use tusk marking for courtship, for antagonistic behaviors, and to establish status."
+why
+8
+6
+warthog
+1855
+What is tusk marking for?
+"Warthogs use tusk marking for courtship, for antagonistic behaviors, and to establish status."
+what
+5
+6
+Default
+1856
+Do warthogs have babies at any time?
+"Warthogs are seasonal breeders and give birth near the start of the rainy season."
+do
+7
+14
+warthog
+1857
+Can warthogs have babies whenever?
+"Warthogs are seasonal breeders and give birth near the start of the rainy season."
+when
+5
+14
+warthog
+1858
+Can warthpgs have babies at any time?
+"Warthogs are seasonal breeders and give birth near the start of the rainy season."
+Default
+7
+14
+Default
+1859
+Do whathogs have babies whenever?
+"Warthogs are seasonal breeders and give birth near the start of the rainy season."
+what
+5
+14
+Default
+1860
+When do warthogs have babies?
+"Warthogs are seasonal breeders and give birth near the start of the rainy season."
+when
+5
+14
+warthog
+1861
+How long is a warthog pregnant for?
+"Warthogs are pregnant for 5-6 months."
+how
+7
+6
+warthog
+1862
+For how long is a warthog pregnant?
+"Warthogs are pregnant for 5-6 months."
+how
+7
+6
+warthog
+1863
+How long does a warthog stay pregnant?
+"Warthogs are pregnant for 5-6 months."
+how
+7
+6
+warthog
+1864
+For how long does a warthog stay pregnant?
+"Warthogs are pregnant for 5-6 months."
+how
+8
+6
+warthog
+1865
+How long are warthogs pregnant for?
+"Warthogs are pregnant for 5-6 months."
+how
+6
+6
+warthog
+1866
+Why are there no warthogs in some places?
+"Warthogs are susceptible to drought and hunting (especially with dogs), which may result in localized extinctions."
+why
+8
+10
+warthog
+1867
+How do warthogs become extinct?
+"Warthogs are susceptible to drought and hunting (especially with dogs), which may result in localized extinctions."
+how
+5
+10
+warthog
+1868
+Why are warthogs extinct in some places?
+"Warthogs are susceptible to drought and hunting (especially with dogs), which may result in localized extinctions."
+why
+7
+10
+warthog
+1869
+Why are warthogs extinct in some areas?
+"Warthogs are susceptible to drought and hunting (especially with dogs), which may result in localized extinctions."
+why
+7
+10
+warthog
+1870
+Why are there no warthogs in some areas?
+"Warthogs are susceptible to drought and hunting (especially with dogs), which may result in localized extinctions."
+why
+8
+10
+warthog
+1871
+Does the warthog not like any place?
+"Warthogs avoid rain forests, deserts, and high mountains."
+do
+7
+4
+warthog
+1872
+Are there any places that warthogs don't like?
+"Warthogs avoid rain forests, deserts, and high mountains."
+do
+8
+4
+warthog
+1873
+Do warthogs not like some places?
+"Warthogs avoid rain forests, deserts, and high mountains."
+do
+6
+4
+warthog
+1874
+Is there anywhere a warthog doesn't like to go?
+"Warthogs avoid rain forests, deserts, and high mountains."
+where
+9
+4
+warthog
+1875
+Does a warthog not like to go to any place?
+"Warthogs avoid rain forests, deserts, and high mountains."
+do
+10
+4
+warthog
+1876
+How does a warthog eat?
+"Warthogs kneel on their calloused, hairy, padded knees to eat short grass."
+how
+5
+5
+warthog
+1877
+How do warthogs eat?
+"Warthogs kneel on their calloused, hairy, padded knees to eat short grass."
+how
+4
+5
+warthog
+1878
+How does a warthog feed?
+"Warthogs kneel on their calloused, hairy, padded knees to eat short grass."
+how
+5
+5
+warthog
+1879
+How do warthogs feed themselves?
+"Warthogs kneel on their calloused, hairy, padded knees to eat short grass."
+how
+5
+5
+warthog
+1880
+How do warthogs eat food?
+"Warthogs kneel on their calloused, hairy, padded knees to eat short grass."
+how
+5
+5
+warthog
+1881
+Does a warthog have hair on its tail?
+"Warthogs' long tails end with a tuft of bristles."
+do
+8
+9
+warthog
+1882
+Do warthogs have hairy tails?
+"Warthogs' long tails end with a tuft of bristles."
+do
+5
+9
+warthog
+1883
+Do warthogs have tails with hair?
+"Warthogs' long tails end with a tuft of bristles."
+do
+6
+9
+warthog
+1884
+Does a warthog have a tail with hair?
+"Warthogs' long tails end with a tuft of bristles."
+do
+8
+9
+warthog
+1885
+Do warthogs have hair on their tails?
+"Warthogs' long tails end with a tuft of bristles."
+do
+7
+9
+warthog
+1886
+What do warthogs dig for?
+"Warthogs will use their snouts and tusks to dig for bulbs, tubers, and roots during the dry season."
+what
+5
+11
+warthog
+1887
+Why do warthogs dig?
+"Warthogs will use their snouts and tusks to dig for bulbs, tubers, and roots during the dry season."
+why
+4
+11
+warthog
+1888
+Why does a warthog dig?
+"Warthogs will use their snouts and tusks to dig for bulbs, tubers, and roots during the dry season."
+why
+5
+11
+warthog
+1889
+What does a warthog dig for?
+"Warthogs will use their snouts and tusks to dig for bulbs, tubers, and roots during the dry season."
+what
+6
+11
+warthog
+1890
+What do warthogs look for when digging?
+"Warthogs will use their snouts and tusks to dig for bulbs, tubers, and roots during the dry season."
+what
+7
+11
+warthog
+1891
+Do warthogs have fat?
+"Warthogs have neither fur nor fat."
+do
+4
+6
+warthog
+1892
+Does a warthog have fat?
+"Warthogs have neither fur nor fat."
+do
+5
+6
+warthog
+1893
+Are warthogs fat?
+"Warthogs have neither fur nor fat."
+be
+3
+6
+warthog
+1894
+Is a warthog fat?
+"Warthogs have neither fur nor fat."
+be
+4
+6
+warthog
+1895
+Do warthogs have fat in their body?
+"Warthogs have neither fur nor fat."
+do
+7
+6
+warthog
+1896
+How do warthogs keep their home warm?
+"Warthogs will fill the holes with grass for warmth."
+how
+7
+9
+warthog
+1897
+How does a warthog keep its home warm?
+"Warthogs will fill the holes with grass for warmth."
+how
+8
+9
+warthog
+1898
+How do warthogs stay warm at home?
+"Warthogs will fill the holes with grass for warmth."
+how
+7
+9
+warthog
+1899
+How does a warthog stay warm in its home?
+"Warthogs will fill the holes with grass for warmth."
+how
+9
+9
+warthog
+1900
+How do warthogs keep warm at home?
+"Warthogs will fill the holes with grass for warmth."
+how
+7
+9
+warthog
+1901
+Do warthog families live with others?
+"Sometimes, two warthog families, often of related females, will join together."
+do
+6
+1
+warthog
+1902
+Do different warthog families live toghether?
+"Sometimes, two warthog families, often of related females, will join together."
+do
+6
+1
+warthog
+1903
+Do warthog families get along with other families?
+"Sometimes, two warthog families, often of related females, will join together."
+do
+8
+1
+warthog
+1904
+Do warthog families hang out with other families?
+"Sometimes, two warthog families, often of related females, will join together."
+do
+8
+1
+warthog
+1905
+Do warthogs live with other not in their family?
+"Sometimes, two warthog families, often of related females, will join together."
+do
+9
+1
+warthog
+1906
+At what age do warthogs become adults?
+"18-20 months."
+what
+7
+2
+warthog
+1907
+At what age are warthogs mature?
+"18-20 months."
+what
+6
+2
+warthog
+1908
+At what age is a warthog an adult?
+"18-20 months."
+what
+8
+2
+warthog
+1909
+At what age is a warthog mature?
+"18-20 months."
+what
+7
+2
+warthog
+1910
+When do warthogs become adults?
+"18-20 months."
+when
+5
+2
+warthog
+1911
+Are warthogs ugly?
+"Warthogs are not the most beautiful, but they are remarkable for their strength, intelligence, and flexibility!."
+be
+3
+6
+warthog
+1912
+Why aren't warthogs pretty?
+"Warthogs are not the most beautiful, but they are remarkable for their strength, intelligence, and flexibility!."
+why
+4
+6
+warthog
+1913
+Why are warthogs ugly?
+"Warthogs are not the most beautiful, but they are remarkable for their strength, intelligence, and flexibility!."
+why
+4
+6
+warthog
+1914
+Why do warthogs look ugly?
+"Warthogs are not the most beautiful, but they are remarkable for their strength, intelligence, and flexibility!."
+why
+5
+6
+warthog
+1915
+Why isn't a warthog pretty?
+"Warthogs are not the most beautiful, but they are remarkable for their strength, intelligence, and flexibility!."
+why
+5
+6
+warthog
+1916
+How do warthogs wake up?
+"When warthogs leave their burrow, they must dash out at top speed in case any predators are waiting for them."
+how
+5
+5
+warthog
+1917
+What do warthogs do when they wake up?
+"When warthogs leave their burrow, they must dash out at top speed in case any predators are waiting for them."
+what
+8
+5
+warthog
+1918
+What do warthogs do in the morning?
+"When warthogs leave their burrow, they must dash out at top speed in case any predators are waiting for them."
+what
+7
+5
+warthog
+1919
+How does a warthog wake up?
+"When warthogs leave their burrow, they must dash out at top speed in case any predators are waiting for them."
+how
+6
+5
+warthog
+1920
+What does a warthog do when it wakes up?
+"When warthogs leave their burrow, they must dash out at top speed in case any predators are waiting for them."
+what
+9
+5
+warthog
+1921
+Why do warthogs have long teeth?
+"Warthogs have long tusks which they use for protection and to dig up food."
+why
+6
+14
+warthog
+1922
+How do warthogs use their teeth?
+"Warthogs have long tusks which they use for protection and to dig up food."
+how
+6
+14
+warthog
+1923
+What do warthog's long teeth do?
+"Warthogs have long tusks which they use for protection and to dig up food."
+what
+6
+14
+warthog
+1924
+Why do warthogs have tusks?
+"Warthogs have long tusks which they use for protection and to dig up food."
+why
+5
+14
+warthog
+1925
+What does a warthog use its tusks for?
+"Warthogs have long tusks which they use for protection and to dig up food."
+what
+8
+14
+warthog
+1926
+Are warthogs endagnered animals?
+"Warthogs are not extinct, and not endangered; there are many warthogs in the wild."
+be
+4
+4
+warthog
+1927
+Are warthogs extinct?
+"Warthogs are not extinct, and not endangered; there are many warthogs in the wild."
+be
+3
+4
+warthog
+1928
+Are there any warthogs left?
+"Warthogs are not extinct, and not endangered; there are many warthogs in the wild."
+be
+5
+4
+warthog
+1929
+Is the warthog an endangered animal?
+"Warthogs are not extinct, and not endangered; there are many warthogs in the wild."
+be
+6
+4
+warthog
+1930
+Are there still warthogs in the wild?
+"Warthogs are not extinct, and not endangered; there are many warthogs in the wild."
+be
+7
+4
+warthog
+1931
+Are warthogs nocturnal?
+"Warthogs are diurnal animals that sleep at night."
+be
+3
+8
+warthog
+1932
+Do warthogs sleep during the day?
+"Warthogs are diurnal animals that sleep at night."
+do
+6
+8
+warthog
+1933
+Do warthogs sleep at night?
+"Warthogs are diurnal animals that sleep at night."
+do
+5
+8
+warthog
+1934
+When do warthogs sleep?
+"Warthogs are diurnal animals that sleep at night."
+when
+4
+8
+warthog
+1935
+When does a warthog sleep?
+"Warthogs are diurnal animals that sleep at night."
+when
+5
+8
+warthog
+1936
+What are warthog teeth made of?
+"Warthog tusks are made of ivory, like Elephant tusks!."
+what
+6
+6
+warthog
+1937
+What are warthog tusks made of?
+"Warthog tusks are made of ivory, like Elephant tusks!."
+what
+6
+6
+warthog
+1938
+What material are warthog tusks made of?
+"Warthog tusks are made of ivory, like Elephant tusks!."
+what
+7
+6
+warthog
+1939
+What is a warthog tusk made of?
+"Warthog tusks are made of ivory, like Elephant tusks!."
+what
+7
+6
+warthog
+1940
+What is a warthoog tooth made of?
+"Warthog tusks are made of ivory, like Elephant tusks!."
+what
+7
+6
+Default
+1941
+Is a warthog a pig?
+"Warthogs are a type of wild pig."
+be
+5
+7
+warthog
+1942
+How are warthogs and pigs related?
+"Warthogs are a type of wild pig."
+how
+6
+7
+warthog
+1943
+Is the warthog the same as a pig?
+"Warthogs are a type of wild pig."
+be
+8
+7
+warthog
+1944
+Are pigs and warthogs related?
+"Warthogs are a type of wild pig."
+be
+5
+7
+warthog
+1945
+Is a warthog like a pig?
+"Warthogs are a type of wild pig."
+be
+6
+7
+warthog
+1946
+Why do people kill warthogs?
+"Poachers kill warthogs for their ivory tusks."
+why
+5
+7
+warthog
+1947
+Do people hunt warthogs?
+"Poachers kill warthogs for their ivory tusks."
+do
+4
+7
+warthog
+1948
+Are warthogs hunted by poachers?
+"Poachers kill warthogs for their ivory tusks."
+be
+5
+7
+warthog
+1949
+Do poachers hunt warthogs?
+"Poachers kill warthogs for their ivory tusks."
+do
+4
+7
+warthog
+1950
+Why are warthogs hunted?
+"Poachers kill warthogs for their ivory tusks."
+why
+4
+7
+warthog
+1951
+What do you call a baby warthog?
+"A baby warthog is called a piglet."
+what
+7
+7
+warthog
+1952
+What is the name for a baby warthog?
+"A baby warthog is called a piglet."
+what
+8
+7
+warthog
+1953
+What are baby warthogs called?
+"A baby warthog is called a piglet."
+what
+5
+7
+warthog
+1954
+Do baby warthog's have a name?
+"A baby warthog is called a piglet."
+do
+6
+7
+warthog
+1955
+What do you call baby warthogs?
+"A baby warthog is called a piglet."
+what
+6
+7
+warthog
+1956
+What do you call a mother warthog?
+"An adult female warthog is called a sow."
+what
+7
+8
+warthog
+1957
+What do you call a mommy warthog?
+"An adult female warthog is called a sow."
+what
+7
+8
+warthog
+1958
+What's the name for a mother warthog?
+"An adult female warthog is called a sow."
+what
+7
+8
+warthog
+1959
+What's the name for a female warthog?
+"An adult female warthog is called a sow."
+what
+7
+8
+warthog
+1960
+What do you call a female warthog?
+"An adult female warthog is called a sow."
+what
+7
+8
+warthog
+1961
+What do you call a male warthog?
+"An adult male warthog is called a boar."
+what
+7
+8
+warthog
+1962
+What is the name of a male warthog?
+"An adult male warthog is called a boar."
+what
+8
+8
+warthog
+1963
+What is the name of a daddy warthog?
+"An adult male warthog is called a boar."
+what
+8
+8
+warthog
+1964
+What do you call a daddy warthog?
+"An adult male warthog is called a boar."
+what
+7
+8
+warthog
+1965
+Do daddy warthogs have a name?
+"An adult male warthog is called a boar."
+do
+6
+8
+warthog
+1966
+Do warthogs eat meat?
+"No."
+do
+4
+1
+warthog
+1967
+Does a warthog eat meat?
+"No."
+do
+5
+1
+warthog
+1968
+Are warthogs meat-eaters?
+"No."
+be
+3
+1
+warthog
+1969
+Do warthogs eat other animals?
+"No."
+do
+5
+1
+warthog
+1970
+Are warthogs carnivores?
+"No."
+be
+3
+1
+warthog
+1971
+Do warthogs eat vegetables?
+"Yes."
+do
+4
+1
+warthog
+1972
+Are warthogs vegetarian?
+"Yes."
+be
+3
+1
+warthog
+1973
+Do warthogs eat grass?
+"Yes."
+do
+4
+1
+warthog
+1974
+Are warthogs vegetarian?
+"Yes."
+be
+3
+1
+warthog
+1975
+Do warthogs eat a vegetarian diet?
+"Yes."
+do
+6
+1
+warthog
+1976
+Do warthogs live in America?
+"No, warthogs are native to Africa."
+do
+5
+1
+warthog
+1977
+Are there warthogs in America?
+"No, warthogs are native to Africa."
+be
+5
+1
+warthog
+1978
+Are there warthogs in the US?
+"No, warthogs are native to Africa."
+be
+6
+1
+warthog
+1979
+Do warthogs live in the US?
+"No, warthogs are native to Africa."
+do
+6
+1
+warthog
+1980
+Are warthogs from America?
+"No, warthogs are native to Africa."
+be
+4
+1
+warthog
+1981
+Do warthogs make good pets?
+"Warthogs are wild animals and should not be kept as pets."
+do
+5
+11
+warthog
+1982
+Can I have a warthog as a pet?
+"Warthogs are wild animals and should not be kept as pets."
+Default
+8
+11
+warthog
+1983
+Can warthogs live with people?
+"Warthogs are wild animals and should not be kept as pets."
+Default
+5
+11
+warthog
+1984
+Can warthogs be pets?
+"Warthogs are wild animals and should not be kept as pets."
+Default
+4
+11
+warthog
+1985
+Do people have warthogs as pets?
+"Warthogs are wild animals and should not be kept as pets."
+do
+6
+11
+warthog
+1986
+Do warthogs have warts?
+"Warthogs have warts on their head."
+do
+4
+6
+warthog
+1987
+Does a warthog have warts?
+"Warthogs have warts on their head."
+do
+5
+6
+warthog
+1988
+Are there warts on warthogs?
+"Warthogs have warts on their head."
+be
+5
+6
+warthog
+1989
+Are there warts on a warthog?
+"Warthogs have warts on their head."
+be
+6
+6
+warthog
+1990
+Where do warthogs have warts?
+"Warthogs have warts on their head."
+where
+5
+6
+warthog
+1991
+Are warthogs dangerous?
+"Male warthogs engage in ritual fights during mating season."
+be
+3
+9
+warthog
+1992
+Do warthogs fight?
+"Male warthogs engage in ritual fights during mating season."
+do
+3
+9
+warthog
+1993
+Are warthogs mean?
+"Male warthogs engage in ritual fights during mating season."
+be
+3
+9
+warthog
+1994
+Are warthogs violent?
+"Male warthogs engage in ritual fights during mating season."
+be
+3
+9
+warthog
+1995
+Is a warthog dangerous?
+"Male warthogs engage in ritual fights during mating season."
+be
+4
+9
+warthog
+1996
+When do warthogs eat?
+"Warthogs eat during the day."
+when
+4
+5
+warthog
+1997
+What time of day do warthogs eat?
+"Warthogs eat during the day."
+what
+7
+5
+warthog
+1998
+Do warthogs eat at nigiht?
+"Warthogs eat during the day."
+do
+5
+5
+warthog
+1999
+Do warthogs eat during the day?
+"Warthogs eat during the day."
+do
+6
+5
+warthog
+2000
+When does a warthog eat?
+"Warthogs eat during the day."
+when
+5
+5
+warthog
+2001
+Why do warthogs kneel to eat?
+"Warthogs kneel so they can eat short grass."
+why
+6
+8
+warthog
+2002
+Why do warthogs go on their knees?
+"Warthogs kneel so they can eat short grass."
+why
+7
+8
+warthog
+2003
+Why do warthogs stand on their knees?
+"Warthogs kneel so they can eat short grass."
+why
+7
+8
+warthog
+2004
+Why does a warthog kneel to eat?
+"Warthogs kneel so they can eat short grass."
+why
+7
+8
+warthog
+2005
+Why does a warthog stand on their knees?
+"Warthogs kneel so they can eat short grass."
+why
+8
+8
+warthog
+2006
+Do warthogs migrate?
+"Warthogs stay in local areas, and do not migrate long distances."
+do
+3
+5
+warthog
+2007
+Do warthogs migrate together?
+"Warthogs stay in local areas, and do not migrate long distances."
+do
+4
+5
+warthog
+2008
+Do warthogs travel far?
+"Warthogs stay in local areas, and do not migrate long distances."
+do
+4
+5
+warthog
+2009
+Do warthogs walk far?
+"Warthogs stay in local areas, and do not migrate long distances."
+do
+4
+5
+warthog
+2010
+Do warhogs migrate during the winter?
+"Warthogs stay in local areas, and do not migrate long distances."
+do
+6
+5
+Default
+2011
+Can warthogs swim?
+"Warthogs swim and wallow in the mud to cool down."
+Default
+3
+10
+warthog
+2012
+Can a warthog swim?
+"Warthogs swim and wallow in the mud to cool down."
+Default
+4
+10
+warthog
+2013
+Do warthogs swim?
+"Warthogs swim and wallow in the mud to cool down."
+do
+3
+10
+warthog
+2014
+Do warthogs like to swim?
+"Warthogs swim and wallow in the mud to cool down."
+do
+5
+10
+warthog
+2015
+Do warthogs like water?
+"Warthogs swim and wallow in the mud to cool down."
+do
+4
+10
+warthog
+2016
+Do warthogs have spots?
+"Warthogs have a dark brown coat."
+do
+4
+6
+warthog
+2017
+Do warthogs have stripes?
+"Warthogs have a dark brown coat."
+do
+4
+6
+warthog
+2018
+Are warthogs striped?
+"Warthogs have a dark brown coat."
+be
+3
+6
+warthog
+2019
+Are warthogs spotted?
+"Warthogs have a dark brown coat."
+be
+3
+6
+warthog
+2020
+Does a warthog have stripes?
+"Warthogs have a dark brown coat."
+do
+5
+6
+warthog
+2021
+Why do warthogs have warts?
+"The warts on a warthogs head are used for protection."
+why
+5
+10
+warthog
+2022
+Why does a warthog have warts?
+"The warts on a warthogs head are used for protection."
+why
+6
+10
+warthog
+2023
+What is the purpose of warts on warthogs?
+"The warts on a warthogs head are used for protection."
+what
+8
+10
+warthog
+2024
+What do the warts on warthogs do?
+"The warts on a warthogs head are used for protection."
+what
+7
+10
+warthog
+2025
+Why do warthogs have warts on their head?
+"The warts on a warthogs head are used for protection."
+why
+8
+10
+warthog
+2026
+How many legs do warthogs have?
+"4.0."
+how
+6
+1
+warthog
+2027
+How many legs does a warthog have?
+"4.0."
+how
+7
+1
+warthog
+2028
+How many legs do warthogs have on them?
+"4.0."
+how
+8
+1
+warthog
+2029
+How many legs does a warthog have on them?
+"4.0."
+how
+9
+1
+warthog
+2030
+Warthogs have how many legs?
+"4.0."
+how
+5
+1
+warthog
+2031
+How many feet does a warthog have?
+"4.0."
+how
+7
+1
+warthog
+2032
+How many feet do warthogs have?
+"4.0."
+how
+6
+1
+warthog
+2033
+Warthogs have how many feet?
+"4.0."
+how
+5
+1
+warthog
+2034
+A warthog has how many feet?
+"4.0."
+how
+6
+1
+warthog
+2035
+How many feet would a warthog have on it?
+"4.0."
+how
+9
+1
+warthog
+2036
+How many eyes does a warthog have?
+"2.0."
+how
+7
+1
+warthog
+2037
+How many eyes do warthogs have?
+"2.0."
+how
+6
+1
+warthog
+2038
+A warthog has how many eyes?
+"2.0."
+how
+6
+1
+warthog
+2039
+Warthogs have how many eyes?
+"2.0."
+how
+5
+1
+warthog
+2040
+How many eyes would a warthog have?
+"2.0."
+how
+7
+1
+warthog
+2041
+How many tails does a warthog have?
+"1.0."
+how
+7
+1
+warthog
+2042
+How many tails do warthogs have?
+"1.0."
+how
+6
+1
+warthog
+2043
+A warthog has how many tails?
+"1.0."
+how
+6
+1
+warthog
+2044
+Warthogs have how many tails?
+"1.0."
+how
+5
+1
+warthog
+2045
+How many tails would a warthog have?
+"1.0."
+how
+7
+1
+warthog
+2046
+How many noses does a warthog have?
+"1.0."
+how
+7
+1
+warthog
+2047
+How many noses do warthogs have?
+"1.0."
+how
+6
+1
+warthog
+2048
+How many snouts do warthogs have?
+"1.0."
+how
+6
+1
+warthog
+2049
+How many snouts does a warthog have?
+"1.0."
+how
+7
+1
+warthog
+2050
+A warthog has how many snouts?
+"1.0."
+how
+6
+1
+warthog
+2051
+How many ears does a warthog have?
+"2.0."
+how
+7
+1
+warthog
+2052
+How many ears do warthogs have?
+"2.0."
+how
+6
+1
+warthog
+2053
+A warthog has how many ears?
+"2.0."
+how
+6
+1
+warthog
+2054
+Warthogs have how many ears?
+"2.0."
+how
+5
+1
+warthog
+2055
+How many ears would a warthog have?
+"2.0."
+how
+7
+1
+warthog
+2056
+What animal does a warthog look like?
+"Pig."
+what
+7
+1
+warthog
+2057
+What animal do warthogs look like?
+"Pig."
+what
+6
+1
+warthog
+2058
+What animal looks like a warthog?
+"Pig."
+what
+6
+1
+warthog
+2059
+What animals looks like warthogs?
+"Pig."
+what
+5
+1
+warthog
+2060
+What animal looks closest to a warthog?
+"Pig."
+what
+7
+1
+warthog
+2061
+Are there any famous warthogs?
+"Pumbaa, from the Lion King, is a warthog."
+be
+5
+1
+warthog
+2062
+Is there any famous warthog?
+"Pumbaa, from the Lion King, is a warthog."
+be
+5
+1
+warthog
+2063
+Are any warthogs famous?
+"Pumbaa, from the Lion King, is a warthog."
+be
+4
+1
+warthog
+2064
+Is there any warthog that is famous?
+"Pumbaa, from the Lion King, is a warthog."
+be
+7
+1
+warthog
+2065
+Do I know any famous warthogs?
+"Pumbaa, from the Lion King, is a warthog."
+do
+6
+1
+warthog
+2066
+Is Pumbaa a warthog?
+"Yes."
+be
+4
+1
+warthog
+2067
+Was Pumbaa a warthog?
+"Yes."
+Default
+4
+1
+warthog
+2068
+Is Pumbaa one of those warthogs?
+"Yes."
+be
+6
+1
+warthog
+2069
+Was Pumbaa one of those warthogs?
+"Yes."
+Default
+6
+1
+warthog
+2070
+Was that a warthog in the Lion King?
+"Yes."
+Default
+8
+1
+lion
+2071
+What was the name of that warthog from Lion King?
+"Pumbaa."
+what
+10
+1
+lion
+2072
+What was the name of the warthog from Lion King?
+"Pumbaa."
+what
+10
+1
+lion
+2073
+Who was that warthog in Lion King?
+"Pumbaa."
+Default
+7
+1
+lion
+2074
+What is the name of the warthog from Lion King?
+"Pumbaa."
+what
+10
+1
+lion
+2075
+Who is that warthog in Lion King?
+"Pumbaa."
+Default
+7
+1
+lion
+2076
+What is a zebra?
+"Zebra is an animal."
+what
+4
+4
+zebra
+2077
+What are zebras?
+"Zebra is an animal."
+what
+3
+4
+zebra
+2078
+What's a zebra?
+"Zebra is an animal."
+what
+3
+4
+zebra
+2079
+What're zebras?
+"Zebra is an animal."
+what
+2
+4
+zebra
+2080
+What is a little zebra?
+"Zebra is an animal."
+what
+5
+4
+zebra
+2081
+What does a zebra eat?
+"Zebras eat grasses or other vegetation."
+what
+5
+6
+zebra
+2082
+What do zebras eat?
+"Zebras eat grasses or other vegetation."
+what
+4
+6
+zebra
+2083
+What food do zebras eat?
+"Zebras eat grasses or other vegetation."
+what
+5
+6
+zebra
+2084
+What food does a zebras eat?
+"Zebras eat grasses or other vegetation."
+what
+6
+6
+zebra
+2085
+What food is eaten by a zebra?
+"Zebras eat grasses or other vegetation."
+what
+7
+6
+zebra
+2086
+How long does a zebra live?
+"Zebras live 35 years in average."
+how
+6
+6
+zebra
+2087
+How long do zebras live?
+"Zebras live 35 years in average."
+how
+5
+6
+zebra
+2088
+How long can a little zebra live?
+"Zebras live 35 years in average."
+how
+7
+6
+zebra
+2089
+How long can a zebra live?
+"Zebras live 35 years in average."
+how
+6
+6
+zebra
+2090
+How long can zebras live?
+"Zebras live 35 years in average."
+how
+5
+6
+zebra
+2091
+How long does a zebra sleep every day?
+"Zebras sleep about 2 to three hours."
+how
+8
+7
+zebra
+2092
+How long do zebras sleep every day?
+"Zebras sleep about 2 to three hours."
+how
+7
+7
+zebra
+2093
+How long can a zebra sleep every day?
+"Zebras sleep about 2 to three hours."
+how
+8
+7
+zebra
+2094
+How long do zebras sleep?
+"Zebras sleep about 2 to three hours."
+how
+5
+7
+zebra
+2095
+How long should zebras sleep?
+"Zebras sleep about 2 to three hours."
+how
+5
+7
+zebra
+2096
+Where are the majority of zebras live?
+"The majority of zebras live in Africa."
+where
+7
+7
+zebra
+2097
+Where are the majority of zebras living?
+"The majority of zebras live in Africa."
+where
+7
+7
+zebra
+2098
+Where is a zebra living?
+"The majority of zebras live in Africa."
+where
+5
+7
+zebra
+2099
+Where does a zebra live?
+"The majority of zebras live in Africa."
+where
+5
+7
+zebra
+2100
+Which place do zebras usually live?
+"The majority of zebras live in Africa."
+do
+6
+7
+zebra
+2101
+How many kinds of zebras are wild?
+"There are three kinds of zebras."
+how
+7
+6
+zebra
+2102
+How many different kinds of zebras are wild?
+"There are three kinds of zebras."
+how
+8
+6
+zebra
+2103
+How many kinds of zebras are there?
+"There are three kinds of zebras."
+how
+7
+6
+zebra
+2104
+How many kinds of zebras do we know?
+"There are three kinds of zebras."
+how
+8
+6
+zebra
+2105
+How many different kinds of zebras do we know?
+"There are three kinds of zebras."
+how
+9
+6
+zebra
+2106
+Do zebras live individually?
+"Zebras usually live in a group."
+do
+4
+6
+zebra
+2107
+Are zebras living individually?
+"Zebras usually live in a group."
+be
+4
+6
+zebra
+2108
+Does a zebra usually live individually?
+"Zebras usually live in a group."
+do
+6
+6
+zebra
+2109
+Are zebras usually living individually?
+"Zebras usually live in a group."
+be
+5
+6
+zebra
+2110
+Is a zebra usually living individually?
+"Zebras usually live in a group."
+be
+6
+6
+zebra
+2111
+What is the lifestyle of a zebra?
+"Zebras are herbivores and social."
+what
+7
+5
+zebra
+2112
+What is the lifestyle of zebras?
+"Zebras are herbivores and social."
+what
+6
+5
+zebra
+2113
+what is a zebra's lifestyle?
+"Zebras are herbivores and social."
+what
+5
+5
+zebra
+2114
+How is a zebra living?
+"Zebras are herbivores and social."
+how
+5
+5
+zebra
+2115
+How are zebras living?
+"Zebras are herbivores and social."
+how
+4
+5
+zebra
+2116
+Are there wild zebras in America?
+"No."
+be
+6
+1
+zebra
+2117
+Is a wild zebra living in America?
+"No."
+be
+7
+1
+zebra
+2118
+Are wild zebras living in America?
+"No."
+be
+6
+1
+zebra
+2119
+Is there any wild zebra in America?
+"No."
+be
+7
+1
+zebra
+2120
+Are there some wild zebras in America?
+"No."
+be
+7
+1
+zebra
+2121
+Are there wild zebras in Asia?
+"No."
+be
+6
+1
+zebra
+2122
+Is a wild zebra living in Asia?
+"No."
+be
+7
+1
+zebra
+2123
+Are wild zebras living in America?
+"No."
+be
+6
+1
+zebra
+2124
+Are there some wild zebras in America?
+"No."
+be
+7
+1
+zebra
+2125
+Is there any wild zebra in America?
+"No."
+be
+7
+1
+zebra
+2126
+Are there wild zebras in Europe?
+"No."
+be
+6
+1
+zebra
+2127
+Are wild zebras living in Europe?
+"No."
+be
+6
+1
+zebra
+2128
+Is a wild zebra living in Europe?
+"No."
+be
+7
+1
+zebra
+2129
+Is there any wild zebra living in Europe?
+"No."
+be
+8
+1
+zebra
+2130
+Are there some wild zebras in Europe?
+"No."
+be
+7
+1
+zebra
+2131
+Are there wild zebras in Australia?
+"No."
+be
+6
+1
+zebra
+2132
+Are wild zebras living in Australia?
+"No."
+be
+6
+1
+zebra
+2133
+Is a wild zebra living in Australia?
+"No."
+be
+7
+1
+zebra
+2134
+Is there any wild zebra living in Australia?
+"No."
+be
+8
+1
+zebra
+2135
+Are there some wild zebras in Australia?
+"No."
+be
+7
+1
+zebra
+2136
+Are there wild zebras in Africa?
+"Yes."
+be
+6
+1
+zebra
+2137
+Are wild zebras living in Africa?
+"Yes."
+be
+6
+1
+zebra
+2138
+Is a wild zebra living in Africa?
+"Yes."
+be
+7
+1
+zebra
+2139
+Is there any wild zebra living in Africa?
+"Yes."
+be
+8
+1
+zebra
+2140
+Are there some wild zebras in Africa?
+"Yes."
+be
+7
+1
+zebra
+2141
+Are there wild zebras in South America?
+"No."
+be
+7
+1
+zebra
+2142
+Are wild zebras living in South America?
+"No."
+be
+7
+1
+zebra
+2143
+Is a wild zebra living in South America?
+"No."
+be
+8
+1
+zebra
+2144
+Is there any wild zebra living in South America?
+"No."
+be
+9
+1
+zebra
+2145
+Are there some wild zebras in South America?
+"No."
+be
+8
+1
+zebra
+2146
+Do Zebras eat apple?
+"No."
+do
+4
+1
+zebra
+2147
+Are zebras eating apples?
+"No."
+be
+4
+1
+zebra
+2148
+Is an apple usually eaten by a zebra?
+"No."
+be
+8
+1
+zebra
+2149
+Is a zebra eating apples?
+"No."
+be
+5
+1
+zebra
+2150
+Does a zebra eat apple?
+"No."
+do
+5
+1
+zebra
+2151
+Do zebras eat bananas?
+"No."
+do
+4
+1
+zebra
+2152
+Does a zebra eat bananas?
+"No."
+do
+5
+1
+zebra
+2153
+Is a zebra eating bananas?
+"No."
+be
+5
+1
+zebra
+2154
+Are zebras eating bananas?
+"No."
+be
+4
+1
+zebra
+2155
+Are bananas usually eaten by zebras?
+"No."
+be
+6
+1
+zebra
+2156
+Do zebras eat rice?
+"No."
+do
+4
+1
+zebra
+2157
+Does a zebra eat rice?
+"No."
+do
+5
+1
+zebra
+2158
+Is a zebra eating rice?
+"No."
+be
+5
+1
+zebra
+2159
+Are zebras eating rice?
+"No."
+be
+4
+1
+zebra
+2160
+Is rice usually eaten by a zebra?
+"No."
+be
+7
+1
+zebra
+2161
+Do zebras eat pears?
+"No."
+do
+4
+1
+zebra
+2162
+Does a zebra eat pears?.
+"No."
+do
+5
+1
+zebra
+2163
+Does a zebra eat a pear?
+"No."
+do
+6
+1
+zebra
+2164
+Are zebras eating pears?
+"No."
+be
+4
+1
+zebra
+2165
+Is a zebra eating pears?
+"No."
+be
+5
+1
+zebra
+2166
+Do zebras eat strawberries?
+"No."
+do
+4
+1
+zebra
+2167
+Does a zebra eat strawberries?
+"No."
+do
+5
+1
+zebra
+2168
+Does a zebra eat a strawberry?
+"No."
+do
+6
+1
+zebra
+2169
+Is a zebra eating strawberries?
+"No."
+be
+5
+1
+zebra
+2170
+Are zebras eating strawberries?
+"No."
+be
+4
+1
+zebra
+2171
+Where can we meet zebras?
+"We can meet zebras in Africa and zoos."
+where
+5
+8
+zebra
+2172
+Where should we go to meet zebras?
+"We can meet zebras in Africa and zoos."
+where
+7
+8
+zebra
+2173
+Where might we meet zebras?
+"We can meet zebras in Africa and zoos."
+where
+5
+8
+zebra
+2174
+Where could we meet zebras?
+"We can meet zebras in Africa and zoos."
+where
+5
+8
+zebra
+2175
+Where are we going to meet zebras?
+"We can meet zebras in Africa and zoos."
+where
+7
+8
+zebra
+2176
+Is it okay to feed zebras?
+"No, we shouldn't feed zebras."
+be
+6
+1
+zebra
+2177
+Is it okay to feed a zebra?
+"No, we shouldn't feed zebras."
+be
+7
+1
+zebra
+2178
+Is it valid to feed zebras?
+"No, we shouldn't feed zebras."
+be
+6
+1
+zebra
+2179
+Should we feed zebras?
+"No, we shouldn't feed zebras."
+Default
+4
+1
+zebra
+2180
+Can we feed zebras?
+"No, we shouldn't feed zebras."
+Default
+4
+1
+zebra
+2181
+Are wild zebras dangerous to approach?
+"Yes, we should be careful when approaching wild zebras."
+be
+6
+1
+zebra
+2182
+Is a wild zebra dangerous to apprach?
+"Yes, we should be careful when approaching wild zebras."
+be
+7
+1
+zebra
+2183
+Should a wild zebra be dangerous to approach?
+"Yes, we should be careful when approaching wild zebras."
+Default
+8
+1
+zebra
+2184
+Should wild zebras be dangerous to approach?
+"Yes, we should be careful when approaching wild zebras."
+Default
+7
+1
+zebra
+2185
+Is it dangerous to approach zebras?
+"Yes, we should be careful when approaching wild zebras."
+be
+6
+1
+zebra
+2186
+What do wild zebras eat?
+"Wild zebras eat grasses and vegetation."
+what
+5
+6
+zebra
+2187
+What food do wild zebras eat?
+"Wild zebras eat grasses and vegetation."
+what
+6
+6
+zebra
+2188
+Which food is preferred by wild zebras?
+"Wild zebras eat grasses and vegetation."
+Default
+7
+6
+zebra
+2189
+What kinds of food do wild zebras eat?
+"Wild zebras eat grasses and vegetation."
+what
+8
+6
+zebra
+2190
+Which food do wild zebras eat?
+"Wild zebras eat grasses and vegetation."
+do
+6
+6
+zebra
+2191
+Which country has the most zebras?
+"Zebras are living mostly in Eastern Africa."
+Default
+6
+7
+zebra
+2192
+Where are the most zebras living?
+"Zebras are living mostly in Eastern Africa."
+where
+6
+7
+zebra
+2193
+Where is usually a zebra living ?
+"Zebras are living mostly in Eastern Africa."
+where
+7
+7
+zebra
+2194
+Which country has the most number of zebras?
+"Zebras are living mostly in Eastern Africa."
+Default
+8
+7
+zebra
+2195
+Where is the majority of zebras?
+"Zebras are living mostly in Eastern Africa."
+where
+6
+7
+zebra
+2196
+How do zebras defend themselves?
+"Zebras live in groups to defend from enemies."
+how
+5
+8
+zebra
+2197
+How can zebras defend themselves?
+"Zebras live in groups to defend from enemies."
+how
+5
+8
+zebra
+2198
+How might zebras defend themselves?
+"Zebras live in groups to defend from enemies."
+how
+5
+8
+zebra
+2199
+How could zebras defend themselves?
+"Zebras live in groups to defend from enemies."
+how
+5
+8
+zebra
+2200
+How should zebras defend themsevles?
+"Zebras live in groups to defend from enemies."
+how
+5
+8
+zebra
+2201
+How do zebras raise their children?
+"Zebras and their children live in the same group."
+how
+6
+9
+zebra
+2202
+How should zebras raise their children?
+"Zebras and their children live in the same group."
+how
+6
+9
+zebra
+2203
+How could zebras raise their children?
+"Zebras and their children live in the same group."
+how
+6
+9
+zebra
+2204
+How might zebras raise their children?
+"Zebras and their children live in the same group."
+how
+6
+9
+zebra
+2205
+How can zebras raise their children?
+"Zebras and their children live in the same group."
+how
+6
+9
+zebra
+2206
+How many times do zebras eat every day?
+"A zebra eats limitless amounts of grass in order to accommodate its digestive system."
+how
+8
+14
+zebra
+2207
+How often do zebras eat?
+"A zebra eats limitless amounts of grass in order to accommodate its digestive system."
+how
+5
+14
+zebra
+2208
+How many times is a zebra eating every day?
+"A zebra eats limitless amounts of grass in order to accommodate its digestive system."
+how
+9
+14
+zebra
+2209
+How many time are zebras eating every day?
+"A zebra eats limitless amounts of grass in order to accommodate its digestive system."
+how
+8
+14
+zebra
+2210
+How often should zebras eat every day?
+"A zebra eats limitless amounts of grass in order to accommodate its digestive system."
+how
+7
+14
+zebra
+2211
+How much water do zebras need every day?
+"Zebras usually drink ten gallons of water every day."
+how
+8
+9
+zebra
+2212
+How much water does a zebra need every day?
+"Zebras usually drink ten gallons of water every day."
+how
+9
+9
+zebra
+2213
+How much water is needed by a zebra every day?
+"Zebras usually drink ten gallons of water every day."
+how
+10
+9
+zebra
+2214
+How much water is needed by zebras every day?
+"Zebras usually drink ten gallons of water every day."
+how
+9
+9
+zebra
+2215
+What is the amount of water needed by zebras every day?
+"Zebras usually drink ten gallons of water every day."
+what
+11
+9
+zebra
+2216
+How many stripes does a Zebra have?
+"Depending on the kind, a zebra can have 25 to 80 stripes."
+how
+7
+4
+zebra
+2217
+How many stripes do zebras have?
+"Depending on the kind, a zebra can have 25 to 80 stripes."
+how
+6
+4
+zebra
+2218
+What are the number of stripes a zebra has?
+"Depending on the kind, a zebra can have 25 to 80 stripes."
+what
+9
+4
+zebra
+2219
+What are the number of stripes zebras have?
+"Depending on the kind, a zebra can have 25 to 80 stripes."
+what
+8
+4
+zebra
+2220
+What number of stripes do zebras have?
+"Depending on the kind, a zebra can have 25 to 80 stripes."
+what
+7
+4
+zebra
+2221
+What color is a zebra?
+"A zebra is black and white."
+what
+5
+6
+zebra
+2222
+What is the color of a zebra?
+"A zebra is black and white."
+what
+7
+6
+zebra
+2223
+How are zebras colored?
+"A zebra is black and white."
+how
+4
+6
+zebra
+2224
+What colors are zebras?
+"A zebra is black and white."
+what
+4
+6
+zebra
+2225
+What is a zebra's color?
+"A zebra is black and white."
+what
+5
+6
+zebra
+2226
+Why are zebras striped?
+"When zebras are in a herd, their stripes merge into a mass so predators cannot single out individual zebras."
+why
+4
+6
+zebra
+2227
+Why do zebras have stripes?
+"When zebras are in a herd, their stripes merge into a mass so predators cannot single out individual zebras."
+why
+5
+6
+zebra
+2228
+Why are there stripes on zebras?
+"When zebras are in a herd, their stripes merge into a mass so predators cannot single out individual zebras."
+why
+6
+6
+zebra
+2229
+Why are there stripes on a zebra?
+"When zebras are in a herd, their stripes merge into a mass so predators cannot single out individual zebras."
+why
+7
+6
+zebra
+2230
+Why does a zebra have stripes?
+"When zebras are in a herd, their stripes merge into a mass so predators cannot single out individual zebras."
+why
+6
+6
+zebra
+2231
+Is a horse a zebra?
+"No."
+be
+5
+1
+zebra
+2232
+Are horses zebras?
+"No."
+be
+3
+1
+zebra
+2233
+Is a horse the same as a zebra?
+"No."
+be
+8
+1
+zebra
+2234
+Are horses the same as zebras?
+"No."
+be
+6
+1
+zebra
+2235
+Is a horse the same thing as a zebra?
+"No."
+be
+9
+1
+zebra
+2236
+What is a baby zebra?
+"A baby zebra is a foal."
+what
+5
+6
+zebra
+2237
+What do you call a baby zebra?
+"A baby zebra is a foal."
+what
+7
+6
+zebra
+2238
+What's a baby zebra called?
+"A baby zebra is a foal."
+what
+5
+6
+zebra
+2239
+What's the name for a baby zebra?
+"A baby zebra is a foal."
+what
+7
+6
+zebra
+2240
+What is the name for a zebra's baby?
+"A baby zebra is a foal."
+what
+8
+6
+zebra
+2241
+How many babies do zebras have?
+"A zebra has one baby at a time."
+how
+6
+8
+zebra
+2242
+How many babies does a zebra have?
+"A zebra has one baby at a time."
+how
+7
+8
+zebra
+2243
+What number of babies does a zebra have?
+"A zebra has one baby at a time."
+what
+8
+8
+zebra
+2244
+How many babies are zebras having?
+"A zebra has one baby at a time."
+how
+6
+8
+zebra
+2245
+How many offspring does a zebra have?
+"A zebra has one baby at a time."
+how
+7
+8
+zebra
+2246
+How many babies are zebras having?
+"A zebra has one baby at a time."
+how
+6
+8
+zebra
+2247
+How many offspring does a zebra have?
+"A zebra has one baby at a time."
+how
+7
+8
+zebra
+2248
+Do zebras mate for life?
+"Stallions do not mate for life, mares usually mate for life."
+do
+5
+6
+zebra
+2249
+Do zebras have one mate?
+"Stallions do not mate for life, mares usually mate for life."
+do
+5
+6
+zebra
+2250
+Does a zebra mate for life?
+"Stallions do not mate for life, mares usually mate for life."
+do
+6
+6
+zebra
+2251
+Does a zebra have one mate?
+"Stallions do not mate for life, mares usually mate for life."
+do
+6
+6
+zebra
+2252
+Are zebras mating for life?
+"Stallions do not mate for life, mares usually mate for life."
+be
+5
+6
+zebra
+2253
+How do zebras communicate?
+"A zebra communicates by barking, snorting, whinnying, or moving its ears."
+how
+4
+5
+zebra
+2254
+How does a zebra talk?
+"A zebra communicates by barking, snorting, whinnying, or moving its ears."
+how
+5
+5
+zebra
+2255
+How do zebras talk to each other?
+"A zebra communicates by barking, snorting, whinnying, or moving its ears."
+how
+7
+5
+zebra
+2256
+How does a zebra talk to another zebra?
+"A zebra communicates by barking, snorting, whinnying, or moving its ears."
+how
+8
+5
+zebra
+2257
+How does a zebra communicate?
+"A zebra communicates by barking, snorting, whinnying, or moving its ears."
+how
+5
+5
+zebra
+2258
+What are the different kinds of zebras?
+"There are Plains, Grevy's, Cape Mountains, and Hartmann'ss Mountains zebras."
+what
+7
+3
+zebra
+2259
+What are all the types of zebras?
+"There are Plains, Grevy's, Cape Mountains, and Hartmann'ss Mountains zebras."
+what
+7
+3
+zebra
+2260
+Can you list the kinds of zebras?
+"There are Plains, Grevy's, Cape Mountains, and Hartmann'ss Mountains zebras."
+Default
+7
+3
+zebra
+2261
+What are the different types of zebras?
+"There are Plains, Grevy's, Cape Mountains, and Hartmann'ss Mountains zebras."
+what
+7
+3
+zebra
+2262
+What different kinds of zebras exist?
+"There are Plains, Grevy's, Cape Mountains, and Hartmann'ss Mountains zebras."
+what
+6
+3
+zebra
+2263
+What is a zebra's predator?
+"Zebras' main predators are leopards and cheetahs."
+what
+5
+7
+zebra
+2264
+What animal hunts zebras?
+"Zebras' main predators are leopards and cheetahs."
+what
+4
+7
+zebra
+2265
+What are zebras' predators?
+"Zebras' main predators are leopards and cheetahs."
+what
+4
+7
+zebra
+2266
+Which animals eat zebras?
+"Zebras' main predators are leopards and cheetahs."
+Default
+4
+7
+zebra
+2267
+What animal is zebra prey for?
+"Zebras' main predators are leopards and cheetahs."
+what
+6
+7
+zebra
+2268
+What are the biggest threats to zebras?
+"The biggest threats to zebras are habitat loss, competition for water with livestock, and hunting."
+what
+7
+8
+zebra
+2269
+What threatens zebras?
+"The biggest threats to zebras are habitat loss, competition for water with livestock, and hunting."
+what
+3
+8
+zebra
+2270
+What are the threats to zebras?
+"The biggest threats to zebras are habitat loss, competition for water with livestock, and hunting."
+what
+6
+8
+zebra
+2271
+Can you list what the threats are for zebras?
+"The biggest threats to zebras are habitat loss, competition for water with livestock, and hunting."
+what
+9
+8
+zebra
+2272
+What is threatening zebras?
+"The biggest threats to zebras are habitat loss, competition for water with livestock, and hunting."
+what
+4
+8
+zebra
+2273
+How fast can a cheetah run? 
+"60mph."
+how
+6
+1
+cheetah
+2274
+How fast is a cheetah?
+"60mph."
+how
+5
+1
+cheetah
+2275
+How quick are cheetahs? 
+"60mph."
+how
+4
+1
+cheetah
+2276
+What is the fastest a cheetah can go? 
+"60mph."
+what
+8
+1
+cheetah
+2277
+What is the speed of a cheetah?
+"60mph."
+what
+7
+1
+cheetah
+2278
+How many spots do cheetahs have? 
+"2000 to 3000 spots."
+how
+6
+4
+cheetah
+2279
+How many spots are on a cheetah?
+"2000 to 3000 spots."
+how
+7
+4
+cheetah
+2280
+How many spots does a cheetah have? 
+"2000 to 3000 spots."
+how
+7
+4
+cheetah
+2281
+How many spots are on a cheetah's fur?
+"2000 to 3000 spots."
+how
+8
+4
+cheetah
+2282
+How many spots are on the cheetah's body?
+"2000 to 3000 spots."
+how
+8
+4
+cheetah
+2283
+What is a cheetah? 
+"A cheetah is a large spotted cat."
+what
+4
+7
+cheetah
+2284
+Is a cheetah a cat?
+"A cheetah is a large spotted cat."
+be
+5
+7
+cheetah
+2285
+What kind of animal is a cheetah?
+"A cheetah is a large spotted cat."
+what
+7
+7
+cheetah
+2286
+What are cheetahs?
+"A cheetah is a large spotted cat."
+what
+3
+7
+cheetah
+2287
+What is cheetah?
+"A cheetah is a large spotted cat."
+what
+3
+7
+cheetah
+2288
+Where do cheetahs live? 
+"Africa, Asia."
+where
+4
+2
+cheetah
+2289
+Where can I find a cheetah?
+"Africa, Asia."
+where
+6
+2
+cheetah
+2290
+Where does a cheetah live? 
+"Africa, Asia."
+where
+5
+2
+cheetah
+2291
+Where are cheetahs from?
+"Africa, Asia."
+where
+4
+2
+cheetah
+2292
+Where do cheetahs come from? 
+"Africa, Asia."
+where
+5
+2
+cheetah
+2293
+What do cheetahs eat? 
+"Cheetahs eat gazelles, wildebeests, rabbits, birds, hares, antelopes, and warthogs."
+what
+4
+3
+cheetah
+2294
+What's a cheetah's favorite food?
+"Cheetahs eat gazelles, wildebeests, rabbits, birds, hares, antelopes, and warthogs."
+what
+5
+3
+cheetah
+2295
+What is the diet of a cheetah? 
+"Cheetahs eat gazelles, wildebeests, rabbits, birds, hares, antelopes, and warthogs."
+what
+7
+3
+cheetah
+2296
+What foods do cheetahs like? 
+"Cheetahs eat gazelles, wildebeests, rabbits, birds, hares, antelopes, and warthogs."
+what
+5
+3
+cheetah
+2297
+What does a cheetah eat?
+"Cheetahs eat gazelles, wildebeests, rabbits, birds, hares, antelopes, and warthogs."
+what
+5
+3
+cheetah
+2298
+What do cheetahs sound like? 
+"Cheetahs pur, hiss,  and growl (but they don't roar like lions)."
+what
+5
+2
+cheetah
+2299
+What noise does a cheetah make?
+"Cheetahs pur, hiss,  and growl (but they don't roar like lions)."
+what
+6
+2
+cheetah
+2300
+What sounds do cheetahs make?
+"Cheetahs pur, hiss,  and growl (but they don't roar like lions)."
+what
+5
+2
+cheetah
+2301
+What sound does a cheetah make?
+"Cheetahs pur, hiss,  and growl (but they don't roar like lions)."
+what
+6
+2
+cheetah
+2302
+How do cheetahs talk to each other?
+"Cheetahs pur, hiss,  and growl (but they don't roar like lions)."
+how
+7
+2
+cheetah
+2303
+What animal is faster than a cheetah? 
+"Cheetahs are the fastest land animal."
+what
+7
+6
+cheetah
+2304
+What is the fastest animal? 
+"Cheetahs are the fastest land animal."
+what
+5
+6
+Default
+2305
+What animal can run faster than a cheetah?
+"Cheetahs are the fastest land animal."
+what
+8
+6
+cheetah
+2306
+What animal is fastest?
+"Cheetahs are the fastest land animal."
+what
+4
+6
+Default
+2307
+What animal is quicker than a cheetah?
+"Cheetahs only need to drink water once every three to four days ."
+what
+7
+12
+cheetah
+2308
+Why do cheetahs have such long tails?
+"The tail acts as a steering wheel for the cheetah helping it change direction ."
+why
+7
+14
+cheetah
+2309
+What are cheetah's tails for? 
+"The tail acts as a steering wheel for the cheetah helping it change direction ."
+what
+5
+14
+cheetah
+2310
+What is the tail so long? 
+"The tail acts as a steering wheel for the cheetah helping it change direction ."
+what
+6
+14
+Default
+2311
+What does the cheetah use its tale for? 
+"The tail acts as a steering wheel for the cheetah helping it change direction ."
+what
+8
+14
+cheetah
+2312
+Why does a cheetah have a tail?
+"The tail acts as a steering wheel for the cheetah helping it change direction ."
+why
+7
+14
+cheetah
+2313
+Why are the insides of the cheetah's eyes black? 
+"The black part of the eye helps shield the cheetah from the glare of the sun."
+why
+9
+16
+cheetah
+2314
+Why are the corners of the cheetah's eyes black?
+"The black part of the eye helps shield the cheetah from the glare of the sun."
+why
+9
+16
+cheetah
+2315
+Why are the eyes of a cheetah black? 
+"The black part of the eye helps shield the cheetah from the glare of the sun."
+why
+8
+16
+cheetah
+2316
+Why are cheetah's eyes black? 
+"The black part of the eye helps shield the cheetah from the glare of the sun."
+why
+5
+16
+cheetah
+2317
+Why are the eyes black? 
+"The black part of the eye helps shield the cheetah from the glare of the sun."
+why
+5
+16
+Default
+2318
+Why do cheetahs have spots?
+"To help the cheetah camoflauge into their grassy surroundings."
+why
+5
+9
+cheetah
+2319
+What is the purpose of the cheetah's spots?
+"To help the cheetah camoflauge into their grassy surroundings."
+what
+8
+9
+cheetah
+2320
+Why are there spots on a cheetah?
+"To help the cheetah camoflauge into their grassy surroundings."
+why
+7
+9
+cheetah
+2321
+Why do cheetahs have so many spots? 
+"To help the cheetah camoflauge into their grassy surroundings."
+why
+7
+9
+cheetah
+2322
+What are the spots on a cheetah for? 
+"To help the cheetah camoflauge into their grassy surroundings."
+what
+8
+9
+cheetah
+2323
+How far can cheetahs jump? 
+"A cheetah can jump 6-7 feet in one stride."
+how
+5
+9
+cheetah
+2324
+Can a cheetah jump far? 
+"A cheetah can jump 6-7 feet in one stride."
+Default
+5
+9
+cheetah
+2325
+What is the distance a cheetah can jump? 
+"A cheetah can jump 6-7 feet in one stride."
+what
+8
+9
+cheetah
+2326
+Can cheetahs move long distances? 
+"A cheetah can jump 6-7 feet in one stride."
+Default
+5
+9
+cheetah
+2327
+What is the length a cheetah can jump? 
+"A cheetah can jump 6-7 feet in one stride."
+what
+8
+9
+cheetah
+2328
+How many cheetahs are in the world? 
+"There are less than 10,000 cheetahs in the world making the animal endangered."
+how
+7
+13
+cheetah
+2329
+How many cheetahs are there?
+"There are less than 10,000 cheetahs in the world making the animal endangered."
+how
+5
+13
+cheetah
+2330
+How many cheetahs exist?
+"There are less than 10,000 cheetahs in the world making the animal endangered."
+how
+4
+13
+cheetah
+2331
+What is the number of cheetahs? 
+"There are less than 10,000 cheetahs in the world making the animal endangered."
+what
+6
+13
+cheetah
+2332
+What number of cheetahs are alive? 
+"There are less than 10,000 cheetahs in the world making the animal endangered."
+what
+6
+13
+cheetah
+2333
+How long do cheetahs live for? 
+"Cheetahs live up to 10-12 years."
+how
+6
+6
+cheetah
+2334
+How old are cheetahs?
+"Cheetahs live up to 10-12 years."
+how
+4
+6
+cheetah
+2335
+How long do cheetahs live?
+"Cheetahs live up to 10-12 years."
+how
+5
+6
+cheetah
+2336
+When do cheetahs die? 
+"Cheetahs live up to 10-12 years."
+when
+4
+6
+cheetah
+2337
+How long does a cheetah live?
+"Cheetahs live up to 10-12 years."
+how
+6
+6
+cheetah
+2338
+How heavy are cheetahs?
+"70-150 pounds."
+how
+4
+2
+cheetah
+2339
+How heavy is a cheetah?
+"70-150 pounds."
+how
+5
+2
+cheetah
+2340
+Are cheetahs heavy? 
+"70-150 pounds."
+be
+3
+2
+cheetah
+2341
+Is a cheetah heavy? 
+"70-150 pounds."
+be
+4
+2
+cheetah
+2342
+How much does a cheetah weight?
+"70-150 pounds."
+how
+6
+2
+cheetah
+2343
+How big are cheetahs?
+"6-8 feet long."
+how
+4
+3
+cheetah
+2344
+How large are cheetahs?
+"6-8 feet long."
+how
+4
+3
+cheetah
+2345
+How big is a cheetah?
+"6-8 feet long."
+how
+5
+3
+cheetah
+2346
+How large is a cheetah? 
+"6-8 feet long."
+how
+5
+3
+cheetah
+2347
+How long are cheetahs?
+"6-8 feet long."
+how
+4
+3
+cheetah
+2348
+Why are cheetahs endangered? 
+"Due to the numerous amount of predators (such as hyenas and lions) that are decreasing the population."
+why
+4
+17
+cheetah
+2349
+Why are the cheetahs in danger?
+"Due to the numerous amount of predators (such as hyenas and lions) that are decreasing the population."
+why
+6
+17
+cheetah
+2350
+Why are there so few cheetahs?
+"Due to the numerous amount of predators (such as hyenas and lions) that are decreasing the population."
+why
+6
+17
+cheetah
+2351
+Why is a cheetah in danger? 
+"Due to the numerous amount of predators (such as hyenas and lions) that are decreasing the population."
+why
+6
+17
+cheetah
+2352
+Why is a cheetah endangered? 
+"Due to the numerous amount of predators (such as hyenas and lions) that are decreasing the population."
+why
+5
+17
+cheetah
+2353
+What is endagered? 
+"Endangered means at the risk of extinction (going away forever)."
+what
+3
+10
+Default
+2354
+What does endangered mean? 
+"Endangered means at the risk of extinction (going away forever)."
+what
+4
+10
+Default
+2355
+What is in danger? 
+"Endangered means at the risk of extinction (going away forever)."
+what
+4
+10
+Default
+2356
+What is endangerement? 
+"Endangered means at the risk of extinction (going away forever)."
+what
+3
+10
+Default
+2357
+What are endangerments? 
+"Endangered means at the risk of extinction (going away forever)."
+what
+3
+10
+Default
+2358
+What do cheetahs like to do? 
+"Taking care of the young ones and hunting."
+what
+6
+8
+cheetah
+2359
+What do cheetahs do in their free time? 
+"Taking care of the young ones and hunting."
+what
+8
+8
+cheetah
+2360
+What does a cheetah do? 
+"Taking care of the young ones and hunting."
+what
+5
+8
+cheetah
+2361
+What does a cheetah spend time doing? 
+"Taking care of the young ones and hunting."
+what
+7
+8
+cheetah
+2362
+What do cheetahs spend time doing?
+"Taking care of the young ones and hunting."
+what
+6
+8
+cheetah
+2363
+Where do cheetahs sleep? 
+"Cheetahs typically sleep out in the open as long as there is shade."
+where
+4
+13
+cheetah
+2364
+Where does a cheetah sleep? 
+"Cheetahs typically sleep out in the open as long as there is shade."
+where
+5
+13
+cheetah
+2365
+Do cheetahs sleep outside?
+"Cheetahs typically sleep out in the open as long as there is shade."
+do
+4
+13
+cheetah
+2366
+Do cheetahs have home to sleep in?
+"Cheetahs typically sleep out in the open as long as there is shade."
+do
+7
+13
+cheetah
+2367
+Does a cheetah sleep outside? 
+"Cheetahs typically sleep out in the open as long as there is shade."
+do
+5
+13
+cheetah
+2368
+How long do cheetahs sleep for?
+"Cheetahs sleep 16-18 hours a day."
+how
+6
+6
+cheetah
+2369
+Do cheetahs sleep a lot?
+"Cheetahs sleep 16-18 hours a day."
+do
+5
+6
+cheetah
+2370
+Does a cheetah sleep a lot? 
+"Cheetahs sleep 16-18 hours a day."
+do
+6
+6
+cheetah
+2371
+How long does a cheetah sleep for? 
+"Cheetahs sleep 16-18 hours a day."
+how
+7
+6
+cheetah
+2372
+Does a cheetah sleep?
+"Cheetahs sleep 16-18 hours a day."
+do
+4
+6
+cheetah
+2373
+How far can a cheetah see? 
+"Over 3 miles away ."
+how
+6
+4
+cheetah
+2374
+Can cheetahs see far?
+"Over 3 miles away ."
+Default
+4
+4
+cheetah
+2375
+Do cheetahs have good eyesight? 
+"Over 3 miles away ."
+do
+5
+4
+cheetah
+2376
+Does a cheetah have good eyeseight?
+"Over 3 miles away ."
+do
+6
+4
+cheetah
+2377
+Can a cheetah see far?
+"Over 3 miles away ."
+Default
+5
+4
+cheetah
+2378
+What does a cheetah's roar sound like? 
+"Cheetahs are the only cats that can't roar!."
+what
+7
+8
+cheetah
+2379
+How loud does a cheetah roar?
+"Cheetahs are the only cats that can't roar!."
+how
+6
+8
+cheetah
+2380
+What do cheetah's roars sound like? 
+"Cheetahs are the only cats that can't roar!."
+what
+6
+8
+cheetah
+2381
+Is a cheetah's roar loud? 
+"Cheetahs are the only cats that can't roar!."
+be
+5
+8
+cheetah
+2382
+Do cheetahs roar loudly? 
+"Cheetahs are the only cats that can't roar!."
+do
+4
+8
+cheetah
+2383
+Can cheetahs see at night?
+"Cheetahs cannot see well at night."
+Default
+5
+6
+cheetah
+2384
+Do cheetahs have good night vision? 
+"Cheetahs cannot see well at night."
+do
+6
+6
+cheetah
+2385
+Does a cheetah have good night vision? 
+"Cheetahs cannot see well at night."
+do
+7
+6
+cheetah
+2386
+Can a cheetah see at night? 
+"Cheetahs cannot see well at night."
+Default
+6
+6
+cheetah
+2387
+How well can cheetahs see at night? 
+"Cheetahs cannot see well at night."
+how
+7
+6
+cheetah
+2388
+Can cheetahs climb trees?
+"Cheetahs cannot climb trees."
+Default
+4
+4
+cheetah
+2389
+How high can a cheetah climb? 
+"Cheetahs cannot climb trees."
+how
+6
+4
+cheetah
+2390
+Can a cheetah climb a tree? 
+"Cheetahs cannot climb trees."
+Default
+6
+4
+cheetah
+2391
+Do cheetahs climb trees? 
+"Cheetahs cannot climb trees."
+do
+4
+4
+cheetah
+2392
+Does a cheetah climb trees? 
+"Cheetahs cannot climb trees."
+do
+5
+4
+cheetah
+2393
+How much water does a cheetah drink?
+"Cheetahs only need to drink water once every three to four days ."
+how
+7
+12
+cheetah
+2394
+Do cheetahs drink a lot of water? 
+"Cheetahs only need to drink water once every three to four days ."
+do
+7
+12
+cheetah
+2395
+Does a cheetah drink a lot of water?
+"Cheetahs only need to drink water once every three to four days ."
+do
+8
+12
+cheetah
+2396
+How much water do cheetahs drink? 
+"Cheetahs only need to drink water once every three to four days ."
+how
+6
+12
+cheetah
+2397
+Does a cheetah drink a lot? 
+"Cheetahs only need to drink water once every three to four days ."
+do
+6
+12
+cheetah
+2398
+What is a cheetah's scientific name?
+"Acinonyx jubatus."
+what
+6
+2
+cheetah
+2399
+What do scientists call cheetahs?
+"Acinonyx jubatus."
+what
+5
+2
+cheetah
+2400
+What does a scientist call a cheetah?
+"Acinonyx jubatus."
+what
+7
+2
+cheetah
+2401
+What are cheetahs called by science?
+"Acinonyx jubatus."
+what
+6
+2
+cheetah
+2402
+What is a cheetah called by science?
+"Acinonyx jubatus."
+what
+7
+2
+cheetah
+2403
+How many cubs does a cheetah have?
+"2-4."
+how
+7
+1
+cheetah
+2404
+How many babies do cheetahs have?
+"2-4."
+how
+6
+1
+cheetah
+2405
+How many baby cheetahs are born at a time?
+"2-4."
+how
+9
+1
+cheetah
+2406
+How many cubs do cheetahs have at one time?
+"2-4."
+how
+9
+1
+cheetah
+2407
+How many cheetah cubs are in a litter?
+"2-4."
+how
+8
+1
+cheetah
+2408
+When do cheetahs hunt?
+"They hunt mostly during the late morning or early evening."
+when
+4
+10
+cheetah
+2409
+When does a cheetah hunt?
+"They hunt mostly during the late morning or early evening."
+when
+5
+10
+cheetah
+2410
+What time do cheetahs hunt?
+"They hunt mostly during the late morning or early evening."
+what
+5
+10
+cheetah
+2411
+When do cheetahs hunt their prey?
+"They hunt mostly during the late morning or early evening."
+when
+6
+10
+cheetah
+2412
+When does a cheetah hunt its prey?
+"They hunt mostly during the late morning or early evening."
+when
+7
+10
+cheetah
+2413
+What color are cheetahs?
+"Tan with black spots."
+what
+4
+4
+cheetah
+2414
+What color is a cheetah's coat?
+"Tan with black spots."
+what
+6
+4
+cheetah
+2415
+What color is a cheetah?
+"Tan with black spots."
+what
+5
+4
+cheetah
+2416
+What color is a cheetah's fur?
+"Tan with black spots."
+what
+6
+4
+cheetah
+2417
+What colors are on a cheetah?
+"Tan with black spots."
+what
+6
+4
+cheetah
+2418
+Does a cheetah swim?
+"Yes, but they do not like to swim."
+do
+4
+1
+cheetah
+2419
+Can cheetahs swim?
+"Yes, but they do not like to swim."
+Default
+3
+1
+cheetah
+2420
+Can a cheetah swim?
+"Yes, but they do not like to swim."
+Default
+4
+1
+cheetah
+2421
+Will cheetahs swim?
+"Yes, but they do not like to swim."
+Default
+3
+1
+cheetah
+2422
+Will a cheetah swim?
+"Yes, but they do not like to swim."
+Default
+4
+1
+cheetah
+2423
+What is a carnivore?
+"Carnivores are animals that eat only meat/other animals."
+what
+4
+8
+Default
+2424
+What are carnivores?
+"Carnivores are animals that eat only meat/other animals."
+what
+3
+8
+Default
+2425
+What is the meaning of carnivore?
+"Carnivores are animals that eat only meat/other animals."
+what
+6
+8
+Default
+2426
+Who are carnivores?
+"Carnivores are animals that eat only meat/other animals."
+Default
+3
+8
+Default
+2427
+What does carnivore mean?
+"Carnivores are animals that eat only meat/other animals."
+what
+4
+8
+Default
+2428
+Are cheetahs carnivores?
+"Yes, cheetahs eat other animals."
+be
+3
+1
+cheetah
+2429
+Is a cheetah a carnivore?
+"Yes, cheetahs eat other animals."
+be
+5
+1
+cheetah
+2430
+Do cheetahs eat other animals?
+"Yes, cheetahs eat other animals."
+do
+5
+1
+cheetah
+2431
+Do cheetahs only eat meat?
+"Yes, cheetahs eat other animals."
+do
+5
+1
+cheetah
+2432
+Do cheetahs eat plants?
+"Yes, cheetahs eat other animals."
+do
+4
+1
+cheetah
+2433
+Why do cheetahs eat other animals?
+"Cheetahs are carnivores."
+why
+6
+3
+cheetah
+2434
+Why do cheetahs eat animals?
+"Cheetahs are carnivores."
+why
+5
+3
+cheetah
+2435
+Why does a cheetah eat animals?
+"Cheetahs are carnivores."
+why
+6
+3
+cheetah
+2436
+Why does a cheetah eat other animals?
+"Cheetahs are carnivores."
+why
+7
+3
+cheetah
+2437
+Why does cheetahs eat animals?
+"Cheetahs are carnivores."
+why
+5
+3
+cheetah
+2438
+What are predators?
+"Predators are animals that prey on and attack other animals."
+what
+3
+10
+Default
+2439
+What is a predator?
+"Predators are animals that prey on and attack other animals."
+what
+4
+10
+Default
+2440
+What does predator mean?
+"Predators are animals that prey on and attack other animals."
+what
+4
+10
+Default
+2441
+What is the meaning of predator?
+"Predators are animals that prey on and attack other animals."
+what
+6
+10
+Default
+2442
+Who are predators? 
+"Predators are animals that prey on and attack other animals."
+Default
+3
+10
+Default
+2443
+What are prey?
+"Animals that are hunted and attacked by other animals."
+what
+3
+9
+Default
+2444
+What is prey?
+"Animals that are hunted and attacked by other animals."
+what
+3
+9
+Default
+2445
+What is the meaning of prey?
+"Animals that are hunted and attacked by other animals."
+what
+6
+9
+Default
+2446
+Who are prey?
+"Animals that are hunted and attacked by other animals."
+Default
+3
+9
+Default
+2447
+What does prey mean?
+"Animals that are hunted and attacked by other animals."
+what
+4
+9
+Default
+2448
+What is a prey?
+"Animals that are hunted and attacked by other animals."
+what
+4
+9
+Default
+2449
+Are cheetahs and lions friends?
+"Lions attack cheetahs."
+be
+5
+3
+lion
+2450
+Are cheetahs and hyenas friends?
+"Hyenas attack cheetahs."
+be
+5
+3
+cheetah
+2451
+Are cheetahs and leopards friends?
+"Leopards attack cheetahs."
+be
+5
+3
+leopard
+2452
+Are cheetahs and leopards enemies?
+"Leopards attack cheetahs."
+be
+5
+3
+leopard
+2453
+Are cheetahs and hyenas enemies?
+"Hyenas attack cheetahs."
+be
+5
+3
+cheetah
+2454
+Are cheetahs and lions enemies?
+"Lions attack cheetahs."
+be
+5
+3
+lion
+2455
+Why aren't cheetahs and lions friends?
+"Lions attack cheetahs."
+why
+6
+3
+lion
+2456
+Why arent cheetahs and hyenas friends?
+"Hyenas attack cheetahs."
+why
+6
+3
+cheetah
+2457
+Why aren't cheetahs and leopards friends?
+"leopards attack cheetahs."
+why
+6
+3
+leopard
+2458
+What are cheetahs' predators?
+"Lions, leopards and hyenas."
+what
+4
+1
+cheetah
+2459
+What are cheetahs' enemies?
+"Lions, leopards and hyenas."
+what
+4
+1
+cheetah
+2460
+What animals attack cheetahs?
+"Lions, leopards and hyenas."
+what
+4
+1
+cheetah
+2461
+What animals hunt cheetahs?
+"Lions, leopards and hyenas."
+what
+4
+1
+cheetah
+2462
+Do cheetahs have whiskers?
+"Yes."
+do
+4
+1
+cheetah
+2463
+Does a cheetah have whiskers?
+"Yes."
+do
+5
+1
+cheetah
+2464
+Do all cheetahs have whiskers?
+"Yes."
+do
+5
+1
+cheetah
+2465
+Does every cheetah have whiskers?
+"Yes."
+do
+5
+1
+cheetah
+2466
+Does each cheetah have whiskers?
+"Yes."
+do
+5
+1
+cheetah
+2467
+Do mother cheetahs take care of their cubs?
+"Mother cheetahs stay with their cubs until the cubs are at least 18 months old."
+do
+8
+15
+cheetah
+2468
+Are baby cheetahs taken care of?
+"Mother cheetahs stay with their cubs until the cubs are at least 18 months old."
+be
+6
+15
+cheetah
+2469
+Do cheetahs take care of their kids?
+"Mother cheetahs stay with their cubs until the cubs are at least 18 months old."
+do
+7
+15
+cheetah
+2470
+Do cheetahs take care of baby cheetahs?
+"Mother cheetahs stay with their cubs until the cubs are at least 18 months old."
+do
+7
+15
+cheetah
+2471
+How does a cheetah take care of its babies?
+"Mother cheetahs stay with their cubs until the cubs are at least 18 months old."
+how
+9
+15
+cheetah
+2472
+How large is a cheetah's territory?
+"A cheetah's territory can very greatly from--from 1 to 64 square miles."
+how
+6
+12
+cheetah
+2473
+How big is a cheetah's territory?
+"A cheetah's territory can very greatly from--from 1 to 64 square miles."
+how
+6
+12
+cheetah
+2474
+How big are cheetah territories?
+"A cheetah's territory can very greatly from--from 1 to 64 square miles."
+how
+5
+12
+cheetah
+2475
+How large are cheetah territories?
+"A cheetah's territory can very greatly from--from 1 to 64 square miles."
+how
+5
+12
+cheetah
+2476
+What is the size of a cheetah's territory?
+"A cheetah's territory can very greatly from--from 1 to 64 square miles."
+what
+8
+12
+cheetah
+2477
+How many toes does a cheetah have?
+"5.0."
+how
+7
+1
+cheetah
+2478
+How many toes do cheetahs have?
+"5.0."
+how
+6
+1
+cheetah
+2479
+How many toes are on a cheetah's paw?
+"5.0."
+how
+8
+1
+cheetah
+2480
+What number of toes do cheetahs have?
+"5.0."
+what
+7
+1
+cheetah
+2481
+What number of toes does a cheetah have?
+"5.0."
+what
+8
+1
+cheetah
+2482
+Do cheetahs have claws?
+"Cheetahs have five semi-retractable claws."
+do
+4
+5
+cheetah
+2483
+How many claws does a cheetah have?
+"Cheetahs have five semi-retractable claws."
+how
+7
+5
+cheetah
+2484
+How many claws do cheetahs have?
+"Cheetahs have five semi-retractable claws."
+how
+6
+5
+cheetah
+2485
+Do all cheetahs have claws?
+"Cheetahs have five semi-retractable claws."
+do
+5
+5
+cheetah
+2486
+Are claws on the cheetah's paws?
+"Cheetahs have five semi-retractable claws."
+be
+6
+5
+cheetah
+2487
+Do cheetahs have fangs?
+"Cheetah teeth are small compared to other cats such as the lion."
+do
+4
+12
+cheetah
+2488
+Do cheetahs have teeth?
+"Cheetah teeth are small compared to other cats such as the lion."
+do
+4
+12
+cheetah
+2489
+Are cheetahs' teeth large?
+"Cheetah teeth are small compared to other cats such as the lion."
+be
+4
+12
+cheetah
+2490
+Are cheetahs' teeth big?
+"Cheetah teeth are small compared to other cats such as the lion."
+be
+4
+12
+cheetah
+2491
+Are cheetah's teeth sharp?
+"Cheetah teeth are small compared to other cats such as the lion."
+be
+4
+12
+cheetah
+2492
+Why are cheetahs fast?
+"They have adaptations that make them run fast, such as semiretractable claws, elastic spine, and long tails."
+why
+4
+8
+cheetah
+2493
+How does a cheetah run so fast?
+"They have adaptations that make them run fast, such as semiretractable claws, elastic spine, and long tails."
+how
+7
+8
+cheetah
+2494
+Why are cheetahs the fastest animal?
+"They have adaptations that make them run fast, such as semiretractable claws, elastic spine, and long tails."
+why
+6
+8
+cheetah
+2495
+How do cheetahs outrun other animals?
+"They have adaptations that make them run fast, such as semiretractable claws, elastic spine, and long tails."
+how
+6
+8
+cheetah
+2496
+What makes a cheetah run fast?
+"They have adaptations that make them run fast, such as semiretractable claws, elastic spine, and long tails."
+what
+6
+8
+cheetah
+2497
+What makes cheetahs run fast?
+"They have adaptations that make them run fast, such as semiretractable claws, elastic spine, and long tails."
+what
+5
+8
+cheetah
+2498
+How do scientists track cheetahs? 
+"Radio collars."
+how
+5
+2
+cheetah
+2499
+How does a scientist track cheetahs? 
+"Radio collars."
+how
+6
+2
+cheetah
+2500
+How does a scientist track a cheetah? 
+"Radio collars."
+how
+7
+2
+cheetah
+2501
+How are cheetahs tracked? 
+"Radio collars."
+how
+4
+2
+cheetah
+2502
+How is a cheetah tracked? 
+"Radio collars."
+how
+5
+2
+cheetah
+2503
+Why are they named cheetah?
+"The name cheetah comes from the Hindi word ""Chita"" meaning ""spotted body.""."
+why
+5
+12
+cheetah
+2504
+Why is a cheetah named cheetah?
+"The name cheetah comes from the Hindi word ""Chita"" meaning ""spotted body.""."
+why
+6
+12
+cheetah
+2505
+What does a cheetah mean?
+"The name cheetah comes from the Hindi word ""Chita"" meaning ""spotted body.""."
+what
+5
+12
+cheetah
+2506
+How were cheetahs named?
+"The name cheetah comes from the Hindi word ""Chita"" meaning ""spotted body.""."
+how
+4
+12
+cheetah
+2507
+Why are cheetahs named cheetahs?
+"The name cheetah comes from the Hindi word ""Chita"" meaning ""spotted body.""."
+why
+5
+12
+cheetah
+2508
+When do cheetahs leave their cubs? 
+"When they can fend for themselves. ."
+when
+6
+6
+cheetah
+2509
+When does a cheetah leave it's cub? 
+"When they can fend for themselves. ."
+when
+7
+6
+cheetah
+2510
+When will a cheetah leave it's cub? 
+"When they can fend for themselves. ."
+when
+7
+6
+cheetah
+2511
+When will cheetahs leave their cub? 
+"When they can fend for themselves. ."
+when
+6
+6
+cheetah
+2512
+When will a cheetah leave it's cubs? 
+"When they can fend for themselves. ."
+when
+7
+6
+cheetah
+2513
+Why do cheetahs have black lines on their faces?
+"The black lines are ""tear marks"" that help reflect the glare of the sun when they are hunting during the day."
+why
+9
+21
+cheetah
+2514
+What are the black lines on the cheetah's face?
+"The black lines are ""tear marks"" that help reflect the glare of the sun when they are hunting during the day."
+what
+9
+21
+cheetah
+2515
+Why does a cheetah have black lines on its face?
+"The black lines are ""tear marks"" that help reflect the glare of the sun when they are hunting during the day."
+why
+10
+21
+cheetah
+2516
+What are the black lines on a cheetah's face?
+"The black lines are ""tear marks"" that help reflect the glare of the sun when they are hunting during the day."
+what
+9
+21
+cheetah
+2517
+Why are there black lines on a cheetah's face?
+"The black lines are ""tear marks"" that help reflect the glare of the sun when they are hunting during the day."
+why
+9
+21
+cheetah
+2518
+When do cheetah cubs leave their family? 
+"14-16 months."
+when
+7
+2
+cheetah
+2519
+When does a cheetah cub leave it's family? 
+"14-16 months."
+when
+8
+2
+cheetah
+2520
+When will a cheetah cub leave it's family? 
+"14-16 months."
+when
+8
+2
+cheetah
+2521
+When do cubs leave their family? 
+"14-16 months."
+when
+6
+2
+Default
+2522
+When does a cub leave it's family? 
+"14-16 months."
+when
+7
+2
+Default
+2523
+How many teeth do cheetah's have?
+"30.0."
+how
+6
+1
+cheetah
+2524
+How many teeth are in a cheetah's mouth?
+"30.0."
+how
+8
+1
+cheetah
+2525
+How many teeth does a cheetah have?
+"30.0."
+how
+7
+1
+cheetah
+2526
+How many teeth does one cheetah have?
+"30.0."
+how
+7
+1
+cheetah
+2527
+How many teeth are in cheetah's mouths?
+"30.0."
+how
+7
+1
+cheetah
+2528
+How long is a cheetah's tail?
+"66 - 84 cm."
+how
+6
+4
+cheetah
+2529
+How long are cheetah tails?
+"66 - 84 cm."
+how
+5
+4
+cheetah
+2530
+How long are cheetahs' tails?
+"66 - 84 cm."
+how
+5
+4
+cheetah
+2531
+How long is one cheetah's tail?
+"66 - 84 cm."
+how
+6
+4
+cheetah
+2532
+How long does a cheetah's tail get?
+"66 - 84 cm."
+how
+7
+4
+cheetah
+2533
+How many eyes does a cheetah have?
+"2.0."
+how
+7
+1
+cheetah
+2534
+How many eyes do cheetahs have?
+"2.0."
+how
+6
+1
+cheetah
+2535
+How many eyes are on a cheetah's head?
+"2.0."
+how
+8
+1
+cheetah
+2536
+How many eyes does each cheetah have?
+"2.0."
+how
+7
+1
+cheetah
+2537
+How many eyes are on cheetahs' heads?
+"2.0."
+how
+7
+1
+cheetah
+2538
+Do cheetahs purr?
+"Yes."
+do
+3
+1
+cheetah
+2539
+Does a cheetah purr?
+"Yes."
+do
+4
+1
+cheetah
+2540
+Do all cheetahs purr?
+"Yes."
+do
+4
+1
+cheetah
+2541
+Can cheetahs purr?
+"Yes."
+Default
+3
+1
+cheetah
+2542
+Can all cheetahs purr?
+"Yes."
+Default
+4
+1
+cheetah
+2543
+What is the stripe on a cheetah's face called?
+"They are called 'tear stripes' and stretch from the corner of their eye to their nose."
+what
+9
+16
+cheetah
+2544
+What are the stripes on a cheetah's face called?
+"They are called 'tear stripes' and stretch from the corner of their eye to their nose."
+what
+9
+16
+cheetah
+2545
+What is the stripe on cheetahs' faces called
+"They are called 'tear stripes' and stretch from the corner of their eye to their nose."
+what
+8
+16
+cheetah
+2546
+What are the stripes on cheetahs' faces called?
+"They are called 'tear stripes' and stretch from the corner of their eye to their nose."
+what
+8
+16
+cheetah
+2547
+Default
+"They are called 'tear stripes' and stretch from the corner of their eye to their nose."
+Default
+1
+16
+Default
+2548
+How many legs to cheetahs have?
+"4.0."
+how
+6
+1
+cheetah
+2549
+How many arms do cheetahs have?
+"4.0."
+how
+6
+1
+cheetah
+2550
+How many feet do cheetahs have?
+"4.0."
+how
+6
+1
+cheetah
+2551
+How many legs does a cheetah have?
+"4.0."
+how
+7
+1
+cheetah
+2552
+How many feet does a cheetah have?
+"4.0."
+how
+7
+1
+cheetah
+2553
+How do cheetahs have enough energy to run so quickly?
+"Cheetahs have enlarged nostrils to increase the amount of airflow to their lungs. ."
+how
+10
+13
+cheetah
+2554
+How can cheetahs run so fast?
+"Cheetahs have enlarged nostrils to increase the amount of airflow to their lungs. ."
+how
+6
+13
+cheetah
+2555
+How does a cheetah have enough energy to run so quickly?
+"Cheetahs have enlarged nostrils to increase the amount of airflow to their lungs. ."
+how
+11
+13
+cheetah
+2556
+How can a cheetah run so fast?
+"Cheetahs have enlarged nostrils to increase the amount of airflow to their lungs. ."
+how
+7
+13
+cheetah
+2557
+How do cheetahs run so quickly?
+"Cheetahs have enlarged nostrils to increase the amount of airflow to their lungs. ."
+how
+6
+13
+cheetah
+2558
+How many tails does a cheetah have?
+"1.0."
+how
+7
+1
+cheetah
+2559
+How many tails do cheetahs have?
+"1.0."
+how
+6
+1
+cheetah
+2560
+Does a cheetah have a tail?
+"1.0."
+do
+6
+1
+cheetah
+2561
+Do cheetahs have tails?
+"1.0."
+do
+4
+1
+cheetah
+2562
+Do cheetahs have one tail?
+"1.0."
+do
+5
+1
+cheetah
+2563
+How many strides can a cheetah take in a second?
+"A cheetah takes three strides in a second."
+how
+10
+8
+cheetah
+2564
+How many stides do cheetahs take in a second?
+"A cheetah takes three strides in a second."
+how
+9
+8
+cheetah
+2565
+How many strides can cheetahs take in a second?
+"A cheetah takes three strides in a second."
+how
+9
+8
+cheetah
+2566
+How many strides does a cheetah take in a second?
+"A cheetah takes three strides in a second."
+how
+10
+8
+cheetah
+2567
+How quick can a cheetah move in a second? 
+"A cheetah takes three strides in a second."
+how
+9
+8
+cheetah
+2568
+How far can a cheetah move in a second?
+"A cheetah can move 20-25 feet in a second at its top speed."
+how
+9
+13
+cheetah
+2569
+How far can cheetahs move in a second?
+"A cheetah can move 20-25 feet in a second at its top speed."
+how
+8
+13
+cheetah
+2570
+What distance can cheetahs cover in a second? 
+"A cheetah can move 20-25 feet in a second at its top speed."
+what
+8
+13
+cheetah
+2571
+What distance can a cheetah cover in a second? 
+"A cheetah can move 20-25 feet in a second at its top speed."
+what
+9
+13
+cheetah
+2572
+What length can cheetahs move in a second? 
+"A cheetah can move 20-25 feet in a second at its top speed."
+what
+8
+13
+cheetah
+2573
+What do cheetah cubs do for fun? 
+"Cheetah cubs play around my chasing and tripping each other ."
+what
+7
+10
+cheetah
+2574
+What does a cheetah cub do for fun?
+"Cheetah cubs play around my chasing and tripping each other ."
+what
+8
+10
+cheetah
+2575
+What do cheetah cubs like to do? 
+"Cheetah cubs play around my chasing and tripping each other ."
+what
+7
+10
+cheetah
+2576
+What does a cheetah cub like to do? 
+"Cheetah cubs play around my chasing and tripping each other ."
+what
+8
+10
+cheetah
+2577
+What do cheetah cubs do? 
+"Cheetah cubs play around my chasing and tripping each other ."
+what
+5
+10
+cheetah
+2578
+When do cheetah cubs leave their parents? 
+"A cheetah cub leaves the den between 14-16 months."
+when
+7
+9
+cheetah
+2579
+When does a cheetah cub leave its parents?
+"A cheetah cub leaves the den between 14-16 months."
+when
+8
+9
+cheetah
+2580
+When do cheetah cubs leave the den?
+"A cheetah cub leaves the den between 14-16 months."
+when
+7
+9
+cheetah
+2581
+When does a cheetah cub leave the den?
+"A cheetah cub leaves the den between 14-16 months."
+when
+8
+9
+cheetah
+2582
+When do cubs leave the den?
+"A cheetah cub leaves the den between 14-16 months."
+when
+6
+9
+Default
+2583
+How do cheetahs learn to hunt?
+"The cheetah's mother teaches its cubs how to hunt and the cheetah learns by trial and error."
+how
+6
+17
+cheetah
+2584
+How does a cheetah cub learn to hunt?
+"The cheetah's mother teaches its cubs how to hunt and the cheetah learns by trial and error."
+how
+8
+17
+cheetah
+2585
+How do cheetah cubs learn to hunt? 
+"The cheetah's mother teaches its cubs how to hunt and the cheetah learns by trial and error."
+how
+7
+17
+cheetah
+2586
+How does a cheetah learn to hunt?
+"The cheetah's mother teaches its cubs how to hunt and the cheetah learns by trial and error."
+how
+7
+17
+cheetah
+2587
+Who teaches cheetahs to hunt?
+"The cheetah's mother teaches its cubs how to hunt and the cheetah learns by trial and error."
+Default
+5
+17
+cheetah
+2588
+Where does a cheetah mom take care of her newborn babies?
+"Baby cheetahs are raised in dens, often in quiet and hidden spots for their safety."
+where
+11
+6
+cheetah
+2589
+Where do cheetah moms take care of their newborn babies?
+"Baby cheetahs are raised in dens, often in quiet and hidden spots for their safety."
+where
+10
+6
+cheetah
+2590
+Where do cheetahs take care of their babies?
+"Baby cheetahs are raised in dens, often in quiet and hidden spots for their safety."
+where
+8
+6
+cheetah
+2591
+Where does a cheetah take care of its babies?
+"Baby cheetahs are raised in dens, often in quiet and hidden spots for their safety."
+where
+9
+6
+cheetah
+2592
+Where are cheetah babies raised?
+"Baby cheetahs are raised in dens, often in quiet and hidden spots for their safety."
+where
+5
+6
+cheetah
+2593
+Are cheetahs dangerous?
+"Cheetahs do not see adult-sized humans as prey, however it is still advised to be cautious with them and to not alarm the animal."
+be
+3
+8
+cheetah
+2594
+Is a cheetah dangerous?
+"Cheetahs do not see adult-sized humans as prey, however it is still advised to be cautious with them and to not alarm the animal."
+be
+4
+8
+cheetah
+2595
+Should I be scared of cheetahs?
+"Cheetahs do not see adult-sized humans as prey, however it is still advised to be cautious with them and to not alarm the animal."
+Default
+6
+8
+cheetah
+2596
+Should I be scared of a cheetah?
+"Cheetahs do not see adult-sized humans as prey, however it is still advised to be cautious with them and to not alarm the animal."
+Default
+7
+8
+cheetah
+2597
+Are cheetahs threatening?
+"Cheetahs do not see adult-sized humans as prey, however it is still advised to be cautious with them and to not alarm the animal."
+be
+3
+8
+cheetah
+2598
+Can cheetahs be raised as pets?
+"Cheetahs, like many other animals, are advised to be kept in the wild and should not be kept as pets."
+Default
+6
+1
+cheetah
+2599
+Can I have a cheetah as a pet? 
+"Cheetahs, like many other animals, are advised to be kept in the wild and should not be kept as pets."
+Default
+8
+1
+cheetah
+2600
+Can a cheetah be raised as a pet? 
+"Cheetahs, like many other animals, are advised to be kept in the wild and should not be kept as pets."
+Default
+8
+1
+cheetah
+2601
+Can I have cheetahs as pets?
+"Cheetahs, like many other animals, are advised to be kept in the wild and should not be kept as pets."
+Default
+6
+1
+cheetah
+2602
+Can I have a pet cheetah?
+"Cheetahs, like many other animals, are advised to be kept in the wild and should not be kept as pets."
+Default
+6
+1
+cheetah
+2603
+Can cheetahs fly?
+"Cheetahs cannot fly, however they can turn direction in midair while running."
+Default
+3
+3
+cheetah
+2604
+Can a cheetah fly?
+"Cheetahs cannot fly, however they can turn direction in midair while running."
+Default
+4
+3
+cheetah
+2605
+Can cheetahs move so quickly they fly?
+"Cheetahs cannot fly, however they can turn direction in midair while running."
+Default
+7
+3
+cheetah
+2606
+Can a cheetah move so quickly it flies?
+"Cheetahs cannot fly, however they can turn direction in midair while running."
+Default
+8
+3
+cheetah
+2607
+Can a cheetah run so fast it flies?
+"Cheetahs cannot fly, however they can turn direction in midair while running."
+Default
+8
+3
+cheetah
+2608
+Can cheetahs run quickly once they're born?
+"At around 6 months cheetahs can run full speed just like adults."
+Default
+7
+12
+cheetah
+2609
+Can a cheetah run quickly once it's born?
+"At around 6 months cheetahs can run full speed just like adults."
+Default
+8
+12
+cheetah
+2610
+Can cheetahs run fast once it's born?
+"At around 6 months cheetahs can run full speed just like adults."
+Default
+7
+12
+cheetah
+2611
+Can cheetahs run fast once they're born?
+"At around 6 months cheetahs can run full speed just like adults."
+Default
+7
+12
+cheetah
+2612
+Can cheetahs run fast at birth?
+"At around 6 months cheetahs can run full speed just like adults."
+Default
+6
+12
+cheetah
+2613
+What are cheetahs a symbol of?
+"In ancient times, cheetahs were seen as a symbol of royalty."
+what
+6
+3
+cheetah
+2614
+What do cheetahs represent?
+"In ancient times, cheetahs were seen as a symbol of royalty."
+what
+4
+3
+cheetah
+2615
+What does a cheetah represent?
+"In ancient times, cheetahs were seen as a symbol of royalty."
+what
+5
+3
+cheetah
+2616
+What is a cheetah a symbol of? 
+"In ancient times, cheetahs were seen as a symbol of royalty."
+what
+7
+3
+cheetah
+2617
+What are cheetahs a sign of?
+"In ancient times, cheetahs were seen as a symbol of royalty."
+what
+6
+3
+cheetah
+2618
+What is the difference between female and male cheetahs?
+"Females are solitary, whereas males tend to live in small groups of 2-3 individuals, usually brothers."
+what
+9
+3
+cheetah
+2619
+How do female and male cheetahs behave?
+"Females are solitary, whereas males tend to live in small groups of 2-3 individuals, usually brothers."
+how
+7
+3
+cheetah
+2620
+Are male and female cheetahs different?
+"Females are solitary, whereas males tend to live in small groups of 2-3 individuals, usually brothers."
+be
+6
+3
+cheetah
+2621
+How do female and male cheetahs act?
+"Females are solitary, whereas males tend to live in small groups of 2-3 individuals, usually brothers."
+how
+7
+3
+cheetah
+2622
+Do female and male cheetahs act differently?
+"Females are solitary, whereas males tend to live in small groups of 2-3 individuals, usually brothers."
+do
+7
+3
+cheetah
+2623
+When were the first cheetahs found?
+"Over 4 million years ago."
+when
+6
+5
+cheetah
+2624
+When did the first cheetahs originate?
+"Over 4 million years ago."
+when
+6
+5
+cheetah
+2625
+When were cheetahs first found?
+"Over 4 million years ago."
+when
+5
+5
+cheetah
+2626
+When did cheetahs first roam the earth?
+"Over 4 million years ago."
+when
+7
+5
+cheetah
+2627
+When did we find the first cheetah?
+"Over 4 million years ago."
+when
+7
+5
+cheetah
+2628
+Do cheetahs eat birds?
+"Cheetahs sometimes eat birds, but they usually try to catch and them to practice their hunting skills."
+do
+4
+4
+cheetah
+2629
+Does a cheetah eat birds?
+"Cheetahs sometimes eat birds, but they usually try to catch and them to practice their hunting skills."
+do
+5
+4
+cheetah
+2630
+Do cheetahs hunt birds?
+"Cheetahs sometimes eat birds, but they usually try to catch and them to practice their hunting skills."
+do
+4
+4
+cheetah
+2631
+Does a cheetah hunt birds?
+"Cheetahs sometimes eat birds, but they usually try to catch and them to practice their hunting skills."
+do
+5
+4
+cheetah
+2632
+Do cheetahs like to eat birds?
+"Cheetahs sometimes eat birds, but they usually try to catch and them to practice their hunting skills."
+do
+6
+4
+cheetah
+2633
+Do cheetahs get warm with all the fur and the sun?
+"A cheetah's body is relatively warm, however when they run their bodies can reach up to 105 degrees farenheit."
+do
+11
+6
+cheetah
+2634
+Do cheetahs get warm from the sun?
+"A cheetah's body is relatively warm, however when they run their bodies can reach up to 105 degrees farenheit."
+do
+7
+6
+cheetah
+2635
+Do cheetahs get warm from their fur?
+"A cheetah's body is relatively warm, however when they run their bodies can reach up to 105 degrees farenheit."
+do
+7
+6
+cheetah
+2636
+Does a cheetah get warm from the sun?
+"A cheetah's body is relatively warm, however when they run their bodies can reach up to 105 degrees farenheit."
+do
+8
+6
+cheetah
+2637
+Does a cheetah get warm from their fur?
+"A cheetah's body is relatively warm, however when they run their bodies can reach up to 105 degrees farenheit."
+do
+8
+6
+cheetah
+2638
+Are cheetahs flexible?
+"Cheetahs have an incredibly flexible spine which allows them to move very quickly."
+be
+3
+13
+cheetah
+2639
+Do cheetahs have a flexible body?
+"Cheetahs have an incredibly flexible spine which allows them to move very quickly."
+do
+6
+13
+cheetah
+2640
+Is a cheetah flexible?
+"Cheetahs have an incredibly flexible spine which allows them to move very quickly."
+be
+4
+13
+cheetah
+2641
+Does a cheetah have a flexible body?
+"Cheetahs have an incredibly flexible spine which allows them to move very quickly."
+do
+7
+13
+cheetah
+2642
+Can cheetahs move their body easily?
+"Cheetahs have an incredibly flexible spine which allows them to move very quickly."
+Default
+6
+13
+cheetah
+2643
+Are there different types of cheetahs?
+"There are four common types of cheetahs: Northern, Southern, East, and Central African cheetahs."
+be
+6
+8
+cheetah
+2644
+Are there different species of cheetahs?
+"There are four common types of cheetahs: Northern, Southern, East, and Central African cheetahs."
+be
+6
+8
+cheetah
+2645
+Are all cheetahs the same?
+"There are four common types of cheetahs: Northern, Southern, East, and Central African cheetahs."
+be
+5
+8
+cheetah
+2646
+Is every cheetah the same?
+"There are four common types of cheetahs: Northern, Southern, East, and Central African cheetahs."
+be
+5
+8
+cheetah
+2647
+Is there a different type of cheetah?
+"There are four common types of cheetahs: Northern, Southern, East, and Central African cheetahs."
+be
+7
+8
+cheetah
+2648
+Where are cheetahs originally from?
+"It is unclear where exactly cheetahs are from, but from fossils that have been collected it suggest closer to Asia."
+where
+5
+8
+cheetah
+2649
+Are cheetahs originally from Africa?
+"It is unclear where exactly cheetahs are from, but from fossils that have been collected it suggest closer to Asia."
+be
+5
+8
+cheetah
+2650
+Where do cheetahs come from?
+"It is unclear where exactly cheetahs are from, but from fossils that have been collected it suggest closer to Asia."
+where
+5
+8
+cheetah
+2651
+Do cheetahs originate in Africa?
+"It is unclear where exactly cheetahs are from, but from fossils that have been collected it suggest closer to Asia."
+do
+5
+8
+cheetah
+2652
+Where are cheetahs historically from?
+"It is unclear where exactly cheetahs are from, but from fossils that have been collected it suggest closer to Asia."
+where
+5
+8
+cheetah
+2653
+Do male and female cheetahs look the same?
+"Males are usually slightly larger and have a bigger head, but otherwise they look quite similar."
+do
+8
+10
+cheetah
+2654
+Can you tell the difference between male and female cheetahs?
+"Males are usually slightly larger and have a bigger head, but otherwise they look quite similar."
+Default
+10
+10
+cheetah
+2655
+Can you see the difference between a boy cheetah and a girl cheetah?
+"Males are usually slightly larger and have a bigger head, but otherwise they look quite similar."
+Default
+13
+10
+cheetah
+2656
+Do boy and girl cheetahs look the same?
+"Males are usually slightly larger and have a bigger head, but otherwise they look quite similar."
+do
+8
+10
+cheetah
+2657
+Can you tell the difference between a male and a female cheetah?
+"Males are usually slightly larger and have a bigger head, but otherwise they look quite similar."
+Default
+12
+10
+cheetah
+2658
+Do cheetahs only live in flat lands? 
+"Cheetahs are commonly found in the praire, but they can also be found in bushy areas and mountains."
+do
+7
+7
+cheetah
+2659
+Can you only find a cheetah in a flat land?
+"Cheetahs are commonly found in the praire, but they can also be found in bushy areas and mountains."
+Default
+10
+7
+cheetah
+2660
+Where do cheetahs live?
+"Cheetahs are commonly found in the praire, but they can also be found in bushy areas and mountains."
+where
+4
+7
+cheetah
+2661
+Can you only find a cheetah in the prairie?
+"Cheetahs are commonly found in the praire, but they can also be found in bushy areas and mountains."
+Default
+9
+7
+cheetah
+2662
+Can you only find cheetahs in the prairie?
+"Cheetahs are commonly found in the praire, but they can also be found in bushy areas and mountains."
+Default
+8
+7
+cheetah
+2663
+Are cheetahs raised in the same place? 
+"When cheetahs are young their moms move them from place to place to prevent predators from detecting their scent."
+be
+7
+19
+cheetah
+2664
+Is a cheetah cub born and raised in the same place?
+"When cheetahs are young their moms move them from place to place to prevent predators from detecting their scent."
+be
+11
+19
+cheetah
+2665
+Does a cub live in the same place?
+"When cheetahs are young their moms move them from place to place to prevent predators from detecting their scent."
+do
+8
+19
+Default
+2666
+Do cubs live in the same place?
+"When cheetahs are young their moms move them from place to place to prevent predators from detecting their scent."
+do
+7
+19
+Default
+2667
+Is a cheetah raised in the same place?
+"When cheetahs are young their moms move them from place to place to prevent predators from detecting their scent."
+be
+8
+19
+cheetah
+2668
+Are cheetahs related to cougars?
+"Cheetahs and cougars are similar and related species-wise, but cougars are more commonly found in North and South America."
+be
+5
+8
+cheetah
+2669
+Are cheetahs the same as cougars?
+"Cheetahs and cougars are similar and related species-wise, but cougars are more commonly found in North and South America."
+be
+6
+8
+cheetah
+2670
+Is a cheetah the same as a cougar?
+"Cheetahs and cougars are similar and related species-wise, but cougars are more commonly found in North and South America."
+be
+8
+8
+cheetah
+2671
+Is a cheetah related to a couger?
+"Cheetahs and cougars are similar and related species-wise, but cougars are more commonly found in North and South America."
+be
+7
+8
+cheetah
+2672
+Are cheetahs and cougers the same?
+"Cheetahs and cougars are similar and related species-wise, but cougars are more commonly found in North and South America."
+be
+6
+8
+cheetah
+2673
+Are cheetahs related to lions?
+"Cheetahs and lions are similar and related species-wise, but lions typically live in prides (groups) while cheetahs do not."
+be
+5
+8
+lion
+2674
+Are cheetahs the same as lions?
+"Cheetahs and lions are similar and related species-wise, but lions typically live in prides (groups) while cheetahs do not."
+be
+6
+8
+lion
+2675
+Is a cheetah the same as a lion?
+"Cheetahs and lions are similar and related species-wise, but lions typically live in prides (groups) while cheetahs do not."
+be
+8
+8
+lion
+2676
+Is a cheetah related to a lion?
+"Cheetahs and lions are similar and related species-wise, but lions typically live in prides (groups) while cheetahs do not."
+be
+7
+8
+lion
+2677
+Are cheetahs and lions the same?
+"Cheetahs and lions are similar and related species-wise, but lions typically live in prides (groups) while cheetahs do not."
+be
+6
+8
+lion
+2678
+Are cheetahs related to tigers?
+"Cheetahs and tigers are similar and related species-wise, but tiger are more commonly found in Asia."
+be
+5
+8
+tiger
+2679
+Are cheetahs the same as tigers?
+"Cheetahs and tigers are similar and related species-wise, but tiger are more commonly found in Asia."
+be
+6
+8
+tiger
+2680
+Is a cheetah the same as a tiger?
+"Cheetahs and tigers are similar and related species-wise, but tiger are more commonly found in Asia."
+be
+8
+8
+tiger
+2681
+Is a cheetah related to a tiger?
+"Cheetahs and tigers are similar and related species-wise, but tiger are more commonly found in Asia."
+be
+7
+8
+tiger
+2682
+Are cheetahs and tigers the same?
+"Cheetahs and tigers are similar and related species-wise, but tiger are more commonly found in Asia."
+be
+6
+8
+tiger
+2683
+Are cheetahs related to jaguars?
+"Cheetahs and jaguars are similar and related species-wise, but jaguars have smaller two-toned spots while cheetahs have simple black spots."
+be
+5
+8
+cheetah
+2684
+Are cheetahs the same as jaguars?
+"Cheetahs and jaguars are similar and related species-wise, but jaguars have smaller two-toned spots while cheetahs have simple black spots."
+be
+6
+8
+cheetah
+2685
+Is a cheetah the same as a jaguar?
+"Cheetahs and jaguars are similar and related species-wise, but jaguars have smaller two-toned spots while cheetahs have simple black spots."
+be
+8
+8
+cheetah
+2686
+Is a cheetah related to a jaguar?
+"Cheetahs and jaguars are similar and related species-wise, but jaguars have smaller two-toned spots while cheetahs have simple black spots."
+be
+7
+8
+cheetah
+2687
+Are cheetahs and jaguars the same?
+"Cheetahs and jaguars are similar and related species-wise, but jaguars have smaller two-toned spots while cheetahs have simple black spots."
+be
+6
+8
+cheetah
+2688
+Are cheetahs related to leopards?
+"Cheetahs and leopards are similar and related species-wise, but leopards have a more complex pattern of spots on their fur."
+be
+5
+8
+leopard
+2689
+Are cheetahs the same as leopards?
+"Cheetahs and leopards are similar and related species-wise, but leopards have a more complex pattern of spots on their fur."
+be
+6
+8
+leopard
+2690
+Is a cheetah the same as a leopard?
+"Cheetahs and leopards are similar and related species-wise, but leopards have a more complex pattern of spots on their fur."
+be
+8
+8
+leopard
+2691
+Is a cheetah related to a leopard?
+"Cheetahs and leopards are similar and related species-wise, but leopards have a more complex pattern of spots on their fur."
+be
+7
+8
+leopard
+2692
+Are cheetahs and leopords the same?
+"Cheetahs and leopards are similar and related species-wise, but leopards have a more complex pattern of spots on their fur."
+be
+6
+8
+cheetah
+2693
+How do cheetahs run so fast?
+"Cheetahs have long, slender limbs with specialized muscles that allow them to accelerate."
+how
+6
+3
+cheetah
+2694
+How can cheetahs run so quickly?
+"Cheetahs have long, slender limbs with specialized muscles that allow them to accelerate."
+how
+6
+3
+cheetah
+2695
+How does a cheetah run so fast?
+"Cheetahs have long, slender limbs with specialized muscles that allow them to accelerate."
+how
+7
+3
+cheetah
+2696
+How does a cheegah run so quickly?
+"Cheetahs have long, slender limbs with specialized muscles that allow them to accelerate."
+how
+7
+3
+Default
+2697
+What lets cheetahs run so fast?
+"Cheetahs have long, slender limbs with specialized muscles that allow them to accelerate."
+what
+6
+3
+cheetah
+2698
+Do cheetahs always catch their prey?
+"Cheetahs catch their prey 50% of the time."
+do
+6
+8
+cheetah
+2699
+Are cheetahs always successful when hunting?
+"Cheetahs catch their prey 50% of the time."
+when
+6
+8
+cheetah
+2700
+Does a cheetah always catch its prey?
+"Cheetahs catch their prey 50% of the time."
+do
+7
+8
+cheetah
+2701
+Is a cheetah always succesful when hunting?
+"Cheetahs catch their prey 50% of the time."
+when
+7
+8
+cheetah
+2702
+Does a cheetah always have a successful hunt?
+"Cheetahs catch their prey 50% of the time."
+do
+8
+8
+cheetah
+2703
+Did we ever use cheetahs?
+"In 1700 B.C. the Egyptians were the first to tame the cheetahs as hunting partners."
+Default
+5
+15
+cheetah
+2704
+Did humans ever use cheetahs?
+"In 1700 B.C. the Egyptians were the first to tame the cheetahs as hunting partners."
+Default
+5
+15
+cheetah
+2705
+Did humans ever work together with cheetahs?
+"In 1700 B.C. the Egyptians were the first to tame the cheetahs as hunting partners."
+Default
+7
+15
+cheetah
+2706
+Did humans ever tame cheetahs?
+"In 1700 B.C. the Egyptians were the first to tame the cheetahs as hunting partners."
+Default
+5
+15
+cheetah
+2707
+Have we ever tamed cheetahs? 
+"In 1700 B.C. the Egyptians were the first to tame the cheetahs as hunting partners."
+Default
+5
+15
+cheetah
+2708
+Why don't cheetahs sleep during the day like most cats?
+"Unlike most cats cheetahs sleep during the night so that they can hunt during the day time ."
+why
+10
+17
+cheetah
+2709
+Why does a cheetah not sleep during the day like most cats?
+"Unlike most cats cheetahs sleep during the night so that they can hunt during the day time ."
+why
+12
+17
+cheetah
+2710
+Why does a cheetah not sleep during the day?
+"Unlike most cats cheetahs sleep during the night so that they can hunt during the day time ."
+why
+9
+17
+cheetah
+2711
+Why do cheetahs not sleep during the day?
+"Unlike most cats cheetahs sleep during the night so that they can hunt during the day time ."
+why
+8
+17
+cheetah
+2712
+Why don't cheetahs sleep during the day?
+"Unlike most cats cheetahs sleep during the night so that they can hunt during the day time ."
+why
+7
+17
+cheetah
+2713
+Do cheetahs need more air when they run?
+"A cheetah will take up to 150 breaths per minute during a high-speed chase- nearly three times their normal respiratory rate."
+when
+8
+21
+cheetah
+2714
+How much more air do cheetahs need when they run?
+"A cheetah will take up to 150 breaths per minute during a high-speed chase- nearly three times their normal respiratory rate."
+when
+10
+21
+cheetah
+2715
+Do cheetahs breathe more when they run?
+"A cheetah will take up to 150 breaths per minute during a high-speed chase- nearly three times their normal respiratory rate."
+when
+7
+21
+cheetah
+2716
+Does a cheetah breathe more when it runs?
+"A cheetah will take up to 150 breaths per minute during a high-speed chase- nearly three times their normal respiratory rate."
+when
+8
+21
+cheetah

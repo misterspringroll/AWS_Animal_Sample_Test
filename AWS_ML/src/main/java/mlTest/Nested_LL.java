@@ -2,6 +2,8 @@ package mlTest;
 
 import java.util.LinkedList;
 
+import mlTest.Nested_LL.QA_deposit;
+
 public class Nested_LL {
 	public static class QA_deposit{
 		private int txt_index;
@@ -11,11 +13,11 @@ public class Nested_LL {
 		private int A_count;
 		public QA_deposit(int a, String b, String c, int d, int e)
 		{
-			txt_index = a;
-			txt_Question = b;
-			txt_Answer = c;
-			Q_count = d;
-			A_count = e;
+			this.txt_index = a;
+			this.txt_Question = b;
+			this.txt_Answer = c;
+			this.Q_count = d;
+			this.A_count = e;
 		}
 		public int get_index(){
 			return this.txt_index;
@@ -29,53 +31,51 @@ public class Nested_LL {
 		public int get_Qcount(){
 			return this.Q_count;
 		}
-		public int getAcount(){
+		public int get_A_count(){
 			return this.A_count;
 		}
 	}
 	public static class MyQType {
         private String question_type;
-        private LinkedList QA_deposit;
+        private LinkedList<QA_deposit> QA_deposit;
         public MyQType next;
         public MyQType (){
         	this.question_type = null;
-            this.QA_deposit = new LinkedList();
+            this.QA_deposit = new LinkedList<QA_deposit>();
             this.next = null;
         }
         private MyQType(int txt_index, String txt_Question, String txt_Answer, String Q_Type, int Q_count, int A_count) {
             this.question_type = Q_Type;
-            this.QA_deposit = new LinkedList();
+            this.QA_deposit = new LinkedList<QA_deposit>();
     		QA_deposit temp = new QA_deposit(txt_index,txt_Question,txt_Answer,Q_count,A_count);
             this.get_QA().add(temp);
             this.next = new MyQType();
         }
         protected void add(int txt_index, String txt_Question, String txt_Answer, String Q_Type, int Q_count, int A_count) {
+        	MyQType temp = this;
         	if (this.get_question_type() == null)
         	{
         		this.question_type = Q_Type;
-        		this.QA_deposit = new LinkedList();
-        		QA_deposit temp = new QA_deposit(txt_index,txt_Question,txt_Answer,Q_count,A_count);
-	            this.get_QA().add(temp);
+        		this.QA_deposit = new LinkedList<QA_deposit>();
+        		QA_deposit temp_QA = new QA_deposit(txt_index,txt_Question,txt_Answer,Q_count,A_count);
+	            temp.get_QA().add(temp_QA);
 	            this.next = new MyQType();
 	            return;
         	}
-        	MyQType temp = this;
-        	while (temp.next != null)
+        	else if (temp.get_question_type().contains(Q_Type))
         	{
-        		if (temp.get_question_type()==Q_Type)
-        		{
-        			QA_deposit temp_QA = new QA_deposit(txt_index,txt_Question,txt_Answer,Q_count,A_count);
-        			temp.get_QA().add(temp_QA);
-        			return;
-        		}
-        		temp = temp.next;
+        		QA_deposit temp_QA = new QA_deposit(txt_index,txt_Question,txt_Answer,Q_count,A_count);
+    			temp.get_QA().add(temp_QA);
         	}
-        	temp.next = new MyQType(txt_index,txt_Question,txt_Answer,Q_Type,Q_count,A_count);
+        	else
+        	{
+        		temp.next.add(txt_index, txt_Question, txt_Answer, Q_Type, Q_count, A_count);
+        	}
         }
         public String get_question_type(){
         	return this.question_type;
         }
-        public LinkedList get_QA(){
+        public LinkedList<QA_deposit> get_QA(){
         	return QA_deposit;
         }
     }
@@ -96,6 +96,7 @@ public class Nested_LL {
         }
         // txt_index,txt_Question,txt_Answer,Q_Type,Q_count,A_count,txt_Subject
         public void add(int txt_index, String txt_Question, String txt_Answer, String Q_Type, int Q_count, int A_count, String txt_Subject) {
+    		MyNode temp = this;
         	if (this.get_animal_name() == null)
         	{
         		this.animal_name = txt_Subject;
@@ -104,17 +105,14 @@ public class Nested_LL {
 	            this.next = new MyNode();
 	            return;
         	}
-        	MyNode temp = this;
-        	while (temp.next != null)
+        	else if(temp.get_animal_name().contains(txt_Subject))
         	{
-        		if (temp.get_animal_name()==txt_Subject)
-        		{
-        			temp.get_ll().add(txt_index,txt_Question,txt_Answer,Q_Type,Q_count,A_count);
-        			return;
-        		}
-        		temp = temp.next;
+        		temp.get_ll().add(txt_index,txt_Question,txt_Answer,Q_Type,Q_count,A_count);
         	}
-        	temp.next = new MyNode(txt_index, txt_Question, txt_Answer, Q_Type, Q_count, A_count, txt_Subject);
+        	else
+        	{
+        		temp.next.add(txt_index, txt_Question, txt_Answer, Q_Type, Q_count, A_count, txt_Subject);
+        	}
         }
         public String get_animal_name(){
         	return this.animal_name;

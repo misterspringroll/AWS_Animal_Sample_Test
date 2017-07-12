@@ -31,11 +31,11 @@ public class QuestionInput {
         System.out.println("The Term count of this question is: " + Question_length);
         passing_list = LocalDataBaseSetup.GetPassingList(Main_Depo, Animal_Classify, Question_Type);
         QA_Answer = ExactMatch.ExactMatching(Question, passing_list);
-        if (QA_Answer != null) // only do ML model based prediction when exact matching fails
+        if (QA_Answer == null) // only do ML model based prediction when exact matching fails
         {
         	int index_num = AWS_ML_Pre.AWS_ML_QA(Question_Type, Animal_Classify, Question_length, passing_list);
-        	QA_Answer = LocalDataBaseSetup.GetLocalAnswer(index_num);
         	System.out.println("Question Index is: " + index_num);
+        	QA_Answer = LocalDataBaseSetup.GetLocalAnswer(index_num);
         }
         System.out.println("The Answer is: " + QA_Answer);
     }

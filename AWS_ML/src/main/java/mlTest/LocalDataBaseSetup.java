@@ -61,29 +61,31 @@ public class LocalDataBaseSetup {
        	line_num2 ++;
         line2 = in2.readLine();
        }
+       in2.close();
        return Main_Depo;
 	}
 	public static LinkedList GetPassingList(MyNode depo, String animal, String QType){
-		LinkedList temp = null;
+		LinkedList temp = new LinkedList();
 		MyQType temp_QA  = null;
 		MyNode temp_depo = depo;
 		while (temp_depo.next != null)
     	{
-    		if (temp_depo.get_animal_name() == animal)
+    		if (temp_depo.get_animal_name().contains(animal))
     		{
     			temp_QA = temp_depo.get_ll();
     			break;
     		}
     		temp_depo = temp_depo.next;
     	}
-		while (temp_QA.next != null)
+
+		while (temp_QA != null)
     	{
-    		if (temp_QA.get_question_type() == QType)
+    		if (temp_QA.get_question_type().contains(QType))
     		{
     			temp = temp_QA.get_QA();
     			break;
     		}
-    		temp_depo = temp_depo.next;
+    		temp_QA = temp_QA.next;
     	}
 		return temp;
 	}
@@ -94,10 +96,11 @@ public class LocalDataBaseSetup {
     	int line_num = 0;
     	in = new BufferedReader(new FileReader("E:\\workspace\\AWS_ML\\src\\main\\resources\\Perfect_Depository.txt"));
     	line = in.readLine();
+    	int line_target = 7 * index_num - 4;
     	while(line != null)
     	{
     		line_num ++;
-    		if (line_num == index_num)
+    		if (line_num == line_target)
     		{
     			String answer = line;
     			return_answer = answer; 

@@ -33,9 +33,8 @@ public class QuestionInput {
         QA_Answer = ExactMatch.ExactMatching(Question, passing_list);
         if (QA_Answer == null) // only do ML model based prediction when exact matching fails
         {
-        	int index_num = AWS_ML_Pre.AWS_ML_QA(Question_Type, Animal_Classify, Question_length, passing_list);
-        	System.out.println("Question Index is: " + index_num);
-        	QA_Answer = LocalDataBaseSetup.GetLocalAnswer(index_num);
+        	System.out.println("Exact Mathing Failed.. Triggering AWS Machine Learning Based QA System...");
+        	QA_Answer = AWS_ML_Pre.AWS_ML_QA(Question_Type, Animal_Classify, Question_length, passing_list);
         }
         System.out.println("The Answer is: " + QA_Answer);
     }

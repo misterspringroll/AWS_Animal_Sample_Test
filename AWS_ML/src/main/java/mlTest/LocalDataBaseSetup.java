@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import mlTest.Nested_LL.MyNode;
 import mlTest.Nested_LL.MyQType;
 public class LocalDataBaseSetup {
+	// Initialize the local database, reading from txt file
 	public static MyNode Initialization() throws IOException{
 		MyNode Main_Depo = new MyNode();
 		String line2;
@@ -64,8 +65,9 @@ public class LocalDataBaseSetup {
        in2.close();
        return Main_Depo;
 	}
-	public static LinkedList GetPassingList(MyNode depo, String animal, String QType){
-		LinkedList temp = new LinkedList();
+	// After obtaining the user-inputed question, return the list of possible answers from the local database
+	public static LinkedList<?> GetPassingList(MyNode depo, String animal, String QType){
+		LinkedList<?> temp = new LinkedList<Object>();
 		MyQType temp_QA  = null;
 		MyNode temp_depo = depo;
 		while (temp_depo.next != null)
@@ -88,27 +90,5 @@ public class LocalDataBaseSetup {
     		temp_QA = temp_QA.next;
     	}
 		return temp;
-	}
-	public static String GetLocalAnswer(int index_num) throws IOException{
-		String line;
-		String return_answer = null;
-    	BufferedReader in;
-    	int line_num = 0;
-    	in = new BufferedReader(new FileReader("E:\\workspace\\AWS_ML\\src\\main\\resources\\Perfect_Depository.txt"));
-    	line = in.readLine();
-    	int line_target = 7 * index_num - 4;
-    	while(line != null)
-    	{
-    		line_num ++;
-    		if (line_num == line_target)
-    		{
-    			String answer = line;
-    			return_answer = answer; 
-    			break;
-    		}
-    		line = in.readLine();
-    	}
-    	in.close();
-    	return return_answer;
 	}
 }

@@ -13,6 +13,7 @@ public class ExactMatch {
 		for (int i = 0; i < passing_list.size()-1; i++)
 		{
 			temp = (QA_deposit) passing_list.get(i);
+			// If the questions are exactly matched to the data in the local database
 			if (temp.get_Question().contains(Question))
 			{
 				return_answer = temp.get_Answer();

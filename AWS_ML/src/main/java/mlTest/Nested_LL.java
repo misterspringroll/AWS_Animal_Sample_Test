@@ -5,6 +5,7 @@ import java.util.LinkedList;
 import mlTest.Nested_LL.QA_deposit;
 
 public class Nested_LL {
+	// Datatype to put in the nested linked list
 	public static class QA_deposit{
 		private int txt_index;
 		private String txt_Question;
@@ -35,6 +36,7 @@ public class Nested_LL {
 			return this.A_count;
 		}
 	}
+	// Nested Linked List
 	public static class MyQType {
         private String question_type;
         private LinkedList<QA_deposit> QA_deposit;
@@ -43,13 +45,6 @@ public class Nested_LL {
         	this.question_type = null;
             this.QA_deposit = new LinkedList<QA_deposit>();
             this.next = null;
-        }
-        private MyQType(int txt_index, String txt_Question, String txt_Answer, String Q_Type, int Q_count, int A_count) {
-            this.question_type = Q_Type;
-            this.QA_deposit = new LinkedList<QA_deposit>();
-    		QA_deposit temp = new QA_deposit(txt_index,txt_Question,txt_Answer,Q_count,A_count);
-            this.get_QA().add(temp);
-            this.next = new MyQType();
         }
         protected void add(int txt_index, String txt_Question, String txt_Answer, String Q_Type, int Q_count, int A_count) {
         	MyQType temp = this;
@@ -79,6 +74,7 @@ public class Nested_LL {
         	return QA_deposit;
         }
     }
+	// First Linked List
 	public static class MyNode {
         private String animal_name;
         private MyQType ll_deposit;
@@ -88,13 +84,6 @@ public class Nested_LL {
             this.ll_deposit = new MyQType();
             this.next = null;
         }
-        private MyNode(int txt_index, String txt_Question, String txt_Answer, String Q_Type, int Q_count, int A_count, String txt_Subject) {
-            this.animal_name = txt_Subject;
-            this.ll_deposit = new MyQType();
-            this.get_ll().add(txt_index,txt_Question,txt_Answer,Q_Type,Q_count,A_count);
-            this.next = new MyNode();
-        }
-        // txt_index,txt_Question,txt_Answer,Q_Type,Q_count,A_count,txt_Subject
         public void add(int txt_index, String txt_Question, String txt_Answer, String Q_Type, int Q_count, int A_count, String txt_Subject) {
     		MyNode temp = this;
         	if (this.get_animal_name() == null)

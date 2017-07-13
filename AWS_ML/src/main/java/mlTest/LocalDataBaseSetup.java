@@ -16,7 +16,7 @@ public class LocalDataBaseSetup {
         String classify = null;
         double currentline = 0;
         int line_num2 = 0;
-		 in2 = new BufferedReader(new FileReader("E:\\workspace\\AWS_ML\\src\\main\\resources\\Perfect_Depository.txt"));
+		 in2 = new BufferedReader(new FileReader("C:\\Users\\chunm\\OneDrive\\FungFellowship\\project\\AWS_Animal_Sample_Test\\AWS_ML\\src\\main\\resources\\Perfect_Depository.txt"));
         line2 = in2.readLine();
         /* Initialize data collectors*/
         int txt_index = 0;

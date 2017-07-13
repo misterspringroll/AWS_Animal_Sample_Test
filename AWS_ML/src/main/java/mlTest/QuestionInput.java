@@ -7,6 +7,11 @@ import java.io.IOException;
 import java.util.Scanner;
 import mlTest.Nested_LL.MyNode;
 
+import org.tensorflow.Graph;
+import org.tensorflow.Session;
+import org.tensorflow.Tensor;
+import org.tensorflow.TensorFlow;
+
 public class QuestionInput {
 	/* the main*/
 	public static void main(String[] args) throws IOException{
@@ -15,6 +20,17 @@ public class QuestionInput {
         int Question_length;
         LinkedList passing_list = null;
         while(true){
+
+        	
+		Graph g = new Graph();
+		final String value = "Hello from " + TensorFlow.version();
+		Tensor t = Tensor.create(value.getBytes("UTF-8"));
+		g.opBuilder("Const", "MyConst").setAttr("dtype", t.dataType()).setAttr("value", t).build();	
+		Session s = new Session(g);
+		Tensor output = s.runner().fetch("MyConst").run().get(0);
+		System.out.println(new String(output.bytesValue(), "UTF-8"));
+			 	
+        	
 		Scanner reader = new Scanner(System.in);
         System.out.println("Please enter your question, enter exit to quit:");
         String Question = reader.nextLine();

@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import mlTest.Nested_LL.MyNode;
 import mlTest.Nested_LL.MyQType;
 public class LocalDataBaseSetup {
+	// Initialize the local database, reading from txt file
 	public static MyNode Initialization() throws IOException{
 		MyNode Main_Depo = new MyNode();
 		String line2;
@@ -15,15 +16,15 @@ public class LocalDataBaseSetup {
         String classify = null;
         double currentline = 0;
         int line_num2 = 0;
-		 in2 = new BufferedReader(new FileReader("E:\\workspace\\AWS_ML\\src\\main\\resources\\Perfect_Depository.txt"));
+		 in2 = new BufferedReader(new FileReader("src\\main\\resources\\Perfect_Depository.txt"));
         line2 = in2.readLine();
         /* Initialize data collectors*/
-        int txt_index = 0;
         String txt_Question = null;
         String txt_Answer = null;
         String Q_Type = null;
         int Q_count = 0;
         int A_count = 0;
+        int A_Num_count = 0;
         String txt_Subject = null;
         while(line2 != null)
        {
@@ -31,81 +32,63 @@ public class LocalDataBaseSetup {
        	 String data = line2;
        	 if (line_num2 % 7 == 0)
        	 {
-       		 txt_index = Integer.parseInt(data);
+       		 txt_Question = data;
        	 }
        	 else if (line_num2 % 7 == 1)
        	 {
-       		 txt_Question = data;
+       		 txt_Answer = data;
        	 }
        	else if (line_num2 % 7 == 2)
       	 {
-      		 txt_Answer = data;
+       		 Q_Type = data;
       	 }
        	else if (line_num2 % 7 == 3)
       	 {
-      		 Q_Type = data;
+       		 Q_count = Integer.parseInt(data);
       	 }
        	else if (line_num2 % 7 == 4)
      	 {
-     		 Q_count = Integer.parseInt(data);
+       		 A_count = Integer.parseInt(data);
      	 }
        	else if (line_num2 % 7 == 5)
      	 {
-       		A_count = Integer.parseInt(data);
+       		 A_Num_count = Integer.parseInt(data);
      	 }
        	 else
        	 {
        		txt_Subject = data;
-       		Main_Depo.add(txt_index,txt_Question,txt_Answer,Q_Type,Q_count,A_count,txt_Subject);
+       		Main_Depo.add(A_Num_count,txt_Question,txt_Answer,Q_Type,Q_count,A_count,txt_Subject);
        	 }
        	line_num2 ++;
         line2 = in2.readLine();
        }
+       in2.close();
        return Main_Depo;
 	}
-	public static LinkedList GetPassingList(MyNode depo, String animal, String QType){
-		LinkedList temp = null;
+	// After obtaining the user-inputed question, return the list of possible answers from the local database
+	public static LinkedList<?> GetPassingList(MyNode depo, String animal, String QType){
+		LinkedList<?> temp = new LinkedList<Object>();
 		MyQType temp_QA  = null;
 		MyNode temp_depo = depo;
 		while (temp_depo.next != null)
     	{
-    		if (temp_depo.get_animal_name() == animal)
+    		if (temp_depo.get_animal_name().contains(animal))
     		{
     			temp_QA = temp_depo.get_ll();
     			break;
     		}
     		temp_depo = temp_depo.next;
     	}
-		while (temp_QA.next != null)
+
+		while (temp_QA != null)
     	{
-    		if (temp_QA.get_question_type() == QType)
+    		if (temp_QA.get_question_type().contains(QType))
     		{
     			temp = temp_QA.get_QA();
     			break;
     		}
-    		temp_depo = temp_depo.next;
+    		temp_QA = temp_QA.next;
     	}
 		return temp;
-	}
-	public static String GetLocalAnswer(int index_num) throws IOException{
-		String line;
-		String return_answer = null;
-    	BufferedReader in;
-    	int line_num = 0;
-    	in = new BufferedReader(new FileReader("E:\\workspace\\AWS_ML\\src\\main\\resources\\Perfect_Depository.txt"));
-    	line = in.readLine();
-    	while(line != null)
-    	{
-    		line_num ++;
-    		if (line_num == index_num)
-    		{
-    			String answer = line;
-    			return_answer = answer; 
-    			break;
-    		}
-    		line = in.readLine();
-    	}
-    	in.close();
-    	return return_answer;
 	}
 }

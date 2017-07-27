@@ -5,11 +5,33 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
+import edu.cmu.sphinx.api.Configuration;
+import edu.cmu.sphinx.api.LiveSpeechRecognizer;
+import edu.cmu.sphinx.api.SpeechResult;
+import edu.cmu.sphinx.api.StreamSpeechRecognizer;
 import mlTest.Nested_LL.MyNode;
 
 public class QuestionInput {
 	/* the main*/
 	public static void main(String[] args) throws IOException{
+		Configuration configuration = new Configuration();
+	    configuration.setAcousticModelPath("resource:/edu/cmu/sphinx/models/en-us/en-us");
+	    configuration.setDictionaryPath("resource:/edu/cmu/sphinx/models/en-us/cmudict-en-us.dict");
+	    configuration.setLanguageModelPath("resource:/edu/cmu/sphinx/models/en-us/en-us.lm.bin");
+		LiveSpeechRecognizer recognizer = new LiveSpeechRecognizer(configuration);
+		// Start recognition process pruning previously cached data.
+		recognizer.startRecognition(true);
+	    while(true)
+	    {
+		SpeechResult result = recognizer.getResult();
+		// Pause recognition process. It can be resumed then with startRecognition(false).
+	    System.out.format("Hypothesis: %s\n", result.getHypothesis());
+	    if (result.getHypothesis().contains("exit"))
+	    {
+	    	break;
+	    }
+	    }
+		recognizer.stopRecognition();
 		MyNode Main_Depo = LocalDataBaseSetup.Initialization();
         String Animal_Classify, Question_Type, QA_Answer;
         int Question_length;

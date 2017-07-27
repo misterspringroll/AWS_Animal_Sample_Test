@@ -25,6 +25,7 @@ public class QuestionInput {
 		SpeechResult result = recognizer.getResult();
 		// Pause recognition process. It can be resumed then with startRecognition(false).
 	    System.out.format("Hypothesis: %s\n", result.getHypothesis());
+	    // String InputStream = result.getHypothesis();
 	    if (result.getHypothesis().contains("exit"))
 	    {
 	    	break;

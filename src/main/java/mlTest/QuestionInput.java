@@ -8,7 +8,6 @@ import java.util.Scanner;
 import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.LiveSpeechRecognizer;
 import edu.cmu.sphinx.api.SpeechResult;
-import edu.cmu.sphinx.api.StreamSpeechRecognizer;
 import mlTest.Nested_LL.MyNode;
 
 public class QuestionInput {

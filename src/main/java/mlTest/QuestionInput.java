@@ -13,6 +13,7 @@ import mlTest.Nested_LL.MyNode;
 public class QuestionInput {
 	/* the main*/
 	public static void main(String[] args) throws IOException{
+		/*
 		Configuration configuration = new Configuration();
 	    configuration.setAcousticModelPath("resource:/edu/cmu/sphinx/models/en-us/en-us");
 	    configuration.setDictionaryPath("resource:/edu/cmu/sphinx/models/en-us/cmudict-en-us.dict");
@@ -32,6 +33,7 @@ public class QuestionInput {
 	    }
 	    }
 		recognizer.stopRecognition();
+		*/
 		MyNode Main_Depo = LocalDataBaseSetup.Initialization();
         String Animal_Classify, Question_Type, QA_Answer;
         int Question_length;
@@ -59,6 +61,8 @@ public class QuestionInput {
         	QA_Answer = AWS_ML_Pre.AWS_ML_QA(Question_Type, Animal_Classify, Question_length, passing_list);
         }
         System.out.println("The Answer is: " + QA_Answer);
+        TextToSpeech voice = new TextToSpeech("kevin");
+        voice.Voice_Output(QA_Answer);
     }
 	}
 }

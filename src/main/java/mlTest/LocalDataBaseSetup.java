@@ -16,7 +16,7 @@ public class LocalDataBaseSetup {
 		String line2;
         BufferedReader in2;
         int line_num2 = 0;
-        in2 = new BufferedReader(new InputStreamReader(LocalDataBaseSetup.class.getClassLoader().getResourceAsStream("Perfect_Depository.txt")));
+        in2 = new BufferedReader(new InputStreamReader(LocalDataBaseSetup.class.getResourceAsStream("/Perfect_Depository.txt")));
         line2 = in2.readLine();
         /* Initialize data collectors*/
         String txt_Question = null;

@@ -6,11 +6,16 @@ public class TextToSpeech {
 	private Voice voice;
 	public TextToSpeech(String input){
 		this.name = input;
-		this.voice = VoiceManager.getInstance().getVoice(this.name);
-		this.voice.allocate();
+        VoiceManager voiceManager = VoiceManager.getInstance();
+        System.out.println("voiceManager: " + voiceManager);
+        Voice helloVoice = voiceManager.getVoice(this.name);
+        System.out.println("helloVoice: " + helloVoice);
+        this.voice = helloVoice;
+        this.voice.allocate();
 	}
 	public void Voice_Output(String input)
 	{
 		this.voice.speak(input);
+		this.voice.deallocate();
 	}
 }

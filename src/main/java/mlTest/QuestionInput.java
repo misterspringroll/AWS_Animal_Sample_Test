@@ -61,7 +61,7 @@ public class QuestionInput {
         	QA_Answer = AWS_ML_Pre.AWS_ML_QA(Question_Type, Animal_Classify, Question_length, passing_list);
         }
         System.out.println("The Answer is: " + QA_Answer);
-        TextToSpeech voice = new TextToSpeech("kevin");
+        TextToSpeech voice = new TextToSpeech("kevin16");
         voice.Voice_Output(QA_Answer);
     }
 	}

@@ -3,6 +3,8 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.LinkedList;
 
 import mlTest.Nested_LL.MyNode;
@@ -13,10 +15,8 @@ public class LocalDataBaseSetup {
 		MyNode Main_Depo = new MyNode();
 		String line2;
         BufferedReader in2;
-        String classify = null;
-        double currentline = 0;
         int line_num2 = 0;
-		 in2 = new BufferedReader(new FileReader("src\\main\\resources\\Perfect_Depository.txt"));
+        in2 = new BufferedReader(new InputStreamReader(LocalDataBaseSetup.class.getClassLoader().getResourceAsStream("Perfect_Depository.txt")));
         line2 = in2.readLine();
         /* Initialize data collectors*/
         String txt_Question = null;

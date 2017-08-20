@@ -22,6 +22,7 @@ public class LocalDataBaseSetup {
         String txt_Question = null;
         String txt_Answer = null;
         String Q_Type = null;
+        String Q_id = null;
         int Q_count = 0;
         int A_count = 0;
         int A_Num_count = 0;
@@ -30,35 +31,39 @@ public class LocalDataBaseSetup {
        {
          // Classify the type of input data
        	 String data = line2;
-       	 if (line_num2 % 7 == 0)
+       	 if (line_num2 % 8 == 0)
        	 {
        		 txt_Question = data;
        	 }
-       	 else if (line_num2 % 7 == 1)
+       	 else if (line_num2 % 8 == 1)
        	 {
        		 txt_Answer = data;
        	 }
-       	else if (line_num2 % 7 == 2)
+       	else if (line_num2 % 8 == 2)
       	 {
        		 Q_Type = data;
       	 }
-       	else if (line_num2 % 7 == 3)
+       	else if (line_num2 % 8 == 3)
       	 {
        		 Q_count = Integer.parseInt(data);
       	 }
-       	else if (line_num2 % 7 == 4)
+       	else if (line_num2 % 8 == 4)
      	 {
        		 A_count = Integer.parseInt(data);
      	 }
-       	else if (line_num2 % 7 == 5)
+       	else if (line_num2 % 8 == 5)
      	 {
        		 A_Num_count = Integer.parseInt(data);
      	 }
-       	 else
+       	else if (line_num2 % 8 == 6)
        	 {
        		txt_Subject = data;
-       		Main_Depo.add(A_Num_count,txt_Question,txt_Answer,Q_Type,Q_count,A_count,txt_Subject);
        	 }
+       	else
+       	{
+       		Q_id = data;
+       		Main_Depo.add(A_Num_count,txt_Question,txt_Answer,Q_Type,Q_count,A_count,txt_Subject,Q_id);
+       	}
        	line_num2 ++;
         line2 = in2.readLine();
        }

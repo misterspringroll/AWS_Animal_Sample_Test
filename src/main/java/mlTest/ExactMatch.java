@@ -10,11 +10,12 @@ public class ExactMatch {
 		QA_deposit temp;
 		String return_answer = null;
 		if (passing_list.size() != 0){
-		for (int i = 0; i < passing_list.size()-1; i++)
+		for (int i = 0; i <= passing_list.size()-1; i++)
 		{
 			temp = (QA_deposit) passing_list.get(i);
+			String temp_Question = temp.get_Question();
 			// If the questions are exactly matched to the data in the local database
-			if (temp.get_Question().contains(Question))
+			if (temp_Question.equals(Question))
 			{
 				return_answer = temp.get_Answer();
 				break;

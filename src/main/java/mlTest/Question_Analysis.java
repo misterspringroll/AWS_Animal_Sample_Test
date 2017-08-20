@@ -37,7 +37,7 @@ public class Question_Analysis {
         {
         	Question_Type = "Default";
         }
-        return Question_Type;
+        return Question_Type.toLowerCase();
 	}
 	/* Return Animal Subject*/
 	public static String getQSubject(String inputQ)
@@ -75,7 +75,7 @@ public class Question_Analysis {
   		{
   			Q_Subject = "Default";
   		}
-		return Q_Subject;
+		return Q_Subject.toLowerCase();
 	}
 	/* return question length*/
 	public static int getQlength(String inputQ){

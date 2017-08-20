@@ -33,7 +33,7 @@ public class LocalDataBaseSetup {
        	 String data = line2;
        	 if (line_num2 % 8 == 0)
        	 {
-       		 txt_Question = data;
+       		 txt_Question = data.toLowerCase();
        	 }
        	 else if (line_num2 % 8 == 1)
        	 {
@@ -41,7 +41,7 @@ public class LocalDataBaseSetup {
        	 }
        	else if (line_num2 % 8 == 2)
       	 {
-       		 Q_Type = data;
+       		 Q_Type = data.toLowerCase();
       	 }
        	else if (line_num2 % 8 == 3)
       	 {
@@ -57,7 +57,7 @@ public class LocalDataBaseSetup {
      	 }
        	else if (line_num2 % 8 == 6)
        	 {
-       		txt_Subject = data;
+       		txt_Subject = data.toLowerCase();
        	 }
        	else
        	{

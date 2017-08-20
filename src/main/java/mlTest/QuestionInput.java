@@ -53,7 +53,7 @@ public class QuestionInput {
         //Main_Depo.System.out.println("Please enter your question, enter exit to quit:");
         //String Question = reader.nextLine();
         Question = args[arg_index];
-        Question = Question.replace('\\', ' ');
+        Question = Question.replace('\\', ' ').toLowerCase();
         //if (Question.toLowerCase().contains("exit"))
         //{
         //	return;

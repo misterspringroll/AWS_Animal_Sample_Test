@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import mlTest.Nested_LL.QA_deposit;
 
 public class Nested_LL {
-	// Datatype to put in the nested linked list
+	// Data type to put in the nested linked list
 	public static class QA_deposit{
 		private String Question_ID;
 		private String txt_Question;
@@ -62,7 +62,7 @@ public class Nested_LL {
 	            this.next = new MyQType();
 	            return;
         	}
-        	else if (temp.get_question_type().contains(Q_Type))
+        	else if (temp.get_question_type().equals(Q_Type))
         	{
         		QA_deposit temp_QA = new QA_deposit(A_Num_count,txt_Question,txt_Answer,Q_count,A_count,Question_ID);
     			temp.get_QA().add(temp_QA);
@@ -76,7 +76,7 @@ public class Nested_LL {
         	return this.question_type;
         }
         public LinkedList<QA_deposit> get_QA(){
-        	return QA_deposit;
+        	return this.QA_deposit;
         }
     }
 	// First Linked List
@@ -99,7 +99,7 @@ public class Nested_LL {
 	            this.next = new MyNode();
 	            return;
         	}
-        	else if(temp.get_animal_name().contains(txt_Subject))
+        	else if(temp.get_animal_name().equals(txt_Subject))
         	{
         		temp.get_ll().add(A_Num_count,txt_Question,txt_Answer,Q_Type,Q_count,A_count,Question_ID);
         	}
@@ -112,7 +112,7 @@ public class Nested_LL {
         	return this.animal_name;
         }
         public MyQType get_ll(){
-        	return ll_deposit;
+        	return this.ll_deposit;
         }
     }
 }

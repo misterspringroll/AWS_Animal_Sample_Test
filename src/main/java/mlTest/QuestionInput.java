@@ -1,14 +1,15 @@
 package mlTest;
 import java.util.*;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
-import java.util.Scanner;
+
 import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.LiveSpeechRecognizer;
 import edu.cmu.sphinx.api.SpeechResult;
+
+import java.io.BufferedInputStream;
 import mlTest.Nested_LL.MyNode;
+import javazoom.jl.decoder.JavaLayerException;
+import javazoom.jl.player.Player;
 
 public class QuestionInput {
 	/* the main*/
@@ -34,12 +35,14 @@ public class QuestionInput {
 	    }
 		recognizer.stopRecognition();
 		*/
+		int played = 0;
 		if (args.length < 1)
         {
         	return;
         }
 		MyNode Main_Depo = LocalDataBaseSetup.Initialization();
-        String Animal_Classify, Question_Type, QA_Answer;
+        String Animal_Classify, Question_Type;
+        String[] QA_Answer;
         int Question_length;
         LinkedList passing_list = null;
         int arg_index = 0;
@@ -76,14 +79,28 @@ public class QuestionInput {
         	continue;
         }
         QA_Answer = ExactMatch.ExactMatching(Question, passing_list);
-       if (QA_Answer == null) // only do ML model based prediction when exact matching fails
+       if (QA_Answer[0] == null) // only do ML model based prediction when exact matching fails
         {
         	//System.out.println("Exact Mathing Failed.. Triggering AWS Machine Learning Based QA System...");
         	//QA_Answer = AWS_ML_Pre.AWS_ML_QA(Question_Type, Animal_Classify, Question_length, passing_list);
     	   	System.out.println("No answer matched, please try another question...");
         }
        else{
-    	   System.out.println(QA_Answer);   
+    	   System.out.println(QA_Answer[0]);
+    	   if (played == 0)
+    	   {
+    		   try{
+    			     BufferedInputStream bis = new BufferedInputStream(QuestionInput.class.getResourceAsStream("/" + QA_Answer[1] + ".mp3"));
+    			     Player player = new Player(bis);
+    			     player.play();
+    			    }
+    			catch (JavaLayerException e)
+    			{
+    				e.printStackTrace();
+    			}
+    			
+    		   played += 1;
+    	   }
        }
         arg_index += 1;
     }

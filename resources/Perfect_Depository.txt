@@ -1,5 +1,5 @@
 The climate in the African Savanna is mostly?
-et
+Warm
 Default
 8
 1
@@ -7,15 +7,15 @@ Default
 Default
 SPQ.1
 What is a Savanna?
-A river that flows through a Safari
+A savanna is land that has a lot grass and very little trees.
 what
 4
-7
+13
 0
 Default
 SPQ.2
 Safari is Swahili for?
-Friendship
+Journey
 Default
 4
 1
@@ -23,7 +23,7 @@ Default
 Default
 SPQ.3
 Almost half of Africa is considered a?
-Rainforest
+Savanna
 Default
 7
 1
@@ -31,15 +31,15 @@ Default
 Default
 SPQ.4
 In a savanna, it rains?
-all year
+enough for grass and a few trees to grow.
 Default
 5
-2
+9
 0
 Default
 SPQ.5
 In the savanna, all animals are dependent upon each other for?
-moral support
+food supply
 Default
 11
 2
@@ -47,10 +47,10 @@ Default
 Default
 SPQ.6
 Grasslands exist?
-On all seven continents
+On every continent except Antarctica
 Default
 2
-4
+5
 0
 Default
 SPQ.7
@@ -63,39 +63,47 @@ Default
 Default
 SPQ.8
 Most grasslands are located between?
-California and New York
+Forests and Deserts
 Default
 5
-4
+3
 0
 Default
 SPQ.9
 Grasslands are generally open and fairly flat.
-rue
+True
 Default
 7
 1
 0
 Default
 SPQ.10
+What is a Safari?
+An expedition to observe animals in their natural habitat.
+what
+4
+9
+0
+Default
+SPQ.11
 The rainy season in the African savanna lasts?
-All year long
+From December to April
 Default
 8
-3
+4
 0
 Default
 SPQ.16
 The dry season in the African savanna lasts?
-All year long
+From May to November
 Default
 8
-3
+4
 0
 Default
 SPQ.17
 The African savanna remains _____ all year long.
-Cold
+Warm
 Default
 8
 1
@@ -111,13 +119,21 @@ what
 Default
 SPQ.19
 During the wet season the temperature in the savanna is about ___ degrees fahrenheit.
-98
+63
 Default
 14
 1
 1
 Default
 SPQ.20
+The Savanna is home to many different species of native plants.
+True
+Default
+11
+1
+0
+Default
+SPQ.31
 Plants must be able to withstand long periods of droughts in the Savanna in order to survive the long dry season.
 True
 Default
@@ -126,8 +142,24 @@ Default
 0
 Default
 SPQ.32
+Which trees grow in the African Savanna?
+Baobab and Manketti Trees
+Default
+7
+4
+0
+Default
+SPQ.33
+Baobab trees are very important to the African Savannas because?
+They provide shade, clean air and food for animals
+Default
+10
+9
+0
+Default
+SPQ.34
 What foods do Manketti trees provide?
-Nuts and Bolts
+Nuts and Fruits
 what
 6
 3
@@ -143,7 +175,7 @@ why
 Default
 SPQ.36
 Baobab trees store water in their trunks because?
-They have swimming pools in their trunks
+it helps them survive long dry seasons
 Default
 8
 7
@@ -158,14 +190,22 @@ Default
 0
 Default
 SPQ.38
-Acacia trees grow long, sharp thorns to discourage animals from eating its leaves.
-True
-Default
-13
-1
+African acacia trees produce chemicals for what purpose?
+To prevent animals from eating its leaves
+what
+8
+7
 0
 Default
-SPQ.38
+SPQ.39
+What two trees are very common in the African savanna?
+Baobab and Acacia trees
+what
+10
+4
+0
+Default
+SPQ.40
 Why are Baobab trees very important to human life?
 They provide people with medicine
 why
@@ -183,21 +223,29 @@ Default
 Default
 SPQ.47
 Many of Africa's rivers and lakes have dwindled over the years due to?
-Frequent Halloween holidays
+Global Warming.
 Default
 13
-3
+2
 0
 Default
 SPQ.48
 The drought causes hundreds of animals to die each year due to lack of?
-Warmth
+Water
 Default
 14
 1
 0
 Default
 SPQ.49
+Poachers are?
+People who hunt wild animals illegally.
+Default
+2
+6
+0
+Default
+PPQ.1
 Why do poachers hunt endangered animals?
 To sell them illegally.
 why
@@ -207,10 +255,10 @@ why
 Default
 PPQ.2
 The trunk of an elephant is used for?
-Flying
+Breathing and smelling
 Default
 8
-1
+3
 0
 Default
 EPQ.1
@@ -231,15 +279,15 @@ how
 Default
 EPQ.3
 How much do elephants weigh?
-130 pounds , same as a person
+6 tons, that is the same as 3 cars
 how
 5
-7
-1
+9
+2
 Default
 EPQ.4
 What is the biggest land animal in the world?
-Whales
+Elephants
 what
 9
 1
@@ -254,22 +302,54 @@ be
 0
 Default
 EPQ.6
+What name do we give to male and female Elephants?
+Bulls and Cows
+what
+10
+3
+0
+Default
+EPQ.7
+How many elephants can a female elephant lead?
+100 Elephants
+how
+8
+2
+1
+Default
+EPQ.8
 What do Elephants mothers and their babies like to do together?
-Play bingo
+They like to travel together in herds.
 what
 11
-2
+7
 0
 Default
 EPQ.9
 What type of families do elephants have?
-hat type of families do elephants have?
+ Matriarchal family, which means that the female elephants lead the herd.
 what
 7
-7
+11
 0
 Default
 EPQ.10
+How many muscles does the trunk of elephant have?
+150,000
+how
+9
+1
+0
+Default
+EPQ.11
+What kind of abilities does the trunk of an elephant have?
+Sense the size, shape and temperature of an object.
+what
+11
+9
+0
+Default
+EPQ.12
 Are elephants highly sensitive and caring animals?
 Yes
 be
@@ -278,16 +358,24 @@ be
 0
 Default
 EPQ.13
-Are elephants highly sensitive and caring animals?
-Yes
-be
-7
-1
+How do elephants display a greeting and affection?
+They hug each other by wrapping their trunks together
+how
+8
+9
 0
 Default
-EPQ.13
+EPQ.14
+How does the elephant family react whenever a baby elephant is in distress?
+It's entire family will rumble and go over to comfort it.
+when
+13
+11
+0
+Default
+EPQ.15
 These animals are very important to the African savanna because they make watering holes for other animals.
-Zebras
+Elephants
 Default
 17
 1
@@ -295,10 +383,10 @@ Default
 Default
 EPQ.16
 What do elephants often enlarge so that they can bathe and wallow in them comfortably?
-Their path
+Waterholes
 what
 15
-2
+1
 0
 Default
 EPQ.17
@@ -311,23 +399,23 @@ what
 Default
 EPQ.18
 Elephants can go up to ____ without drinking water.
-5 hours
+four days
 Default
 9
 2
-1
+0
 Default
 EPQ.19
 Elephants can usually be found near?
-Grasses
+Water sources.
 Default
 6
-1
+2
 0
 Default
 EPQ.20
 Elephants can smell water from ?
-5 miles away
+3 miles away
 Default
 6
 3
@@ -335,7 +423,7 @@ Default
 Default
 EPQ.21
 An adult elephant can drink about ________of water per day.
-1 gallon
+52 gallons
 Default
 10
 2
@@ -375,7 +463,7 @@ Default
 Default
 EPQ.34
 Elephants spend _____ a day eating.
-30 minutes
+16 hours
 Default
 6
 2
@@ -383,10 +471,10 @@ Default
 Default
 EPQ.35
 Sometimes elephants like to knock over trees when they want ?
-Friends
+More food
 when
 11
-1
+2
 0
 Default
 EPQ.36
@@ -399,10 +487,10 @@ when
 Default
 EPQ.47
 Elephants can _____almost silently.
-Eat
+Walk or run
 Default
 4
-1
+3
 0
 Default
 EPQ.48
@@ -415,7 +503,7 @@ Default
 Default
 EPQ.49
 Elephants do not posses the ability to?
-Run
+Jump
 do
 7
 1
@@ -423,10 +511,10 @@ do
 Default
 EPQ.50
 The _________has no predators due to its great size.
-American elephant
+Adult African bush elephant
 Default
 9
-2
+4
 0
 Default
 EPQ.62
@@ -447,7 +535,7 @@ Default
 Default
 EPQ.64
 _______are very healthy, as such, they do not often become a meal for predators.
-Giraffes
+Elephants
 do
 14
 1
@@ -455,7 +543,7 @@ do
 Default
 EPQ.65
 Predators, such as lions and leopards, know that ______ can kill them if they aren¡¯t careful.
-Young elephents
+Adult elephants
 Default
 16
 2
@@ -463,15 +551,15 @@ Default
 lion
 EPQ.66
 About______elephants are killed by poachers every year.
-5
+30,000
 Default
 7
 1
-1
+0
 Default
 EPQ.77
 Elephant ____ can be used to make billiards balls, piano keys, identification chops and many other items for human enjoyment.
-Skin
+ Ivory
 Default
 20
 1
@@ -479,7 +567,7 @@ Default
 Default
 EPQ.78
 Despite a ban on the international trade in ivory, _______are still being killed in large number.
-razilian elephants
+African elephants
 Default
 16
 2
@@ -487,21 +575,13 @@ Default
 Default
 EPQ.79
 Elephant ivory is often carved into ornaments and jewellery, which are usually sold to people in?
-United States
+China
 Default
 16
-2
+1
 0
 Default
 EPQ.80
-How many types of Gazelle species are there.
-19 different species
-how
-8
-3
-1
-gazelle
-GPQ.1
 What are Thomson's gazelles?
 Medium-sized antelopes found in East Africa.
 what
@@ -511,18 +591,18 @@ what
 gazelle
 GPQ.2
 What's the typical size of a Gazelle's group?
-2 Gazelles
+10 to 700 Gazelles.
 what
 8
+4
 2
-1
 gazelle
 GPQ.3
 How can Gazelles be identified ?
-They have tall legs
+They have curved and ringed horns, tan reddish-brown coats and white rumps on their body
 how
 6
-4
+15
 0
 gazelle
 GPQ.4
@@ -535,10 +615,10 @@ how
 gazelle
 GPQ.5
 How long can Gazelles live?
-Up to 5 years
+10- 15 years
 how
 5
-4
+3
 1
 gazelle
 GPQ.6
@@ -550,16 +630,8 @@ be
 0
 gazelle
 GPQ.7
-How do Gazelle react to the scarcity of water in the Savanna?
-They have water tanks that supply them with water
-how
-12
-9
-0
-gazelle
-GPQ.16
 Besides the water bodies in the Savanna, what else provides Gazelles with water?
-The birds of the Savanna
+Succulent plants and dew drops
 what
 13
 5
@@ -567,37 +639,29 @@ what
 gazelle
 GPQ.17
 Where can you find Gazelles during the dry periods of the Savanna?
-In trees, like the baobab tree
+They clump in large numbers in wadis where moisture persists
+where
+12
+10
+0
+gazelle
+GPQ.18
+Where can you find Gazelles during the wet periods of the Savanna?
+Widely scattered all over the Savanna
 where
 12
 6
 0
 gazelle
-GPQ.18
-Where can you find Gazelles during the wet periods of the Savanna?
-In groups looking for water
-where
-12
-5
-0
-gazelle
 GPQ.19
 How do Grant Gazelles conserve water during the dry season?
-They carry water in their water bottles
+They do not sweat during the hottest days of the dry season
 how
 10
-7
+12
 0
 gazelle
 GPQ.20
-What's the typical food for Gazelles ?
-Pizza
-what
-7
-1
-0
-gazelle
-GPQ. 31
 How do Gazelles reach leaves that are high in the tree branches ?
 Gazelle stand on their back legs
 how
@@ -607,31 +671,31 @@ how
 gazelle
 GPQ.32
 What type of Gazelles eat  poisonous plants that are rejected by other animals?
-Gazelles that have super powers
+Mountain Gazelles .
 what
 13
-5
+3
 0
 gazelle
 GPQ.33
 Why are Gazelles of slim, even under the most favorable conditions?
-They go to the gym
+Gazelles do not accumulate significant fat stores,
 why
 11
-5
+7
 0
 gazelle
 GPQ. 34
 How do Gazelles locate food in the African Savanna?
-They use Google Maps
+They use their strong sense of smell
 how
 9
-4
+7
 0
 gazelle
 GPQ.35
 What food plant in the Savanna do Gazelles love ?
-he Acacia
+The Acacia
 what
 10
 2
@@ -639,7 +703,7 @@ what
 gazelle
 GPQ.36
 What type of Gazelles are best adapted to hyper-arid desert conditions?
-Thomson's Gazelles
+Dorcas Gazelles
 what
 11
 2
@@ -647,21 +711,13 @@ what
 gazelle
 GPQ.37
 What is the difference between grazing and browsing?
-Grazing is the same as running and browsing is the same as jumping
+Grazing is eating grass and forbs from the ground while browsing is eating woody twigs and leaves from trees.
 what
 8
-13
+19
 0
 Default
 GPQ.38
-What strategy do gazelles use to run faster?
-The grow wings and fly
-what
-8
-5
-0
-gazelle
-GPQ.46
 What are the most unique physical features of Gazelles?
 Gazelles are really good at jumping and running
 what
@@ -671,39 +727,31 @@ what
 gazelle
 GPQ.47
 What's the maximum speed for Gazelles ?
-10 miles per hour like bicycle
+60 miles per hour like a car on the highway
 what
 7
-6
+10
 1
 gazelle
 GPQ.48
 What features do Gazelles have that help them to be agile and to escape from predators?
-Horns
+light frames
 what
 16
-1
+2
 0
 gazelle
 GPQ.49
 In terms of speed, how do Gazelles rank among the top fastest animals on the planet?
-Top 3, like a cheetah
+Top 20, number 17 to be precise
 how
 16
-5
-0
+7
+1
 gazelle
 GPQ.50
-What are the main predators for Gazelles?
-Lions, cheetahs, Leopards and humans
-what
-7
-5
-0
-gazelle
-GPQ.61
 How do female gazelles keep their calves safe from predators?
-They carry them on their shoulders
+They hide them  in tall grasses
 how
 10
 6
@@ -711,18 +759,18 @@ how
 gazelle
 GPQ.62
 Who do a gazelle warn its friends about a lurking predator?
-They wave their hand
+It flicks its tails or stomp its feet
 do
 11
-4
+8
 0
 gazelle
 GPQ.63
 What form of defense do mountain gazelles use against predation?
-Their legs
+They use horns to fight other animals
 what
 10
-2
+7
 0
 gazelle
 GPQ.64
@@ -734,32 +782,32 @@ Default
 0
 gazelle
 GPQ.65
-Who is the worst predator for gazelles?
-Lions
-Default
-7
-1
-0
-gazelle
-GPQ.76
 Why do poachers hunt gazelles?
-To make friends with them
+To get their skin, meat and trophy horns
 why
 5
-5
+8
 0
 gazelle
 GPQ.77
 The beautiful s-shaped horns of the dama gazelle can be made into ?
-Iphones
+Attractive Trophies.
 Default
 13
-1
+2
 0
 gazelle
 GPQ.78
+What is a group of zebras called?
+Zeal
+what
+7
+1
+0
+zebra
+ZPQ.1
 Zebras sleep up to ___  a day?
-1 hour
+3 hours
 Default
 7
 2
@@ -767,7 +815,7 @@ Default
 zebra
 ZPQ.2
 How long do zebras usually live for?
-5 years
+35 years
 how
 7
 2
@@ -775,31 +823,39 @@ how
 zebra
 ZPQ.3
 How many kinds of Zebras exist?
-There is only one kind of Zebras
+3 kinds
 how
 6
-7
-0
+2
+1
 zebra
 ZPQ.4
 Are zebras solitary animals ?
-Yes! Zebras like stay alone
+No! Zebras tend to stick together in small family groups within their herd. These family groups usually consist of one male, several females, and their young.
 be
 5
-5
+26
 0
 zebra
 ZPQ.5
-Are zebras solitary animals ?
-Yes! Zebras like stay alone
-be
-5
-5
+How good is the night vision for Zebras?
+They can see in the dark.
+how
+8
+6
 0
 zebra
-ZPQ.5
+ZPQ.6
+What is the name of a baby Zebra?
+Foal
+what
+8
+1
+0
+zebra
+ZPQ.7
 What animal is the closest relative to the Zebra?
-Dogs
+Horses
 what
 9
 1
@@ -807,23 +863,23 @@ what
 zebra
 ZPQ.8
 About how many unique striped can Zebras have?
-1 Stripe
+Depending on the kind, a zebra can have up to 80 unique stripes.
 how
 8
-2
+13
 1
 zebra
 ZPQ.9
 How do Zebras sleep ?
-They lay down on a good bed
+They sleep while standing up
 how
 5
-7
+5
 0
 zebra
 ZPQ.10
 What type of an animal is a zebra ?
-Reptile
+Mammal
 what
 9
 1
@@ -831,18 +887,18 @@ what
 zebra
 ZPQ.11
 The biggest threats to Zebras are ?
-he biggest threats to Zebras are ?
+habitat loss, competition for water with livestock, and hunting.
 Default
 7
-7
+9
 0
 zebra
 ZPQ.12
 When you see Zebras licking each other, it means they are?
-hen you see Zebras licking each other, it means they are?
+Grooming one another.
 when
 11
-11
+3
 0
 zebra
 ZPQ.13
@@ -863,11 +919,11 @@ Default
 Default
 ZPQ.15
 How many Zebras travel in groups to find fresh water?
-5
+Thousands
 how
 10
 1
-1
+0
 zebra
 ZPQ.27
 What do Zebras do in the dry season ?
@@ -879,15 +935,31 @@ what
 zebra
 ZPQ.28
 Do Zebras swim?
-No! Zebras can't swim.
+Yes! Zebras can swim if necessary
 do
 3
-4
+6
 0
 zebra
 ZPQ.29
+How much water do Zebras usually drink in a day?
+10 Gallons
+how
+10
+2
+1
+zebra
+ZPQ.30
+How many days can an adult Zebra survive without water ?
+5 days
+how
+11
+2
+1
+zebra
+ZPQ.31
 Zebras are always on the move in order to?
-Meet new friends
+Find fresh water.
 Default
 9
 3
@@ -895,15 +967,15 @@ Default
 zebra
 ZPQ.32
 What do Zebras use to cut off the tips of grass?
-Hands
+Front sharp teeth
 what
 11
-1
+3
 0
 zebra
 ZPQ.42
 Zebra's _________ never stops growing!
-eeth
+Teeth
 Default
 5
 1
@@ -911,39 +983,39 @@ Default
 zebra
 ZPQ.43
 Zebras can travel up to ________ in search of food
-100 miles
+1,800 miles
 Default
 10
 2
-1
+0
 zebra
 ZPQ.44
 Zebras are constantly _________ to find fresh vegetation.
-Praying
+On the move
 Default
 8
-1
+3
 0
 zebra
 ZPQ.45
 what is the typical food for Zebra?
-Pizza
+Shrubs, herbs, twigs, leaves and bark.
 what
 7
-1
+6
 0
 zebra
 ZPQ.46
 Zebras spend almost _______of their day feeding
-Less than 10%
+60-80%
 Default
 7
-3
+1
 0
 zebra
 ZPQ.47
 How often do Zebras drink water?
-Rarely
+Regularly
 how
 6
 1
@@ -951,23 +1023,15 @@ how
 zebra
 ZPQ.48
 What do Zebras eat when grass is not available?
-Hot dogs
+Bushes and shrubs
 what
 9
-2
+3
 0
 zebra
 ZPQ.49
-How much speed can Zebras reach when galloping across the plains ?
-10 miles per hour
-when
-12
-4
-1
-zebra
-ZPQ.56
 Zebras are very _______ animals?
-Short
+Fast-moving
 Default
 5
 1
@@ -991,7 +1055,7 @@ Default
 Default
 ZPQ.59
 Zebras are slower than ?
-Frogs
+Horses
 Default
 5
 1
@@ -999,10 +1063,10 @@ Default
 zebra
 ZPQ.60
 What do Zebras do when they are cornered by predators and poachers ?
-They just cry
+They rear up and kick or bite its attacker.
 what
 13
-3
+9
 0
 zebra
 ZPQ.61
@@ -1015,7 +1079,7 @@ Default
 zebra
 ZPQ.72
 Why Zebras live in groups?
-To go the movies together
+To defend themselves from predators
 why
 5
 5
@@ -1031,31 +1095,31 @@ Default
 zebra
 ZPQ.74
 Zebras are sometimes known to attack the animal that is threatening it by ____?
-Screaming to it
+Kicking and biting it
 Default
-14
-3
-0
-zebra
-ZPQ.75
-How do Zebras alert one another of the threat when they sense danger ?
-The text each other
-when
 14
 4
 0
 zebra
+ZPQ.75
+How do Zebras alert one another of the threat when they sense danger ?
+They use a high pitched snort
+when
+14
+6
+0
+zebra
 ZPQ.76
 Zebras often either confuse or simply intimidate their attacker by____?
-Changing the color of their skin
+Running away from their predator as a tight herd
 Default
 10
-6
+9
 0
 zebra
 ZPQ.77
 The ________zebra, also know as a stallion, stands its ground to face a predator while the rest of the family runs away in a zigzag fashion.
-Adult female
+Adult male
 Default
 26
 2
@@ -1071,7 +1135,7 @@ when
 zebra
 ZPQ.79
 When faced by predators, zebras form a ___?
-Pyramid
+Semicircle
 when
 8
 1
@@ -1079,10 +1143,10 @@ when
 zebra
 ZPQ.80
 Zebras ______an injured family member to protect it from further attack.
-Beat up
+Encircle
 Default
 11
-2
+1
 0
 zebra
 ZPQ.81
@@ -1095,10 +1159,10 @@ what
 zebra
 ZPQ.87
 Poachers hunt Zebras for both personal meat consumption as well as_____?
-oachers hunt Zebras for both personal meat consumption as well as_____?
+ Trade.
 Default
 11
-11
+1
 0
 zebra
 ZPQ.88
@@ -1119,7 +1183,7 @@ Default
 zebra
 ZPQ.90
 What name do we give to  group of Giraffes?
-Swarm
+Towers
 what
 9
 1
@@ -1127,15 +1191,15 @@ what
 Default
 GRFPQ.1
 Giraffes usually live in groups of _____ giraffes.
-.5
+15 or more giraffes
 Default
 8
+4
 1
-0
 Default
 GRFPQ.2
 What is the tallest animal on earth ?
-Elephants
+Giraffes
 what
 8
 1
@@ -1167,19 +1231,19 @@ Default
 Default
 GRFPQ.6
 Giraffes have a super long tongue that is____?
-iraffes have a super long tongue that is____?
+ Purple and 20 inches long
 Default
 8
-8
-0
+5
+1
 Default
 GRFPQ.7
 How long do Giraffes sleep in a day ?
-less than 2 minutes
+5 to 30 minutes
 how
 9
 4
-1
+2
 Default
 GRFPQ.8
 What name do we give to baby Giraffes?
@@ -1191,10 +1255,10 @@ what
 Default
 GRFPQ.9
 How tall is a baby Giraffe at birth?
-15 inch , like a ruler
+6 feet tall, like doorway
 how
 8
-6
+5
 1
 Default
 GRFPQ.10
@@ -1223,26 +1287,26 @@ what
 Default
 GRFPQ.13
 Giraffes usually _______while sleeping ?
-Sing
+Stay upright
 Default
 5
-1
+2
 0
 Default
 GRFPQ.14
 Giraffes are losing their homes due to ?
-Alien Invasion
+Human activities, such as, farming and tree-cutting
 Default
 8
-2
+7
 0
 Default
 GRFPQ.15
 Giraffes don't drink water very much because they get water from?
-The Safari Water Board
+All the acacia leaves they eat
 do
 11
-4
+6
 0
 Default
 GRFPQ.16
@@ -1263,7 +1327,7 @@ Default
 Default
 GRFPQ.18
 During dry times giraffes drink up to ____ of water every three days?
-10 liters
+38 liters
 Default
 13
 2
@@ -1271,11 +1335,11 @@ Default
 Default
 GRFPQ.19
 When giraffes drink water, they consume _______ of water at a time?
-1 liter
+Several gallons
 when
 12
 2
-1
+0
 Default
 GRFPQ.20
 In terms of food preferences, what type of animals are giraffes?
@@ -1287,11 +1351,11 @@ what
 Default
 GRFPQ.32
 A giraffe eat between_______ of vegetation every day?
-1 pound
+75 and 165 pounds
 Default
 8
+4
 2
-1
 Default
 GRFPQ.33
 Giraffes travel for _______ to find enough food?
@@ -1311,15 +1375,15 @@ Default
 Default
 GRFPQ.35
 Giraffe's require over ________ of food a day.
-10 pounds
+Over 75 pounds
 Default
 8
-2
+3
 1
 Default
 GRFPQ.36
 A walking giraffe might seem slow, however, it covers ______ with every step.
-1 foot
+5 feet
 how
 13
 2
@@ -1327,10 +1391,10 @@ how
 Default
 GRFPQ.47
 A gallop of a giraffe can easily outpace a _________ ?
-Cheetah
+Human or a horse
 Default
 11
-1
+4
 0
 Default
 GRFPQ.49
@@ -1343,10 +1407,10 @@ when
 Default
 GRFPQ.50
 Giraffes become vulnerable to predators when they ______ ?
-Party too much
+Spread their legs and bend down to drink water
 when
 9
-3
+9
 0
 Default
 GRFPQ.62
@@ -1367,15 +1431,15 @@ Default
 Default
 GRFPQ.64
 What is the giraffe¡¯s most powerful protective asset ?
-GPS
+A powerful kick
 what
 9
-1
+3
 0
 Default
 GRFPQ.65
 The Giraffe's population has decreased by _____  over the last 15 years due to poaching
-0 percent
+40 percent
 Default
 15
 2
@@ -1423,7 +1487,7 @@ Default
 Default
 RPQ.1
 How much do rhinos weigh ?
-100 pounds
+3000 pounds
 how
 6
 2
@@ -1439,7 +1503,7 @@ Default
 Default
 RPQ.3
 What is the other name of Rhinos?
-Raccoons
+Rhinoceros
 what
 7
 1
@@ -1463,7 +1527,7 @@ Default
 Default
 RPQ.6
 Rhinos can live up to?
-10 years
+40 years
 Default
 5
 2
@@ -1471,18 +1535,18 @@ Default
 Default
 RPQ.7
 How much do rhinos weigh?
-100 pounds
+1760-3080 pounds.
 how
 5
 2
-1
+0
 Default
 RPQ.8
 Rhinos are native to?
-America
+Africa and Asia
 Default
 4
-1
+3
 0
 Default
 RPQ.9
@@ -1495,7 +1559,7 @@ Default
 Default
 RPQ.10
 _______ can grow to over 6 feet tall and more than 11 feet in length.?
-Zebras
+Rhinos
 Default
 15
 1
@@ -1503,7 +1567,7 @@ Default
 Default
 RPQ.11
 _______ use their lips to pluck leaves and fruit from the branches?
-Lions
+Rhinos
 Default
 12
 1
@@ -1519,7 +1583,7 @@ Default
 Default
 RPQ.13
 Rhinos have poor eyesight; they will struggle to spot something further than ____ away?
-10 feet
+98 feet
 Default
 14
 2
@@ -1527,15 +1591,15 @@ Default
 Default
 RPQ.14
 Rhinos have well-developed senses of______ ?
-Touch
+olfaction (smell) and hearing.
 Default
 6
-1
+4
 0
 Default
 RPQ.15
 Rhinos have been around for __?
-less than 100 years
+Over 50 million years
 Default
 6
 4
@@ -1543,23 +1607,23 @@ Default
 Default
 RPQ.16
 What is the favorite home for rhinos ?
-DIsneyland
+Woody vegetation
 what
 8
-1
+2
 0
 Default
 RPQ.17
 A group of rhinoceros is called a?
-Swarm
+¡®Herd¡¯ or a ¡®crash¡¯.
 Default
 7
-1
+4
 0
 Default
 RPQ.18
 Which two Greek words combine to form the word Rhinoceros?
-Mtoto and Safari
+Rhino and ceros
 Default
 10
 3
@@ -1567,15 +1631,15 @@ Default
 Default
 RPQ.19
 What name do we call birds that have a close relationship with rhinos?
-Eagles
+ Oxpeckers or tick birds
 what
 13
-1
+4
 0
 Default
 RPQ.20
 The ________is the biggest of the five species, weighing up to 6,000 pounds ?
-Black Rhino
+White Rhino
 Default
 14
 2
@@ -1583,7 +1647,7 @@ Default
 Default
 RPQ.21
 The ______is the smallest of the five species, weighing up to 2,000 pounds?
-Brown Rhino
+Sumatran Rhino
 Default
 13
 2
@@ -1591,23 +1655,23 @@ Default
 Default
 RPQ.22
 Rhinos need to sleep for about ____ each day?
-2 hours
+8- 9 hours
 Default
 9
-2
+3
 1
 Default
 RPQ.23
 The _______favors wetlands and spends plenty of time in the cool water.
-Giraffe
+Indian Rhino
 Default
 12
-1
+2
 0
 Default
 RPQ.27
 _____will drink water several times a day, if it is readily available to them?
-Giraffes
+Rhinos
 Default
 14
 1
@@ -1615,15 +1679,15 @@ Default
 Default
 RPQ.28
 In areas in which water is not as readily available, the rhino can last for ______ without drinking water.
-30 minutes
+several days
 Default
 19
 2
-1
+0
 Default
 RPQ.29
 The Rhino can  survive off the moisture from the _______ it consumes
-Pizza
+Vegetation
 Default
 12
 1
@@ -1631,15 +1695,15 @@ Default
 Default
 RPQ.30
 During ______,  rhinos often travel farther than normal to find water, extending their territories to 20 square kilometers
-Wet seasons
+During dry seasons
 Default
 18
-2
+3
 0
 Default
 RPQ.31
 Rhinos spend their days and nights ____?
-Sleeping
+Grazing
 Default
 7
 1
@@ -1647,23 +1711,23 @@ Default
 Default
 RPQ.42
 During the rare times when they aren't eating, they can be found enjoying a____?
-Shower
+Cooling mud soak
 when
 14
-1
+3
 0
 Default
 RPQ.43
 Rhinos love to eat plants. Sometimes they dig up some _____using their horns?
-Mangoes
+Edible roots
 Default
 13
-1
+2
 0
 Default
 RPQ.44
 Rhino's_____have different shapes, as such, they accommodate different types of food?
-Stomachs
+Snouts
 Default
 11
 1
@@ -1671,10 +1735,10 @@ Default
 Default
 RPQ.45
 The ______eats trees or bushes because its long lips allow it to pick leaves and fruit from up high.
-Rabbit
+Black rhino
 Default
 19
-1
+2
 0
 Default
 RPQ.46
@@ -1687,7 +1751,7 @@ Default
 Default
 RPQ.47
 ______are known to eat a wide variety of different fruits, stems, twigs, grasses and leaves?
-Lions
+Rhinos
 Default
 15
 1
@@ -1703,7 +1767,7 @@ Default
 Default
 RPQ.49
 When attacking, the rhino lowers its head, snorts and breaks into a gallop reaching speeds of ____ an hour?
-10 miles
+30 miles
 when
 19
 2
@@ -1719,7 +1783,7 @@ Default
 Default
 RPQ.58
 When a ____ feels it is in danger, it charges full-speed at the object of its fear
-Zebra
+Rhino
 when
 17
 1
@@ -1727,23 +1791,23 @@ when
 Default
 RPQ.59
 Rhinos_____ powerful blows with its horns?
-Takes
+ Gores or strikes
 Default
 6
-1
+3
 0
 Default
 RPQ.72
 Black rhinos use the bigger of the two horns on their noses as _______ ?
-Anchors
+Weapons in a fight.
 Default
 15
-1
+4
 0
 Default
 RPQ.73
 ________also use their horns to protect their babies from predators such as lions, crocodiles, and hyenas.
-Young rhinos
+Female rhinos
 Default
 16
 2
@@ -1751,7 +1815,7 @@ Default
 lion
 RPQ.74
 If necessary, the _____will run into and ram a predator that fails to seek cover.
-Lion
+Rhino
 Default
 15
 1
@@ -1759,10 +1823,10 @@ Default
 Default
 RPQ.75
 _________from the horn of a rhino can be deadly.
-A kick
+A piercing jab
 Default
 9
-2
+3
 0
 Default
 RPQ.76
@@ -1775,18 +1839,18 @@ Default
 Default
 RPQ.87
 The rhino's horn is highly valued in __?
-Africa
+China and Vietnam.
 Default
 8
-1
+3
 0
 Default
 RPQ.88
 The horns of a Rhino are used to make _____to treat fevers and cardiovascular disease
-he horns of a Rhino are used to make _____to treat fevers and cardiovascular disease
+Ornaments and traditional Asian medicine
 Default
 15
-15
+5
 0
 Default
 RPQ.89
@@ -1807,10 +1871,10 @@ Default
 Default
 RPQ.91
 Rhino's horns are sometimes sold as ________ ?
-Shoes
+Trophies, decorations and status symbols
 Default
 8
-1
+5
 0
 Default
 RPQ.92
@@ -1847,7 +1911,7 @@ Default
 Default
 RPQ.96
 When a _____ catches the scent of a human or anything else unfamiliar, it is likely to charge?
-Zebra
+Rhino
 when
 18
 1
@@ -1903,7 +1967,7 @@ do
 lion
 LPQ.6
 Lions sometimes sleep up to _____a day
-30 minutes
+20 hours
 Default
 7
 2
@@ -1911,15 +1975,15 @@ Default
 lion
 LPQ.7
 On average, lions live up to ?
-2 years
+10-16 years.
 Default
 7
 2
-1
+0
 lion
 LPQ.8
 How long are the teeth of a lion?
-2 centimeters
+10 centimeters
 how
 8
 2
@@ -1943,11 +2007,11 @@ Default
 Default
 LPQ.11
 Lions can weigh from anywhere from?
-10- 20 pounds
+265 - 420 pounds
 where
 6
-3
-1
+4
+2
 lion
 LPQ.12
 The African lion is_______ long from its head to its rump?
@@ -1967,31 +2031,31 @@ do
 Default
 LPQ.14
 Lions are related to _______ ?
-Cheetahs
+ leopards, tigers and jaguars.
 Default
 6
-1
+4
 0
 lion
 LPQ.15
 Lions _____to get the attention of other animals and humans?
-Clap hands
+Roar
 Default
 10
-2
+1
 0
 lion
 LPQ.16
 An adult lion's roar can be heard up to ______away?
-n adult lion's roar can be heard up to ______away?
+5 miles
 Default
 10
-10
-0
+2
+1
 lion
 LPQ.17
 Unlike other cats, _______ have a tuft of hair at the end of their tails?
-Gazelles
+Lions
 Default
 15
 1
@@ -1999,7 +2063,7 @@ Default
 Default
 LPQ.18
 The increasing spread of _______has reduced the lion¡¯s habitat
-Internet
+Farmlands
 Default
 9
 1
@@ -2007,7 +2071,7 @@ Default
 lion
 LPQ.19
 Female lions require at least _____ of meat per day.
-2 pounds
+11 pounds
 Default
 10
 2
@@ -2015,7 +2079,7 @@ Default
 lion
 LPQ.42
 Male lions require at least ____ of meat per day.
-5 pounds
+15 pounds
 Default
 10
 2
@@ -2023,10 +2087,10 @@ Default
 lion
 LPQ.43
 Lions hunt large animals such as _____.
-Cheetahs
+ Zebra and Wildebeest
 Default
 7
-1
+3
 0
 lion
 LPQ.44
@@ -2039,23 +2103,15 @@ Default
 zebra
 LPQ.45
 _______use their powerful jaws to snap the prey's neck or to strangle it to death.
-Cheetahs
+ Lions
 Default
 15
 1
 0
 Default
 LPQ.46
-Lions can run at speeds of up to _____per hour?
-10 miles
-Default
-10
-2
-1
-lion
-LPQ.56
 Lions can leap as far as __?
-10 feet
+36 feet.
 Default
 7
 2
@@ -2063,31 +2119,23 @@ Default
 lion
 LPQ.57
 ________have to be close to their prey before starting the attack?
-Zebras
+Lions
 Default
 11
 1
 0
 Default
 LPQ.72
-Lions are part of "The Big Five" which are the 5_______ animals to hunt in Africa.?
-Toughest
-Default
-16
-1
-0
-lion
-LPQ. 86
 Lions may attack________ at any time without any provocation. ?
-ions may attack________ at any time without any provocation. ?
+ Poachers
 Default
 10
-10
+1
 0
 lion
 LPQ.87
 At the current rate of  _____, Lions could go extinct by the year 2050. ?
-Wifi
+Hunting
 Default
 15
 1
@@ -2095,7 +2143,7 @@ Default
 lion
 LPQ.88
 Lion bones are often crushed and used to make ?
-Shoes
+Medicine
 Default
 10
 1
@@ -2103,39 +2151,39 @@ Default
 lion
 LPQ.89
 The lion population has been reduced to________ in just 100 years
-5000
+ 23,000
 Default
 11
 1
-1
+0
 lion
 LPQ.90
 ______ is the leading importer of lions and lion parts for commercial and recreational ?
-China
+The United States
 Default
 15
-1
+3
 0
 lion
 LPQ.91
 The _____ is heading toward extinction, and yet Americans continue to kill lions for sport.
-he _____ is heading toward extinction, and yet Americans continue to kill lions for sport.
+The king of the jungle
 Default
 15
-15
+5
 0
 lion
 LPQ.92
 Over the past two decades, the number of_______ has been cut almost in half by retaliatory killings
-Rabbits
+African lions
 Default
 17
-1
+2
 0
 Default
 LPQ.93
 Fewer than _____ adult lions may be left in West Africa.
-6000
+250
 Default
 11
 1
@@ -2143,7 +2191,7 @@ Default
 lion
 LPQ.94
 Without dramatic conservation efforts, three of the four West African lion populations could become extinct in the next ____?
-20 years
+5 years
 Default
 19
 2
@@ -2151,11 +2199,11 @@ Default
 lion
 LPQ.95
 The population of African lions has dropped by ____ over the past two decades?
-2 %
+30%
 Default
 14
-2
 1
+0
 lion
 LPQ.96
 The average lifespan of a leopard is _?
@@ -2167,7 +2215,7 @@ Default
 leopard
 LPPQ.2
 _________are skilled climbers, they sleep in trees during the day?
-Lions
+Leopards
 Default
 10
 1
@@ -2175,15 +2223,15 @@ Default
 Default
 LPPQ.3
 Leopards live near __?
-Pools
+ Tigers, Lions, and Hyenas.
 Default
 4
-1
+4
 0
 leopard
 LPPQ.4
 What is the name of a baby leopard?
-Calf
+Cub
 what
 8
 1
@@ -2191,27 +2239,27 @@ what
 leopard
 LPPQ.5
 How much do male leopards weigh?
-2 - 5 pounds
+82-198 pounds
 how
 6
-4
 2
+0
 leopard
 LPPQ.6
 How much do female leopards weigh?
-2- 10 pounds
+62-132 pounds.
 how
 6
-3
-1
+2
+0
 leopard
 LPPQ.7
 Cubs are born in litters of__?
-10 cubs
+ 2-4 cubs.
 Default
 6
 2
-1
+0
 Default
 LPQQ.8
 Female leopards can have cubs___?
@@ -2223,15 +2271,15 @@ Default
 leopard
 LPPQ.9
 When it comes to hearing, how are leopards better than human beings?
-They dance better than humans
+They can hear 5 times better than humans
 when
 12
-5
-0
+8
+1
 leopard
 LPPQ.10
 Leopards are nocturnal animals, meaning that they __?
-Live in the water
+Are active at night.
 Default
 8
 4
@@ -2239,7 +2287,7 @@ Default
 leopard
 LPPQ.11
 Leopards are ____ animals, they prefer to live alone?
-Nocturnal
+Solitary
 Default
 9
 1
@@ -2247,7 +2295,7 @@ Default
 leopard
 LPPQ.12
 The snow Leopard are able to leap up to_?
-5 feet
+ 50 feet.
 Default
 9
 2
@@ -2255,7 +2303,7 @@ Default
 leopard
 LPPQ.13
 Leopards are the _____ cats among the 5 big cats?
-Laziest
+Strongest
 Default
 10
 1
@@ -2263,15 +2311,15 @@ Default
 leopard
 LPPQ.14
 Leopard are extremely difficult to _________in the wild?
-Dance with
+Trace and locate
 Default
 8
-2
+3
 0
 leopard
 LPPQ.17
 Leopards tend to have distinctive dark spots called________ ?
-Osciscones
+ Rosettes
 Default
 9
 1
@@ -2279,7 +2327,7 @@ Default
 leopard
 LPPQ.18
 The_________ is the most elusive and secretive of the large felids (cats).
-Lion
+Leopard
 Default
 12
 1
@@ -2295,7 +2343,7 @@ Default
 leopard
 LPPQ.20
 The ______ is very adaptable and can live in many different places across the globe?
-Lion
+ Leopard
 Default
 15
 1
@@ -2303,23 +2351,23 @@ Default
 Default
 LPPQ.21
 Sometimes leopards can attack ______ when they are close to human populations
-Cheetahs
+Livestock and people
 when
 12
-1
+3
 0
 leopard
 LPPQ.22
 The ______hides her cubs and moves them from one safe location to the next until they are old enough to begin playing and learning to hunt.
-he ______hides her cubs and moves them from one safe location to the next until they are old enough to begin playing and learning to hunt.
+Mother leopard
 Default
 26
-26
+2
 0
 Default
 LPPQ.23
 Zebra survive from the moisture they get from eating their ?
-Stripes
+Prey
 Default
 11
 1
@@ -2327,23 +2375,23 @@ Default
 zebra
 LPPQ.27
 Leopards are very strong________ ?
-Fire fighters
+swimmers
 Default
 5
-2
+1
 0
 leopard
 LPPQ.28
 When Leopards want food, they follow other animals to hunt, this is called____?
-Zooming
+ Stalking prey.
 when
 13
-1
+2
 0
 leopard
 LPPQ.42
 Leopards are called ______ because they eat meat.
-Herbivores
+Carnivores
 Default
 8
 1
@@ -2351,7 +2399,7 @@ Default
 leopard
 LPPQ.43
 What time do leopards like to hunt?
-t night
+At night
 what
 7
 2
@@ -2375,15 +2423,15 @@ Default
 leopard
 LPPQ.46
 Leopards can also eat ?
-Mice
+Fish and crabs
 Default
 5
-1
+3
 0
 leopard
 LPPQ.47
 Leopards will  growl when angry and ____when content?
-Sing
+Purr
 when
 8
 1
@@ -2399,7 +2447,7 @@ Default
 leopard
 LPPQ.49
 Leopards usually travel _?
-t night
+At night
 Default
 4
 2
@@ -2407,7 +2455,7 @@ Default
 leopard
 LPPQ.57
 How do Leopards generally travel in the Safari?
-In groups with other Leopards
+They like to travel alone
 how
 8
 5
@@ -2415,7 +2463,7 @@ how
 leopard
 LPPQ.58
 How fast can leopards run?
-10 miles per hour
+36 miles per hour
 how
 5
 4
@@ -2423,18 +2471,18 @@ how
 leopard
 LPPQ.59
 How do people use a leopard's soft fur?
-To build jets
+To make coats and ceremonial robes
 how
 8
-3
+6
 0
 leopard
 LPPQ.77
 Some people believe that the_____ of leopards can heal sick people.
-Stripes
+Bones and Whiskers
 Default
 11
-1
+3
 0
 leopard
 LPPQ.78
@@ -2446,16 +2494,32 @@ do
 1
 cheetah
 CPQ.2
+How many spots does a cheetah have?
+3000 spots
+how
+7
+2
+1
+cheetah
+CPQ.3
+A cheetah is a large spotted ___?
+Cat.
+Default
+7
+1
+0
+cheetah
+CPQ.4
 Cheetahs live in __?
-India
+Africa and Asia.
 Default
 4
-1
+3
 0
 cheetah
 CPQ.5
 __________purr, hiss and growl?
-Lions
+Cheetahs
 Default
 4
 1
@@ -2471,7 +2535,7 @@ how
 cheetah
 CPQ.7
 How long do cheetahs generally live?
-1 year
+12 years
 how
 6
 2
@@ -2479,63 +2543,71 @@ how
 cheetah
 CPQ.8
 How much do cheetahs weigh?
-20 pounds
+84-145 pounds.
 how
 5
 2
-1
+0
 cheetah
 CPQ.9
 How long are cheetahs?
-2 feet
+6-7 feet
 how
 4
 2
-1
+0
 cheetah
 CPQ.10
 Where do cheetahs like to sleep?
-In water
+In the shade
 where
 6
-2
+3
 0
 cheetah
 CPQ.11
 How many hours a day do cheetahs sleep?
-2 hours per day
+16 -18 hours per day
 how
 8
-4
+5
 1
 cheetah
 CPQ.12
 Do cheetahs roar?
-Yes ! Cheetahs can roar very loudly
+No! Cheetahs cannot roar
 do
 3
-7
+4
 0
 cheetah
 CPQ.13
-Do cheetahs roar?
-Yes ! Cheetahs can roar very loudly
+Do cheetahs have night vision?
+No! Cheetahs do not have night vision and do not see well at night.
 do
-3
-7
+5
+14
 0
 cheetah
-CPQ.13
+CPQ.14
+Can cheetahs climb trees?
+No! Cheetahs cannot climb trees. Its very hard for them
+Default
+4
+10
+0
+cheetah
+CPQ.15
 Cheetahs can have ___?
-6 cubs
+2-4 cubs.
 Default
 4
 2
-1
+0
 cheetah
 CPQ.16
 ______have tan with black spots?
-Lions
+Cheetahs
 Default
 5
 1
@@ -2567,7 +2639,7 @@ Default
 cheetah
 CPQ.20
 Where do cheetahs live?
-Nests
+Dens
 where
 4
 1
@@ -2583,31 +2655,23 @@ Default
 cheetah
 CPQ.22
 How far can cheetahs see?
-Less than 0.5 miles away.
+Over 3 miles away
 how
 5
-5
-0
+4
+1
 cheetah
 CPQ.23
 Cheetahs have ______small teeth.
-14
+30
 Default
 4
 1
 1
 cheetah
 CPQ.24
-Cheetahs only need to drink water every ?
-30 minutes
-Default
-8
-2
-1
-cheetah
-CPQ.26
 Cheetahs don't like to ___?
-Jump
+Swim
 do
 5
 1
@@ -2623,10 +2687,10 @@ Default
 cheetah
 CPQ.42
 Cheetahs eat _______
-Shroots
+Other animals.
 Default
 3
-1
+2
 0
 cheetah
 CPQ.43
@@ -2639,7 +2703,7 @@ Default
 gazelle
 CPQ.44
 Cheetahs mainly like to eat _____?
-Lions
+Gazelles
 Default
 6
 1
@@ -2647,7 +2711,7 @@ Default
 cheetah
 CPQ.45
 Cheetah's cubs learn how to hunt from their ______
-Fathers
+Mothers
 how
 9
 1
@@ -2655,7 +2719,7 @@ how
 cheetah
 CPQ.46
 ______are the fastest land animals?
-Lions
+Cheetahs
 Default
 5
 1
@@ -2663,10 +2727,10 @@ Default
 Default
 CPQ.57
 How does a cheetah use its tail?
-To dance to some good African music
+To change directions
 how
 7
-7
+3
 0
 cheetah
 CPQ.58
@@ -2687,15 +2751,15 @@ how
 cheetah
 CPQ.60
 How many feet per second can a cheetah run?
-5 feet in a second
+20-25 feet in a second
 how
 9
 5
-1
+0
 cheetah
 CPQ.61
 ________ have a very flexible spine?
-Lions
+Cheetahs
 Default
 6
 1
@@ -2703,29 +2767,21 @@ Default
 Default
 CPQ.62
 A sprinting cheetah can reach a speed of 45 miles per hour within___?
-1 second
+ 2.5 seconds.
 Default
 13
 2
-1
+0
 cheetah
 CPQ.63
 A cheetah's ____ help it camouflage into the grassy surrounding.
-Horns
+Spots
 Default
 10
 1
 0
 cheetah
 CPQ.72
-Cheetahs are hunted and poached for their____.
- Fur and claws
-Default
-7
-3
-0
-cheetah
-CPQ.86
 A big threat to cheetahs is the high demand of cubs as___.
  Pets
 Default
@@ -2734,12 +2790,20 @@ Default
 0
 cheetah
 CPQ.88
+Up to how many miles can you hear hyenas laugh?
+3 miles
+how
+10
+2
+1
+Default
+HPQ.1
 How long is Hyena's tail?
-About an 10 inches
+About half a meter, which is about the length your whole arm!
 how
 5
-4
-1
+12
+0
 Default
 HPQ.2
 How many members can hyenas have in a group?
@@ -2751,10 +2815,10 @@ how
 Default
 HPQ.3
 What animals are similar to hyenas?
-Crocodile's
+Dogs and Wolfs
 what
 6
-1
+3
 0
 Default
 HPQ.4
@@ -2767,10 +2831,10 @@ what
 Default
 HPQ.5
 How are female hyenas more unique than male hyenas?
-They sing better than male hyenas
+They are more powerful than male hyenas
 how
 9
-6
+7
 0
 Default
 HPQ.6
@@ -2782,11 +2846,11 @@ be
 0
 Default
 HPQ.7
-Hyenas laugh because?
-They are very ticklish
+Hyenas are in the their own species called?
+ The Hyaenidae.
 Default
-3
-4
+8
+2
 0
 Default
-HPQ.31
+HPQ.8
